@@ -39,11 +39,20 @@ INDEX_ITEM_RE = re.compile(
 )
 
 # De titel van een artikel staat in een gekleurde balk (bg-blue voor nieuws,
-# bg-red voor sport). We pakken de gele tekst binnen die balk.
+# bg-red voor sport). Tekstkleur varieert: yellow voor de meeste pagina's,
+# geen kleur (= wit) voor speciale lay-outs zoals WK-pagina's. We matchen
+# elke span met die achtergrond en filteren later lege/PUA-only resultaten.
 TITLE_RE = re.compile(
-    r'<span class="yellow bg-(?:blue|red)\s*"[^>]*>([^<]+)</span>',
+    r'<span class="[^"]*bg-(?:blue|red)[^"]*"[^>]*>([^<]+)</span>',
     re.DOTALL,
 )
+
+# Lijnen die alleen een jaartal bevatten (bv. "2026" uit de WK-banner).
+YEAR_ONLY_RE = re.compile(r"^\d{4}\s*$")
+
+# Cross-reference voetregels zoals "speelschema groep met Oranje op 819"
+# of "stand van zaken groep A2 op 847". Eindigen op " op <paginanummer>".
+CROSSREF_RE = re.compile(r"\bop\s+\d{3,4}\s*$")
 
 # Sectienamen uit de teletekst-navigatie. Regels die alleen uit deze woorden
 # bestaan, zijn de navigatiebalk onderaan de pagina.
@@ -97,8 +106,14 @@ def parse_article(data: dict) -> tuple[str, list[str]]:
     """Geeft (titel, alinea's) terug uit een sub-pagina."""
     raw = data["content"]
 
-    title_match = TITLE_RE.search(raw)
-    title = clean(title_match.group(1)).rstrip(".").strip() if title_match else ""
+    # Pak de eerste bg-blue/bg-red span met substantiële tekst (lege of
+    # PUA-only spans en korte rest-tekens overslaan).
+    title = ""
+    for m in TITLE_RE.finditer(raw):
+        candidate = clean(m.group(1)).rstrip(".").strip()
+        if len(candidate) >= 3:
+            title = candidate
+            break
 
     text = TAG_RE.sub("", raw)
     text = html.unescape(text)
@@ -113,6 +128,10 @@ def parse_article(data: dict) -> tuple[str, list[str]]:
         if re.match(r"^NOS Teletekst\s+\d+\s*$", l):
             return True
         if SECTION_HEADER_RE.match(l):
+            return True
+        if YEAR_ONLY_RE.match(l):
+            return True
+        if CROSSREF_RE.search(l):
             return True
         words = l.lower().split()
         if words and all(w in NAV_WORDS for w in words):
