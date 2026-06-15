@@ -47,8 +47,15 @@ TITLE_RE = re.compile(
     re.DOTALL,
 )
 
-# Lijnen die alleen een jaartal bevatten (bv. "2026" uit de WK-banner).
-YEAR_ONLY_RE = re.compile(r"^\d{4}\s*$")
+# Banner-/indicatorregels die geen inhoud zijn:
+#  - "2026"        : jaartal uit de WK-banner
+#  - "2026 1/3"    : jaartal + subpagina-aanduiding
+#  - "1/3" / "3/3" : losse subpagina-aanduiding
+BANNER_RE = re.compile(r"^\d{4}(\s+\d+\s*/\s*\d+)?\s*$")
+SUBPAGE_INDICATOR_RE = re.compile(r"^\d+\s*/\s*\d+\s*$")
+
+# Maximaal aantal subpagina's dat we volgen (veiligheidslimiet tegen lussen).
+MAX_SUBPAGES = 8
 
 # Cross-reference voetregels zoals "speelschema groep met Oranje op 819"
 # of "stand van zaken groep A2 op 847". Eindigen op " op <paginanummer>".
@@ -102,59 +109,55 @@ def parse_index(data: dict) -> list[tuple[str, str]]:
     return items
 
 
-def parse_article(data: dict) -> tuple[str, list[str]]:
-    """Geeft (titel, alinea's) terug uit een sub-pagina."""
-    raw = data["content"]
-
-    # Pak de eerste bg-blue/bg-red span met substantiële tekst (lege of
-    # PUA-only spans en korte rest-tekens overslaan).
-    title = ""
+def extract_title(raw: str) -> str:
+    """Pak de titel uit de gekleurde balk (bg-blue/bg-red) van een (sub)pagina."""
     for m in TITLE_RE.finditer(raw):
         candidate = clean(m.group(1)).rstrip(".").strip()
         if len(candidate) >= 3:
-            title = candidate
-            break
+            return candidate
+    return ""
 
+
+def _is_junk(line: str) -> bool:
+    """True voor regels die geen artikelinhoud zijn (kop, banner, navigatie)."""
+    if not line:
+        return False  # lege regels behouden voor alinea-detectie
+    if re.match(r"^NOS Teletekst\s+\d+\s*$", line):
+        return True
+    if SECTION_HEADER_RE.match(line):
+        return True
+    if BANNER_RE.match(line):
+        return True
+    if SUBPAGE_INDICATOR_RE.match(line):
+        return True
+    if CROSSREF_RE.search(line):
+        return True
+    words = line.lower().split()
+    if words and all(w in NAV_WORDS for w in words):
+        return True
+    return False
+
+
+def extract_body_lines(raw: str, page_title: str) -> list[str]:
+    """Geef de schone tekstregels van één (sub)pagina (lege regels behouden)."""
     text = TAG_RE.sub("", raw)
     text = html.unescape(text)
     text = PUA_RE.sub("", text)
 
-    # Behoud lege regels — die markeren alinea-grenzen in teletekst.
     lines = [WS_RE.sub(" ", line).strip() for line in text.split("\n")]
-
-    def is_junk(l: str) -> bool:
-        if not l:
-            return False
-        if re.match(r"^NOS Teletekst\s+\d+\s*$", l):
-            return True
-        if SECTION_HEADER_RE.match(l):
-            return True
-        if YEAR_ONLY_RE.match(l):
-            return True
-        if CROSSREF_RE.search(l):
-            return True
-        words = l.lower().split()
-        if words and all(w in NAV_WORDS for w in words):
-            return True
-        return False
-
-    lines = [l for l in lines if not is_junk(l)]
-    if title:
-        lines = [l for l in lines if l != title and not l.startswith(title)]
+    lines = [l for l in lines if not _is_junk(l)]
+    if page_title:
+        lines = [l for l in lines if l != page_title and not l.startswith(page_title)]
 
     while lines and not lines[0]:
         lines.pop(0)
     while lines and not lines[-1]:
         lines.pop()
+    return lines
 
-    if not lines:
-        return normalize_punctuation(title), []
 
-    if not title:
-        title = lines[0].rstrip(".").strip()
-        lines = lines[1:]
-
-    # Groepeer regels in alinea's; lege regels = alineagrens.
+def _lines_to_paragraphs(lines: list[str]) -> list[str]:
+    """Groepeer regels in alinea's; lege regels markeren een alineagrens."""
     paragraphs: list[str] = []
     current: list[str] = []
     for l in lines:
@@ -165,8 +168,77 @@ def parse_article(data: dict) -> tuple[str, list[str]]:
             current = []
     if current:
         paragraphs.append(" ".join(current))
+    return [normalize_punctuation(p).strip() for p in paragraphs if p.strip()]
 
-    paragraphs = [normalize_punctuation(p).strip() for p in paragraphs if p.strip()]
+
+def fetch_subpages(page: str) -> list[dict]:
+    """Volg de nextSubPage-keten en geef de inhoud van alle subpagina's terug."""
+    pages: list[dict] = []
+    current = page
+    visited: set[str] = set()
+    for _ in range(MAX_SUBPAGES):
+        if not current or current in visited:
+            break
+        visited.add(current)
+        if pages:  # niet pauzeren vóór de allereerste request van dit artikel
+            time.sleep(REQUEST_PAUSE)
+        data = fetch_page(current)
+        pages.append(data)
+        current = (data.get("nextSubPage") or "").strip()
+    return pages
+
+
+def build_article(page: str) -> tuple[str, list[str]]:
+    """Haal een artikel op (incl. alle subpagina's) en geef (titel, alinea's).
+
+    Subpagina's worden achter elkaar geplakt. Teletekst markeert tekst die op
+    de volgende pagina doorloopt met '...'; die markering gebruiken we om te
+    bepalen of een alinea doorloopt of dat er een nieuwe alinea begint.
+    """
+    pages = fetch_subpages(page)
+    if not pages:
+        return "", []
+
+    title = extract_title(pages[0]["content"])
+
+    combined: list[str] = []
+    prev_continues = False
+    n = len(pages)
+    for i, data in enumerate(pages):
+        raw = data["content"]
+        page_title = extract_title(raw)
+        lines = extract_body_lines(raw, page_title)
+
+        # '...' aan begin/eind markeert doorlopende tekst tussen subpagina's.
+        starts_cont = False
+        if i > 0 and lines:
+            stripped = re.sub(r"^\.{2,}\s*", "", lines[0]).strip()
+            starts_cont = stripped != lines[0]
+            lines[0] = stripped
+            if not lines[0]:
+                lines.pop(0)
+
+        ends_cont = False
+        if i < n - 1 and lines:
+            stripped = re.sub(r"\s*\.{2,}$", "", lines[-1]).strip()
+            ends_cont = stripped != lines[-1]
+            lines[-1] = stripped
+            if not lines[-1]:
+                lines.pop()
+
+        if not lines:
+            prev_continues = prev_continues or ends_cont
+            continue
+
+        if combined:
+            if prev_continues or starts_cont:
+                pass  # zelfde alinea voortzetten: geen lege regel ertussen
+            else:
+                combined.append("")  # nieuwe alinea
+        combined.extend(lines)
+        prev_continues = ends_cont
+
+    paragraphs = _lines_to_paragraphs(combined)
     return normalize_punctuation(title), paragraphs
 
 
@@ -245,11 +317,10 @@ def main() -> int:
     for page, headline_fallback in headlines:
         time.sleep(REQUEST_PAUSE)
         try:
-            article_data = fetch_page(page)
+            title, body = build_article(page)
         except urllib.error.URLError as e:
             print(f"  Pagina {page} overgeslagen ({e})", file=sys.stderr)
             continue
-        title, body = parse_article(article_data)
         if not title:
             title = headline_fallback
         if not body:
