@@ -47,11 +47,9 @@ TITLE_RE = re.compile(
     re.DOTALL,
 )
 
-# Banner-/indicatorregels die geen inhoud zijn:
-#  - "2026"        : jaartal uit de WK-banner
-#  - "2026 1/3"    : jaartal + subpagina-aanduiding
-#  - "1/3" / "3/3" : losse subpagina-aanduiding
-BANNER_RE = re.compile(r"^\d{4}(\s+\d+\s*/\s*\d+)?\s*$")
+# Losse subpagina-aanduiding zoals "1/3" of "3/3". Nodig voor subpagina's
+# zonder titelbalk (bv. statistiekpagina's), waar de masthead niet wordt
+# weggeknipt.
 SUBPAGE_INDICATOR_RE = re.compile(r"^\d+\s*/\s*\d+\s*$")
 
 # Maximaal aantal subpagina's dat we volgen (veiligheidslimiet tegen lussen).
@@ -68,10 +66,6 @@ NAV_WORDS = {
     "weer", "economie", "uitleg", "regio", "cultuur", "media", "tv",
     "wetenschap", "tech", "gezondheid", "opinie",
 }
-
-# Sectie-koptekst-patroon: "OETBAL 1/3" of "INNENLAND 2/4" (eerste letter is
-# door teletekst als PUA-blokgrafiek weergegeven en wordt eruit gestript).
-SECTION_HEADER_RE = re.compile(r"^[A-Z]+\s+\d+/\d+\s*$")
 
 
 def fetch_page(page: str) -> dict:
@@ -109,45 +103,58 @@ def parse_index(data: dict) -> list[tuple[str, str]]:
     return items
 
 
-def extract_title(raw: str) -> str:
-    """Pak de titel uit de gekleurde balk (bg-blue/bg-red) van een (sub)pagina."""
+def find_title_match(raw: str) -> "re.Match | None":
+    """Vind de titelbalk (eerste gekleurde balk met substantiële tekst)."""
     for m in TITLE_RE.finditer(raw):
         candidate = clean(m.group(1)).rstrip(".").strip()
         if len(candidate) >= 3:
-            return candidate
-    return ""
+            return m
+    return None
 
 
-def _is_junk(line: str) -> bool:
-    """True voor regels die geen artikelinhoud zijn (kop, banner, navigatie)."""
+def extract_title(raw: str) -> str:
+    """Pak de titel uit de gekleurde balk (bg-blue/bg-red) van een (sub)pagina."""
+    m = find_title_match(raw)
+    return clean(m.group(1)).rstrip(".").strip() if m else ""
+
+
+def _is_junk(line: str, nav_words: set) -> bool:
+    """True voor regels die geen artikelinhoud zijn (restkop, indicator, navigatie).
+
+    De volledige masthead (logo, sectienaam, banner) wordt al weggeknipt door
+    alles vóór de titelbalk te negeren; deze functie is een vangnet voor de
+    voettekst en voor pagina's zonder titelbalk (bv. statistiek-subpagina's).
+    """
     if not line:
         return False  # lege regels behouden voor alinea-detectie
     if re.match(r"^NOS Teletekst\s+\d+\s*$", line):
-        return True
-    if SECTION_HEADER_RE.match(line):
-        return True
-    if BANNER_RE.match(line):
         return True
     if SUBPAGE_INDICATOR_RE.match(line):
         return True
     if CROSSREF_RE.search(line):
         return True
     words = line.lower().split()
-    if words and all(w in NAV_WORDS for w in words):
+    if words and all(w in nav_words for w in words):
         return True
     return False
 
 
-def extract_body_lines(raw: str, page_title: str) -> list[str]:
-    """Geef de schone tekstregels van één (sub)pagina (lege regels behouden)."""
-    text = TAG_RE.sub("", raw)
+def extract_body_lines(raw: str, nav_words: set) -> list[str]:
+    """Geef de schone tekstregels van één (sub)pagina (lege regels behouden).
+
+    Alles vóór de titelbalk is masthead (kop, logo, sectienaam, banner) en
+    wordt weggeknipt. Zo verdwijnen afgekapte sectienamen als 'LGEMEEN' of
+    'OETBAL' structureel, zonder per geval een filter te hoeven toevoegen.
+    """
+    title_match = find_title_match(raw)
+    body_raw = raw[title_match.end():] if title_match else raw
+
+    text = TAG_RE.sub("", body_raw)
     text = html.unescape(text)
     text = PUA_RE.sub("", text)
 
     lines = [WS_RE.sub(" ", line).strip() for line in text.split("\n")]
-    lines = [l for l in lines if not _is_junk(l)]
-    if page_title:
-        lines = [l for l in lines if l != page_title and not l.startswith(page_title)]
+    lines = [l for l in lines if not _is_junk(l, nav_words)]
 
     while lines and not lines[0]:
         lines.pop(0)
@@ -201,13 +208,22 @@ def build_article(page: str) -> tuple[str, list[str]]:
 
     title = extract_title(pages[0]["content"])
 
+    # Navigatiewoorden onderaan de pagina komen uit de JSON zelf (fastTextLinks),
+    # aangevuld met een vaste lijst. Zo herkennen we de voettekst ook als er een
+    # ongebruikelijke sectienaam tussen staat.
+    nav_words = set(NAV_WORDS)
+    for data in pages:
+        for link in data.get("fastTextLinks", []):
+            title_text = (link.get("title") or "").strip().lower()
+            if title_text:
+                nav_words.add(title_text)
+
     combined: list[str] = []
     prev_continues = False
     n = len(pages)
     for i, data in enumerate(pages):
         raw = data["content"]
-        page_title = extract_title(raw)
-        lines = extract_body_lines(raw, page_title)
+        lines = extract_body_lines(raw, nav_words)
 
         # '...' aan begin/eind markeert doorlopende tekst tussen subpagina's.
         starts_cont = False
