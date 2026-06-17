@@ -5,7 +5,14 @@
   <link>https://nos.nl/teletekst#101</link>
   <description>Het nieuws van NOS Teletekst pagina 101, automatisch omgezet naar RSS.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 17 Jun 2026 16:54:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Jun 2026 19:25:26 +0000</lastBuildDate>
+  <item>
+    <title>OM:misdaad oorzaak explosie Osdorp</title>
+    <link>https://nos.nl/teletekst#111</link>
+    <guid isPermaLink="false">nos-tt-5c799cfde64ee2ac</guid>
+    <pubDate>Wed, 17 Jun 2026 19:25:26 +0000</pubDate>
+    <description>&lt;p&gt;De Amsterdamse politie vermoedt dat criminele activiteiten met explosieven de oorzaak zijn geweest van de zware explosie van eind vorige week in de wijk Osdorp. Het is nu het belangrijkste scenario dat de recherche onderzoekt, meldt het Openbaar Ministerie.&lt;/p&gt;&lt;p&gt;Twee Amsterdammers van 23 en 24 jaar zijn opgepakt. Ze worden verdacht van het veroorzaken van de explosie en het in levensgevaar brengen van mensen. Ook worden ze verdacht van het voorbereiden van plofkraken. Een derde verdachte mag de zaak in vrijheid afwachten.&lt;/p&gt;&lt;p&gt;Bij de explosie in Osdorp raakten zeven mensen gewond, onder wie de twee arrestanten.&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Hof spreekt kapitein snelboot vrij</title>
     <link>https://nos.nl/teletekst#107</link>
@@ -54,13 +61,6 @@
     <guid isPermaLink="false">nos-tt-3687fb829ecaf287</guid>
     <pubDate>Wed, 17 Jun 2026 09:50:47 +0000</pubDate>
     <description>&lt;p&gt;In 2030 moet er een plan in werking zijn gezet waarmee Europa zelf voor het grootste deel verantwoordelijk wordt voor zijn eigen veiligheid. Dat staat in de internationale veiligheidsstrategie van het kabinet die minister Berendsen naar de Tweede Kamer heeft gestuurd.&lt;/p&gt;&lt;p&gt;Nederland en de rest van Europa moeten voor hun veiligheid in een hoog tempo minder afhankelijk worden van de VS, schrijft Berendsen. Zo moet Europa in 2030 de belangrijkste wapensystemen zelf kunnen maken of op zijn minst aan de ontwikkeling daarvan werken.&lt;/p&gt;&lt;p&gt;Bekend was al dat het kabinet verkent of Nederland voor nucleaire verdediging kan samenwerken met Frankrijk.&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>VS gebruikte AI-model Grok in Iran</title>
-    <link>https://nos.nl/teletekst#130</link>
-    <guid isPermaLink="false">nos-tt-4a43ba47ba0a652d</guid>
-    <pubDate>Wed, 17 Jun 2026 09:50:47 +0000</pubDate>
-    <description>&lt;p&gt;Het Amerikaanse leger heeft bij zijn aanvallen op Iran gebruikgemaakt van de omstreden AI-tool Grok. Zo zouden met het AI-model van Elon Musk tweeduizend doelwitten in Iran zijn geselecteerd.&lt;/p&gt;&lt;p&gt;Het Amerikaanse ministerie van Justitie meldt dat in een brief in de juridische procedures rond Grok-ontwikkelaar xAI. Activisten eisen dat xAI vervuilende gasturbines bij datacentra in Memphis stillegt. De Amerikaanse overheid tracht die rechtszaak nu te blokkeren.&lt;/p&gt;&lt;p&gt;In de brief benadrukt het ministerie het belang van de technologie van xAI. Grok is omstreden door onder meer het genereren van expliciete deepfakes en het verspreiden van complottheorieën.&lt;/p&gt;</description>
   </item>
 </channel>
 </rss>
