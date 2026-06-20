@@ -14,8 +14,8 @@ import sys
 import time
 import urllib.error
 import urllib.request
-from datetime import datetime, timezone
-from email.utils import format_datetime
+from datetime import datetime, timedelta, timezone
+from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -25,6 +25,11 @@ BASE_URL = "https://teletekst-data.nos.nl/json/"
 OUTPUT = Path("docs/feed.xml")
 SEEN_FILE = Path("seen.json")
 REQUEST_PAUSE = 0.4
+
+# Hoelang we onthouden dat een artikel al langs is gekomen. Zo blijft een
+# artikel dat tijdelijk van pagina 101 verdwijnt en terugkeert hetzelfde item
+# (en verschijnt het niet opnieuw als "nieuw" in de RSS-reader).
+SEEN_RETENTION_DAYS = 14
 
 # Teletekst gebruikt het Unicode Private Use Area voor blokgrafiek-tekens.
 PUA_RE = re.compile(r"[-]")
@@ -259,12 +264,23 @@ def build_article(page: str) -> tuple[str, list[str]]:
 
 
 def load_seen() -> dict:
-    if SEEN_FILE.exists():
-        try:
-            return json.loads(SEEN_FILE.read_text(encoding="utf-8"))
-        except json.JSONDecodeError:
-            return {}
-    return {}
+    """Lees het 'gezien'-geheugen. Formaat: {guid: {"first": rfc, "last": rfc}}.
+
+    Migreert het oude formaat {guid: rfc-datum} automatisch.
+    """
+    if not SEEN_FILE.exists():
+        return {}
+    try:
+        raw = json.loads(SEEN_FILE.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+    seen: dict = {}
+    for guid, value in raw.items():
+        if isinstance(value, str):
+            seen[guid] = {"first": value, "last": value}
+        elif isinstance(value, dict) and "first" in value:
+            seen[guid] = {"first": value["first"], "last": value.get("last", value["first"])}
+    return seen
 
 
 def save_seen(seen: dict) -> None:
@@ -274,9 +290,29 @@ def save_seen(seen: dict) -> None:
     )
 
 
-def guid_for(title: str, body: list[str]) -> str:
-    fingerprint = title + "\n" + "\n".join(body)
-    digest = hashlib.sha1(fingerprint.encode("utf-8")).hexdigest()[:16]
+def is_recent(rfc_date: str, cutoff: datetime) -> bool:
+    """True als rfc_date op of na cutoff valt. Onparseerbaar -> behouden."""
+    try:
+        dt = parsedate_to_datetime(rfc_date)
+    except (TypeError, ValueError):
+        return True
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt >= cutoff
+
+
+def normalize_headline(headline: str) -> str:
+    """Maak een kop vergelijkbaar: kleine letters, alleen letters/cijfers."""
+    return re.sub(r"[^a-z0-9]+", "", headline.lower())
+
+
+def guid_for(headline: str) -> str:
+    """Stabiel ID op basis van de kop op pagina 101.
+
+    Bewust niet op de bodytekst gebaseerd: NOS past lopende berichten vaak
+    licht aan, en dan moet het hetzelfde item blijven (geen duplicaat).
+    """
+    digest = hashlib.sha1(normalize_headline(headline).encode("utf-8")).hexdigest()[:16]
     return f"nos-tt-{digest}"
 
 
@@ -330,32 +366,39 @@ def main() -> int:
         return 1
 
     items: list[dict] = []
-    for page, headline_fallback in headlines:
+    seen_guids: set[str] = set()
+    for page, headline in headlines:
+        # De titel is de kop zoals die op pagina 101 staat (niet de titel van
+        # de doelpagina, die kan afwijken — bv. "Kort nieuws binnenland").
+        guid = guid_for(headline)
+        if guid in seen_guids:
+            continue  # zelfde kop twee keer op 101: niet dupliceren
+        seen_guids.add(guid)
+
         time.sleep(REQUEST_PAUSE)
         try:
-            title, body = build_article(page)
+            _, body = build_article(page)
         except urllib.error.URLError as e:
             print(f"  Pagina {page} overgeslagen ({e})", file=sys.stderr)
             continue
-        if not title:
-            title = headline_fallback
         if not body:
-            body = [headline_fallback]
-        guid = guid_for(title, body)
-        first_seen = seen.get(guid) or now_str
-        seen[guid] = first_seen
+            body = [headline]
+
+        entry = seen.get(guid)
+        first_seen = entry["first"] if entry else now_str
+        seen[guid] = {"first": first_seen, "last": now_str}
         items.append({
-            "title": title,
+            "title": headline,
             "page": page,
             "guid": guid,
             "pubDate": first_seen,
             "body": body,
         })
-        print(f"  {page}: {title}")
+        print(f"  {page}: {headline}")
 
-    # Houd seen.json schoon: gooi entries weg die niet meer op 101 staan.
-    current_guids = {it["guid"] for it in items}
-    seen = {g: t for g, t in seen.items() if g in current_guids}
+    # Verlopen entries opruimen: artikelen die we al 14+ dagen niet zagen.
+    cutoff = now - timedelta(days=SEEN_RETENTION_DAYS)
+    seen = {g: v for g, v in seen.items() if is_recent(v["last"], cutoff)}
     save_seen(seen)
 
     OUTPUT.write_text(build_rss(items, now), encoding="utf-8")
