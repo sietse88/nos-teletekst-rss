@@ -19,12 +19,17 @@ from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-USER_AGENT = "nos-teletekst-rss/1.0 (github.com/your-username/nos-teletekst-rss)"
+USER_AGENT = "nos-teletekst-rss/1.0 (github.com/sietse88/nos-teletekst-rss)"
 INDEX_PAGE = "101"
 BASE_URL = "https://teletekst-data.nos.nl/json/"
 OUTPUT = Path("docs/feed.xml")
 SEEN_FILE = Path("seen.json")
 REQUEST_PAUSE = 0.4
+
+# Adres waar de feed (en het pictogram) gehost worden via GitHub Pages.
+# Het pictogram (de rode NOS-O) toont de RSS-reader naast elk artikel.
+SITE_BASE_URL = "https://sietse88.github.io/nos-teletekst-rss"
+FEED_ICON_URL = f"{SITE_BASE_URL}/icon.png"
 
 # Hoelang we onthouden dat een artikel al langs is gekomen. Zo blijft een
 # artikel dat tijdelijk van pagina 101 verdwijnt en terugkeert hetzelfde item
@@ -339,6 +344,11 @@ def build_rss(items: list[dict], now: datetime) -> str:
         "  <description>Het nieuws van NOS Teletekst pagina 101, "
         "automatisch omgezet naar RSS.</description>\n"
         "  <language>nl-NL</language>\n"
+        "  <image>\n"
+        f"    <url>{escape(FEED_ICON_URL)}</url>\n"
+        "    <title>NOS Teletekst 101</title>\n"
+        "    <link>https://nos.nl/teletekst#101</link>\n"
+        "  </image>\n"
         f"  <lastBuildDate>{format_datetime(now)}</lastBuildDate>\n"
         f"{body}\n"
         "</channel>\n"
