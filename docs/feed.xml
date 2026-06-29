@@ -5,7 +5,19 @@
   <link>https://nos.nl/teletekst#101</link>
   <description>Het nieuws van NOS Teletekst pagina 101, automatisch omgezet naar RSS.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 29 Jun 2026 11:16:26 +0000</lastBuildDate>
+  <image>
+    <url>https://sietse88.github.io/nos-teletekst-rss/icon.png</url>
+    <title>NOS Teletekst 101</title>
+    <link>https://nos.nl/teletekst#101</link>
+  </image>
+  <lastBuildDate>Mon, 29 Jun 2026 11:18:17 +0000</lastBuildDate>
+  <item>
+    <title>Nog niet genoeg regels afgeschaft</title>
+    <link>https://nos.nl/teletekst#112</link>
+    <guid isPermaLink="false">nos-tt-f87d6afd8f1d2ebb</guid>
+    <pubDate>Mon, 29 Jun 2026 11:18:17 +0000</pubDate>
+    <description>&lt;p&gt;Het kabinet is er niet in geslaagd om voor de zomer 500 regels te schrappen of aan te passen. Dat was een belofte van het vorige kabinet. Tot nu toe zijn er 100 regels afgeschaft.&lt;/p&gt;&lt;p&gt;Minister Herbert van Economische Zaken schrijft in een Kamerbrief dat met nog eens 300 regels al wel is begonnen. Soms wordt nog onderzocht of schrappen wel kan; soms is er al nieuwe wetgeving in de maak.&lt;/p&gt;&lt;p&gt;Al jaren heeft Den Haag de grote wens om de regeldruk te verminderen, met name voor ondernemers. Het huidige kabinet wil elk jaar 500 regels schrappen. Door die ambitie zijn al veel ministeries in beweging gekomen, schrijft de minister.&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Museumdirecteur onterecht ontslagen</title>
     <link>https://nos.nl/teletekst#105</link>
@@ -61,13 +73,6 @@
     <guid isPermaLink="false">nos-tt-17e67994c326d05b</guid>
     <pubDate>Mon, 29 Jun 2026 03:56:14 +0000</pubDate>
     <description>&lt;p&gt;De Russische president Poetin heeft erkend dat zijn land kampt met grote brandstoftekorten. Die komen door de voortdurende Oekraïense aanvallen op olieraffinaderijen.&lt;/p&gt;&lt;p&gt;In bijna alle regio's zijn er limieten ingesteld op de hoeveelheid brandstof die mensen mogen kopen. In Moskou staan lange wachtrijen bij benzinestations. Ook zijn er problemen in de landbouw.&lt;/p&gt;&lt;p&gt;Poetin hield daarom gisteren een crisisvergadering met hooggeplaatste betrokkenen over de brandstoftekorten. Hij kondigde aan dat hij een verbod op de export van diesel overweegt. Begin deze maand deed Rusland de uitvoer van kerosine en benzine al in de ban.&lt;/p&gt;</description>
-  </item>
-  <item>
-    <title>Nederlands hulpschip naar Venezuela</title>
-    <link>https://nos.nl/teletekst#106</link>
-    <guid isPermaLink="false">nos-tt-82e41a1df6c1e1e0</guid>
-    <pubDate>Sun, 28 Jun 2026 21:01:04 +0000</pubDate>
-    <description>&lt;p&gt;Het marineschip Zr. Ms. Groningen is met noodhulp aan boord naar Venezuela gevaren. Het schip was al enige tijd in het Caribisch gebied en is op Curaçao beladen met onder meer voedsel, water en hulpgoederen, meldt Defensie.&lt;/p&gt;&lt;p&gt;De bemanning zal in Venezuela noodhulp verlenen na de hevige aardbevingen van woensdag. Het officiële dodental staat op 1450, maar de vrees is dat er meer slachtoffers zijn. Tienduizenden mensen worden nog vermist. De schade is groot.&lt;/p&gt;&lt;p&gt;Volgens de Venezolaanse autoriteiten zijn meer dan 1600 internationale hulpverleners in het land actief. Onder hen is ook een Nederlands reddingsteam met 64 mensen en acht honden.&lt;/p&gt;</description>
   </item>
 </channel>
 </rss>
