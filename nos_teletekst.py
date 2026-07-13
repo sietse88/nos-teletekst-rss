@@ -94,8 +94,12 @@ def clean(s: str) -> str:
 
 
 def normalize_punctuation(s: str) -> str:
-    """Voeg ontbrekende spaties na leestekens toe (teletekst spaart ruimte uit)."""
-    return re.sub(r"([.,;!?])(?=[A-Za-zÀ-ÿ])", r"\1 ", s)
+    """Voeg ontbrekende spaties na leestekens toe (teletekst spaart ruimte uit).
+
+    Alleen wanneer een leesteken direct door een letter wordt gevolgd, zodat
+    getallen als tijden (15:00) en scores (1-0) ongemoeid blijven.
+    """
+    return re.sub(r"([.,;:!?])(?=[A-Za-zÀ-ÿ])", r"\1 ", s)
 
 
 def parse_index(data: dict) -> list[tuple[str, str]]:
@@ -385,6 +389,10 @@ def main() -> int:
             continue  # zelfde kop twee keer op 101: niet dupliceren
         seen_guids.add(guid)
 
+        # Titel = de 101-kop, met hetzelfde spatie-herstel als de bodytekst.
+        # (Het ID blijft stabiel: guid_for negeert leestekens en spaties.)
+        title = normalize_punctuation(headline)
+
         time.sleep(REQUEST_PAUSE)
         try:
             _, body = build_article(page)
@@ -392,19 +400,19 @@ def main() -> int:
             print(f"  Pagina {page} overgeslagen ({e})", file=sys.stderr)
             continue
         if not body:
-            body = [headline]
+            body = [title]
 
         entry = seen.get(guid)
         first_seen = entry["first"] if entry else now_str
         seen[guid] = {"first": first_seen, "last": now_str}
         items.append({
-            "title": headline,
+            "title": title,
             "page": page,
             "guid": guid,
             "pubDate": first_seen,
             "body": body,
         })
-        print(f"  {page}: {headline}")
+        print(f"  {page}: {title}")
 
     # Verlopen entries opruimen: artikelen die we al 14+ dagen niet zagen.
     cutoff = now - timedelta(days=SEEN_RETENTION_DAYS)
