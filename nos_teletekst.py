@@ -69,6 +69,22 @@ MAX_SUBPAGES = 8
 # of "stand van zaken groep A2 op 847". Eindigen op " op <paginanummer>".
 CROSSREF_RE = re.compile(r"\bop\s+\d{3,4}\s*$")
 
+# Patronen die géén extra spatie mogen krijgen bij het spatie-herstel.
+# We beschermen het patroon zélf (in plaats van "nooit na een cijfer"), zodat
+# "Ligue 1,heeft" wél een spatie krijgt maar "22.000" heel blijft.
+# 'de' en 'net' staan bewust niet in de domeinlijst: dat zijn Nederlandse
+# woorden die na een punt aan een nieuwe zin kunnen beginnen.
+PROTECT_RE = re.compile(
+    r"\d+(?:[.,:]\d+)+"                                       # 22.000  1,5  15.00  15:45  1:0
+    r"|\b(?:[a-z0-9-]+\.)+(?:nl|com|org|eu|be|uk|info|io)\b"   # nos.nl
+    r"|\b(?:[a-zA-Z]\.){2,}",                                  # o.a.  a.s.  d.w.z.
+    re.IGNORECASE,
+)
+
+# Een leesteken dat direct wordt gevolgd door tekst, een cijfer of een citaat.
+# Alles wat heel moet blijven is hierboven al even weggezet.
+PUNCT_SPACE_RE = re.compile(r"""([.,;:!?])(["'](?=\w)|[A-Za-zÀ-ÿ0-9])""")
+
 # Sectienamen uit de teletekst-navigatie. Regels die alleen uit deze woorden
 # bestaan, zijn de navigatiebalk onderaan de pagina.
 NAV_WORDS = {
@@ -96,10 +112,27 @@ def clean(s: str) -> str:
 def normalize_punctuation(s: str) -> str:
     """Voeg ontbrekende spaties na leestekens toe (teletekst spaart ruimte uit).
 
-    Alleen wanneer een leesteken direct door een letter wordt gevolgd, zodat
-    getallen als tijden (15:00) en scores (1-0) ongemoeid blijven.
+    Teletekst heeft maar 40 tekens per regel en laat daarom de spatie na een
+    leesteken vaak weg: "asielzoekers.31 mensen", "drugsonderzoek:55" en
+    'SGP."Het zit muurvast"'. Die spatie zetten we terug.
+
+    Niet aangeraakt blijven: getallen met een scheidingsteken (22.000, 1,5),
+    tijden (15.00, 15:45), scores (1:0), puntjes/ellips (...), domeinnamen
+    (nos.nl) en afkortingen met punten (o.a., a.s.).
     """
-    return re.sub(r"([.,;:!?])(?=[A-Za-zÀ-ÿ])", r"\1 ", s)
+    # Posities van stukken die heel moeten blijven (getallen, domeinen,
+    # afkortingen). We slaan leestekens binnen die stukken over, in plaats van
+    # ze weg te maskeren: zo blijft "augustus,20.00" wél splitsbaar op de komma
+    # terwijl de punt binnen "20.00" met rust wordt gelaten.
+    beschermd = [(m.start(), m.end()) for m in PROTECT_RE.finditer(s)]
+
+    def _vervang(m: "re.Match") -> str:
+        pos = m.start(1)
+        if any(start <= pos < eind for start, eind in beschermd):
+            return m.group(0)
+        return f"{m.group(1)} {m.group(2)}"
+
+    return PUNCT_SPACE_RE.sub(_vervang, s)
 
 
 def parse_index(data: dict) -> list[tuple[str, str]]:
