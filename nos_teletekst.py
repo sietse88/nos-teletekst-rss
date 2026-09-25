@@ -36,6 +36,13 @@ FEED_ICON_URL = f"{SITE_BASE_URL}/icon.png"
 # (en verschijnt het niet opnieuw als "nieuw" in de RSS-reader).
 SEEN_RETENTION_DAYS = 14
 
+# Archief: de feed bevat alle artikelen van de afgelopen FEED_DAYS dagen, niet
+# alleen wat nu op pagina 101 staat. Zo haalt de RSS-reader na een pauze van
+# een paar weken alsnog alles op wat er in de tussentijd verscheen. Het archief
+# bewaart per artikel titel, pagina, tekst en datums.
+ARCHIVE_FILE = Path("archive.json")
+FEED_DAYS = 30
+
 # Teletekst gebruikt het Unicode Private Use Area voor blokgrafiek-tekens.
 PUA_RE = re.compile(r"[-]")
 TAG_RE = re.compile(r"<[^>]+>")
@@ -343,6 +350,32 @@ def is_recent(rfc_date: str, cutoff: datetime) -> bool:
     return dt >= cutoff
 
 
+def load_archive() -> dict:
+    """Lees het archief: {guid: {title, page, body, first, last}}."""
+    if not ARCHIVE_FILE.exists():
+        return {}
+    try:
+        return json.loads(ARCHIVE_FILE.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+
+
+def save_archive(archive: dict) -> None:
+    ARCHIVE_FILE.write_text(
+        json.dumps(archive, indent=1, sort_keys=True, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+
+def _sort_key(rfc_date: str) -> datetime:
+    """Datum om op te sorteren; onparseerbaar komt achteraan."""
+    try:
+        dt = parsedate_to_datetime(rfc_date)
+    except (TypeError, ValueError):
+        return datetime.min.replace(tzinfo=timezone.utc)
+    return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+
+
 def normalize_headline(headline: str) -> str:
     """Maak een kop vergelijkbaar: kleine letters, alleen letters/cijfers."""
     return re.sub(r"[^a-z0-9]+", "", headline.lower())
@@ -396,6 +429,7 @@ def build_rss(items: list[dict], now: datetime) -> str:
 def main() -> int:
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     seen = load_seen()
+    archive = load_archive()
     now = datetime.now(timezone.utc)
     now_str = format_datetime(now)
 
@@ -412,8 +446,8 @@ def main() -> int:
               file=sys.stderr)
         return 1
 
-    items: list[dict] = []
     seen_guids: set[str] = set()
+    n_current = 0
     for page, headline in headlines:
         # De titel is de kop zoals die op pagina 101 staat (niet de titel van
         # de doelpagina, die kan afwijken — bv. "Kort nieuws binnenland").
@@ -435,16 +469,23 @@ def main() -> int:
         if not body:
             body = [title]
 
-        entry = seen.get(guid)
-        first_seen = entry["first"] if entry else now_str
+        # Eerste-keer-gezien: uit het archief (tot 30 dagen), anders uit
+        # seen.json (tot 14 dagen), anders is het nieuw.
+        if guid in archive:
+            first_seen = archive[guid]["first"]
+        elif guid in seen:
+            first_seen = seen[guid]["first"]
+        else:
+            first_seen = now_str
         seen[guid] = {"first": first_seen, "last": now_str}
-        items.append({
+        archive[guid] = {
             "title": title,
             "page": page,
-            "guid": guid,
-            "pubDate": first_seen,
             "body": body,
-        })
+            "first": first_seen,
+            "last": now_str,
+        }
+        n_current += 1
         print(f"  {page}: {title}")
 
     # Verlopen entries opruimen: artikelen die we al 14+ dagen niet zagen.
@@ -452,8 +493,27 @@ def main() -> int:
     seen = {g: v for g, v in seen.items() if is_recent(v["last"], cutoff)}
     save_seen(seen)
 
+    # Archief: alles van de afgelopen FEED_DAYS dagen (op eerste-keer-gezien)
+    # blijft staan; ouder gaat eruit. Artikelen die deze keer niet opgehaald
+    # konden worden blijven gewoon in het archief en dus in de feed.
+    feed_cutoff = now - timedelta(days=FEED_DAYS)
+    archive = {g: v for g, v in archive.items() if is_recent(v["first"], feed_cutoff)}
+    save_archive(archive)
+
+    items = [
+        {
+            "title": v["title"],
+            "page": v["page"],
+            "guid": g,
+            "pubDate": v["first"],
+            "body": v["body"],
+        }
+        for g, v in sorted(archive.items(), key=lambda kv: _sort_key(kv[1]["first"]),
+                           reverse=True)
+    ]
     OUTPUT.write_text(build_rss(items, now), encoding="utf-8")
-    print(f"Geschreven: {OUTPUT} ({len(items)} items)")
+    print(f"Geschreven: {OUTPUT} ({len(items)} items: {n_current} nu op 101, "
+          f"de rest uit het archief van {FEED_DAYS} dagen)")
     return 0
 
 
