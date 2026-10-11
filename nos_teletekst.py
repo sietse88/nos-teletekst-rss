@@ -18,6 +18,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
+from zoneinfo import ZoneInfo
 
 USER_AGENT = "nos-teletekst-rss/1.0 (github.com/sietse88/nos-teletekst-rss)"
 INDEX_PAGE = "101"
@@ -42,6 +43,20 @@ SEEN_RETENTION_DAYS = 14
 # bewaart per artikel titel, pagina, tekst en datums.
 ARCHIVE_FILE = Path("archive.json")
 FEED_DAYS = 30
+
+# Weekoverzicht: per week één Markdown-bestand in WEEK_DIR, genoemd naar de
+# einddatum (bv. weken/2026-10-14.md). Een week loopt van dinsdag 17:00 tot de
+# volgende dinsdag 17:00 (Nederlandse tijd). Een artikel hoort bij de week
+# waarin het voor het eerst is gezien. Het bestand wordt bij elke run
+# bijgewerkt, zodat het er dinsdag om 17:00 compleet staat, hoe laat GitHub de
+# runs ook uitvoert. Een iPhone-Opdracht haalt het dan op naar iCloud Drive.
+WEEK_DIR = Path("weken")
+WEEK_TZ = ZoneInfo("Europe/Amsterdam")
+WEEK_END_WEEKDAY = 1      # maandag = 0, dinsdag = 1
+WEEK_END_HOUR = 17
+DAGEN = ["maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag"]
+MAANDEN = ["januari", "februari", "maart", "april", "mei", "juni", "juli",
+           "augustus", "september", "oktober", "november", "december"]
 
 # Teletekst gebruikt het Unicode Private Use Area voor blokgrafiek-tekens.
 PUA_RE = re.compile(r"[-]")
@@ -376,6 +391,74 @@ def _sort_key(rfc_date: str) -> datetime:
     return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
 
 
+def week_end_for(moment: datetime) -> datetime:
+    """Het einde (dinsdag 17:00 lokale tijd) van de week waar moment in valt.
+
+    Een artikel van precies 17:00 hoort al bij de volgende week.
+    """
+    local = moment.astimezone(WEEK_TZ)
+    end = local.replace(hour=WEEK_END_HOUR, minute=0, second=0, microsecond=0)
+    end += timedelta(days=(WEEK_END_WEEKDAY - local.weekday()) % 7)
+    if end <= local:
+        end += timedelta(days=7)
+    # Opnieuw lokaliseren, zodat 17:00 ook over de zomer/wintertijd-grens klopt.
+    return end.replace(tzinfo=None).replace(tzinfo=WEEK_TZ)
+
+
+def _datum(dt: datetime, met_tijd: bool = False) -> str:
+    tekst = f"{DAGEN[dt.weekday()]} {dt.day} {MAANDEN[dt.month - 1]}"
+    return f"{tekst} {dt:%H:%M}" if met_tijd else tekst
+
+
+def _md_regel(tekst: str) -> str:
+    """Voorkom dat een alinea per ongeluk als kop, lijst of citaat wordt gelezen."""
+    if re.match(r"^(#|>|[-+*]\s|\d+[.)]\s)", tekst):
+        return "\\" + tekst
+    return tekst
+
+
+def build_week_markdown(archive: dict, end: datetime) -> str:
+    start = (end.replace(tzinfo=None) - timedelta(days=7)).replace(tzinfo=WEEK_TZ)
+    artikelen = []
+    for v in archive.values():
+        gezien = _sort_key(v["first"]).astimezone(WEEK_TZ)
+        if start <= gezien < end:
+            artikelen.append((gezien, v))
+    # Gelijke tijd (zelfde run): op paginanummer, zodat de volgorde vastligt.
+    artikelen.sort(key=lambda a: (a[0], int(a[1]["page"]) if str(a[1]["page"]).isdigit() else 0))
+
+    regels = [
+        f"# NOS Teletekst — week tot en met {_datum(end)} {end.year}",
+        "",
+        f"*Van {_datum(start, True)} tot {_datum(end, True)} · "
+        f"{len(artikelen)} artikelen*",
+    ]
+    if not artikelen:
+        regels += ["", "Geen artikelen in deze week."]
+    huidige_dag = None
+    for gezien, v in artikelen:
+        if gezien.date() != huidige_dag:
+            huidige_dag = gezien.date()
+            regels += ["", f"## {_datum(gezien).capitalize()}"]
+        regels += ["", f"### {v['title']}", "", f"*{gezien:%H:%M} · pagina {v['page']}*"]
+        for alinea in v["body"]:
+            regels += ["", _md_regel(" ".join(alinea.split()))]
+    return "\n".join(regels) + "\n"
+
+
+def write_weeks(archive: dict, now: datetime) -> list[Path]:
+    """Werk het bestand van de lopende en de vorige week bij."""
+    WEEK_DIR.mkdir(exist_ok=True)
+    huidig = week_end_for(now)
+    vorig = (huidig.replace(tzinfo=None) - timedelta(days=7)).replace(tzinfo=WEEK_TZ)
+    paden = []
+    for end in (vorig, huidig):
+        pad = WEEK_DIR / f"{end:%Y-%m-%d}.md"
+        pad.write_text(build_week_markdown(archive, end), encoding="utf-8")
+        paden.append(pad)
+    return paden
+
+
 def normalize_headline(headline: str) -> str:
     """Maak een kop vergelijkbaar: kleine letters, alleen letters/cijfers."""
     return re.sub(r"[^a-z0-9]+", "", headline.lower())
@@ -499,6 +582,8 @@ def main() -> int:
     feed_cutoff = now - timedelta(days=FEED_DAYS)
     archive = {g: v for g, v in archive.items() if is_recent(v["first"], feed_cutoff)}
     save_archive(archive)
+    for pad in write_weeks(archive, now):
+        print(f"Weekoverzicht bijgewerkt: {pad}")
 
     items = [
         {
