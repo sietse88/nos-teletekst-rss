@@ -87,9 +87,17 @@ SUBPAGE_INDICATOR_RE = re.compile(r"^\d+\s*/\s*\d+\s*$")
 # Maximaal aantal subpagina's dat we volgen (veiligheidslimiet tegen lussen).
 MAX_SUBPAGES = 8
 
-# Cross-reference voetregels zoals "speelschema groep met Oranje op 819"
-# of "stand van zaken groep A2 op 847". Eindigen op " op <paginanummer>".
-CROSSREF_RE = re.compile(r"\bop\s+\d{3,4}\s*$")
+# Verwijsregels onder een artikel ("uitslag en WK-standen op pagina 613",
+# "uitslagen 829 / karakteristieken 831") staan in Teletekst altijd op een
+# gekleurde achtergrond; gewone artikeltekst nooit. Daarop filteren we, en niet
+# op de tekst: Teletekst maakt van elk getal van drie cijfers een link, en een
+# tekstpatroon als "op 589" komt ook in gewone zinnen voor.
+BG_LINE_RE = re.compile(r'class="[^"]*\bbg-[a-z]+')
+
+# Teletekst breekt samengestelde woorden af op het streepje: "Midden-" aan het
+# eind van een regel, "Oosten" op de volgende. Die plakken we weer aan elkaar,
+# behalve als het volgende woord een voegwoord is ("Immigratie- en asielbeleid").
+AFBREEK_UITZONDERINGEN = {"en", "of", "als", "tot", "noch", "maar", "dan", "t/m"}
 
 # Patronen die géén extra spatie mogen krijgen bij het spatie-herstel.
 # We beschermen het patroon zélf (in plaats van "nooit na een cijfer"), zodat
@@ -200,8 +208,6 @@ def _is_junk(line: str, nav_words: set) -> bool:
         return True
     if SUBPAGE_INDICATOR_RE.match(line):
         return True
-    if CROSSREF_RE.search(line):
-        return True
     words = line.lower().split()
     if words and all(w in nav_words for w in words):
         return True
@@ -218,6 +224,12 @@ def extract_body_lines(raw: str, nav_words: set) -> list[str]:
     title_match = find_title_match(raw)
     body_raw = raw[title_match.end():] if title_match else raw
 
+    # Verwijsregels (gekleurde achtergrond) leeg maken; de lege regel houdt
+    # een eventuele alineagrens intact.
+    body_raw = "\n".join(
+        "" if BG_LINE_RE.search(regel) else regel for regel in body_raw.split("\n")
+    )
+
     text = TAG_RE.sub("", body_raw)
     text = html.unescape(text)
     text = PUA_RE.sub("", text)
@@ -232,6 +244,18 @@ def extract_body_lines(raw: str, nav_words: set) -> list[str]:
     return lines
 
 
+def _join_lines(lines: list[str]) -> str:
+    """Plak regels tot één alinea; herstel woorden die op een streepje zijn afgebroken."""
+    tekst = ""
+    for regel in lines:
+        eerste = regel.split()[0].lower().strip(",.;:") if regel.split() else ""
+        if re.search(r"[0-9A-Za-zÀ-ÿ]-$", tekst) and eerste not in AFBREEK_UITZONDERINGEN:
+            tekst += regel
+        else:
+            tekst = f"{tekst} {regel}" if tekst else regel
+    return tekst
+
+
 def _lines_to_paragraphs(lines: list[str]) -> list[str]:
     """Groepeer regels in alinea's; lege regels markeren een alineagrens."""
     paragraphs: list[str] = []
@@ -240,10 +264,10 @@ def _lines_to_paragraphs(lines: list[str]) -> list[str]:
         if l:
             current.append(l)
         elif current:
-            paragraphs.append(" ".join(current))
+            paragraphs.append(_join_lines(current))
             current = []
     if current:
-        paragraphs.append(" ".join(current))
+        paragraphs.append(_join_lines(current))
     return [normalize_punctuation(p).strip() for p in paragraphs if p.strip()]
 
 
