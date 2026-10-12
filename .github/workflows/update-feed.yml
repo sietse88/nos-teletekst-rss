@@ -15,6 +15,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 350   # bijwerken.sh loopt 330 minuten; GitHub stopt na 360
     steps:
       - name: Repository ophalen
         uses: actions/checkout@v5
@@ -24,17 +25,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Feed bouwen
-        run: python nos_teletekst.py
-
-      - name: Wijzigingen committen en pushen
+      # GitHub slaat de meeste geplande runs over. Daarom loopt elke run
+      # 5,5 uur door en haalt hij elk kwartier op (zie bijwerken.sh).
+      - name: Feed elk kwartier bijwerken, 5,5 uur lang
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.xml seen.json archive.json weken/
-          if git diff --staged --quiet; then
-            echo "Geen wijzigingen in de feed."
-          else
-            git commit -m "Feed bijgewerkt ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-            git push
-          fi
+          bash bijwerken.sh

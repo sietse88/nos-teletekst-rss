@@ -680,8 +680,11 @@ def main() -> int:
             "pubDate": v["first"],
             "body": v["body"],
         }
-        for g, v in sorted(archive.items(), key=lambda kv: _sort_key(kv[1]["first"]),
-                           reverse=True)
+        # Nieuwste eerst; bij gelijke tijd op paginanummer, zodat de volgorde
+        # niet per run verspringt (anders telt bijwerken.sh dat als wijziging).
+        for g, v in sorted(archive.items(),
+                           key=lambda kv: (-_sort_key(kv[1]["first"]).timestamp(),
+                                           kv[1]["page"], kv[0]))
     ]
     OUTPUT.write_text(build_rss(items, now), encoding="utf-8")
     print(f"Geschreven: {OUTPUT} ({len(items)} items: {n_current} nu op 101, "
