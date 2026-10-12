@@ -44,6 +44,17 @@ SEEN_RETENTION_DAYS = 14
 ARCHIVE_FILE = Path("archive.json")
 FEED_DAYS = 30
 
+# Bijgewerkte artikelen: NOS vervangt een lopend bericht soms door een versie
+# met een nieuwe kop (en soms op een ander paginanummer). Verschijnt er een
+# nieuwe kop waarvan de tekst sterk lijkt op een artikel dat in de afgelopen
+# UPDATE_WINDOW_HOURS uur van pagina 101 is verdwenen, dan krijgt dat oude
+# artikel de nieuwe kop en tekst, in plaats van dat er een tweede bij komt.
+# Gelijkenis = gedeelde woorden van 4+ letters / alle woorden (beide teksten).
+# In het archief van okt 2026 scoorden echte updates 0,47 of hoger, en losse
+# artikelen op een kort-nieuwspagina (121) tot 0,41.
+UPDATE_SIMILARITY = 0.45
+UPDATE_WINDOW_HOURS = 24
+
 # Weekoverzicht: per week één Markdown-bestand in WEEK_DIR, genoemd naar de
 # einddatum (bv. weken/2026-10-14.md). Een week loopt van dinsdag 17:00 tot de
 # volgende dinsdag 17:00 (Nederlandse tijd). Een artikel hoort bij de week
@@ -498,6 +509,33 @@ def guid_for(headline: str) -> str:
     return f"nos-tt-{digest}"
 
 
+def _woorden(body: list[str]) -> set[str]:
+    return {w for w in re.findall(r"\w+", " ".join(body).lower()) if len(w) >= 4}
+
+
+def gelijkenis(body_a: list[str], body_b: list[str]) -> float:
+    a, b = _woorden(body_a), _woorden(body_b)
+    return len(a & b) / len(a | b) if a | b else 0.0
+
+
+def find_update_of(body: list[str], archive: dict, skip: set[str],
+                   now: datetime) -> "str | None":
+    """Het archiefartikel waarvan dit een bijgewerkte versie is, of None.
+
+    Alleen artikelen die niet meer op 101 staan (niet in skip) en daar in de
+    afgelopen UPDATE_WINDOW_HOURS uur nog wel stonden, komen in aanmerking.
+    """
+    venster = now - timedelta(hours=UPDATE_WINDOW_HOURS)
+    beste, beste_score = None, UPDATE_SIMILARITY
+    for g, v in archive.items():
+        if g in skip or _sort_key(v["last"]) < venster:
+            continue
+        score = gelijkenis(body, v["body"])
+        if score >= beste_score:
+            beste, beste_score = g, score
+    return beste
+
+
 def build_rss(items: list[dict], now: datetime) -> str:
     rss_items = []
     for it in items:
@@ -553,12 +591,23 @@ def main() -> int:
               file=sys.stderr)
         return 1
 
+    # Koppen die eerder als update aan een ouder artikel zijn gekoppeld,
+    # verwijzen via "aliassen" naar dat artikel.
+    alias = {a: g for g, v in archive.items() for a in v.get("aliassen", [])}
+
+    def resolve(headline: str) -> str:
+        guid = guid_for(headline)
+        return alias.get(guid, guid)
+
+    # Alles wat nu op 101 staat, kan geen "verdwenen" artikel zijn.
+    op_101 = {resolve(headline) for _, headline in headlines}
+
     seen_guids: set[str] = set()
     n_current = 0
     for page, headline in headlines:
         # De titel is de kop zoals die op pagina 101 staat (niet de titel van
         # de doelpagina, die kan afwijken — bv. "Kort nieuws binnenland").
-        guid = guid_for(headline)
+        guid = resolve(headline)
         if guid in seen_guids:
             continue  # zelfde kop twee keer op 101: niet dupliceren
         seen_guids.add(guid)
@@ -576,6 +625,18 @@ def main() -> int:
         if not body:
             body = [title]
 
+        # Nieuwe kop: is het een bijgewerkte versie van een net verdwenen
+        # artikel? Dan dat artikel bijwerken (zelfde ID en eerste-keer-gezien).
+        nieuwe_alias = []
+        if guid not in archive and guid not in seen:
+            oud = find_update_of(body, archive, op_101 | seen_guids, now)
+            if oud:
+                print(f"  Update van '{archive[oud]['title']}'")
+                nieuwe_alias = [guid]
+                guid = oud
+                seen_guids.add(guid)
+        aliassen = archive.get(guid, {}).get("aliassen", []) + nieuwe_alias
+
         # Eerste-keer-gezien: uit het archief (tot 30 dagen), anders uit
         # seen.json (tot 14 dagen), anders is het nieuw.
         if guid in archive:
@@ -592,6 +653,8 @@ def main() -> int:
             "first": first_seen,
             "last": now_str,
         }
+        if aliassen:
+            archive[guid]["aliassen"] = aliassen
         n_current += 1
         print(f"  {page}: {title}")
 
