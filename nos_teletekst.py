@@ -62,17 +62,18 @@ UPDATE_WINDOW_HOURS = 24
 # dagbestand: niet dubbel, en een artikel dat na 17:00 voor het eerst gezien
 # wordt, komt in de volgende dag in plaats van te verdwijnen.
 #
-# LAATSTE_FILE noemt de laatste LAATSTE_DAGEN afgeronde dagen, één naam per
-# regel. Een iPhone-Opdracht leest dat lijstje en haalt die dagen op naar
-# iCloud Drive. Dagbestanden blijven DAG_BEWAREN dagen staan: langer dan het
-# lijstje, zodat een Opdracht die het lijstje net vóór een run las, het bestand
-# nog vindt.
+# LAATSTE_FILE noemt de laatste LAATSTE_DAGEN afgeronde dagen, nieuwste eerst,
+# één naam per regel. Inkt leest dat lijstje en haalt de dagen die het nog niet
+# had naar de map Nieuws in iCloud Drive; twee weken, zodat ook na een lange
+# tijd zonder verbinding niets ontbreekt. Dagbestanden blijven DAG_BEWAREN dagen
+# staan: langer dan het lijstje, zodat Inkt dat het lijstje net vóór een run las,
+# het oudste bestand nog vindt.
 DAG_DIR = Path("dagen")
 LAATSTE_FILE = DAG_DIR / "laatste.txt"
 DAG_TZ = ZoneInfo("Europe/Amsterdam")
 DAG_EINDE_UUR = 17
-LAATSTE_DAGEN = 3
-DAG_BEWAREN = 14
+LAATSTE_DAGEN = 14
+DAG_BEWAREN = 16
 DAGEN = ["maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag"]
 MAANDEN = ["januari", "februari", "maart", "april", "mei", "juni", "juli",
            "augustus", "september", "oktober", "november", "december"]
