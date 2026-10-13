@@ -6,22 +6,26 @@
 # halen, wordt toch het grootste deel van de dag gekeken.
 #
 # Er wordt alleen gecommit als de artikelen veranderen (nieuw artikel, andere
-# tekst, weekoverzicht), niet als alleen de tijdstempels "laatst gezien" of
+# tekst, dagbestand), niet als alleen de tijdstempels "laatst gezien" of
 # lastBuildDate verschuiven. Aan het eind volgt één commit om die tijdstempels
 # te bewaren voor de volgende run.
 set -u
 
 LOOPTIJD_MINUTEN="${LOOPTIJD_MINUTEN:-330}"
 INTERVAL_MINUTEN="${INTERVAL_MINUTEN:-15}"
-BESTANDEN="docs/feed.xml seen.json archive.json weken/"
+BESTANDEN="docs/feed.xml seen.json archive.json dagen/"
 
-# Wat de lezer ziet: de feed zonder bouwtijd, plus de weekoverzichten.
+# Wat de lezer ziet: de feed zonder bouwtijd, plus de dagbestanden.
 inhoud() {
   grep -v '<lastBuildDate>' docs/feed.xml 2>/dev/null
-  cat weken/*.md 2>/dev/null
+  cat dagen/* 2>/dev/null
 }
 
 commit_en_push() {
+  # Het weekoverzicht is vervangen door dagbestanden (okt 2026). Hier en niet in
+  # een eigen commit weggehaald, zodat een run met de oude code die nog loopt
+  # zijn weekbestand kan blijven pushen zonder dat zijn rebase vastloopt.
+  git rm -r -q --ignore-unmatch weken
   git add $BESTANDEN
   if ! git diff --staged --quiet; then
     git commit -q -m "Feed bijgewerkt ($(date -u +'%Y-%m-%d %H:%M UTC'))"
