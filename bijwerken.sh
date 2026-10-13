@@ -21,7 +21,7 @@ inhoud() {
   cat dagen/* 2>/dev/null
 }
 
-commit_en_push() {
+klaarzetten() {
   # Het weekoverzicht is vervangen door dagbestanden (okt 2026). Hier en niet in
   # een eigen commit weggehaald, zodat een run met de oude code die nog loopt
   # zijn weekbestand kan blijven pushen zonder dat zijn rebase vastloopt.
@@ -30,18 +30,34 @@ commit_en_push() {
   if ! git diff --staged --quiet; then
     git commit -q -m "Feed bijgewerkt ($(date -u +'%Y-%m-%d %H:%M UTC'))"
   fi
+}
+
+commit_en_push() {
+  klaarzetten
   # Ook een eerder mislukte push wordt hier alsnog geprobeerd.
   for poging in 1 2 3; do
-    if git fetch -q origin main && git rebase -q origin/main; then
-      if [ "$(git rev-list --count origin/main..HEAD)" = 0 ]; then
-        return 0
-      fi
-      if git push -q origin HEAD:main; then
-        echo "Gepusht."
-        return 0
-      fi
-    else
+    if ! git fetch -q origin main; then
+      sleep 10
+      continue
+    fi
+    if ! git rebase -q origin/main; then
+      # Botsing in de bestanden van de robot: er staat iets nieuwers op GitHub
+      # dan waar deze run op begon. Opnieuw rebasen botst dan elke keer weer, en
+      # de run kon 5,5 uur lang niets kwijt (13 okt 2026). Dus: de nieuwste
+      # versie nemen en daarop opnieuw ophalen. Wat alleen deze run sinds zijn
+      # laatste push zag en nu niet meer te zien is, gaat daarbij verloren.
+      echo "Botsing met GitHub; opnieuw ophalen op de nieuwste versie." >&2
       git rebase --abort 2>/dev/null
+      git reset -q --hard origin/main
+      python3 nos_teletekst.py || echo "Ophalen mislukt; volgende keer opnieuw." >&2
+      klaarzetten
+    fi
+    if [ "$(git rev-list --count origin/main..HEAD)" = 0 ]; then
+      return 0
+    fi
+    if git push -q origin HEAD:main; then
+      echo "Gepusht."
+      return 0
     fi
     sleep 10
   done

@@ -17,8 +17,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 350   # bijwerken.sh loopt 330 minuten; GitHub stopt na 360
     steps:
+      # De nieuwste stand van main, niet die van het moment dat de run in de rij
+      # werd gezet: een run die moest wachten, begon anders achter wat de vorige
+      # run nog pushte, en kon daarna niets meer kwijt.
       - name: Repository ophalen
         uses: actions/checkout@v5
+        with:
+          ref: main
 
       - name: Python installeren
         uses: actions/setup-python@v6
@@ -31,4 +36,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          bash bijwerken.sh
+          # Een kopie, zodat een push van nieuwe code tijdens de run het script
+          # niet onder bash vandaan verandert.
+          cp bijwerken.sh "$RUNNER_TEMP/bijwerken.sh"
+          bash "$RUNNER_TEMP/bijwerken.sh"
