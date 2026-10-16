@@ -130,8 +130,8 @@ Maar er is te weinig tijd om de nieuwe show te organiseren, blijkt na gevoerde g
 
 ## Jhon v. Beukering 2,5 jaar geschorst
 
-AZ-spits Jizz Hornkamp heeft vrijdag op de training een hamstringblessure opgelopen. De club meldt dat Hornkamp "voorlopig niet inzetbaar" is. Vanwege een andere blessure miste de aanvaller eerder deze maand ook al de wedstrijden tegen Feyenoord en Hapoel Beer Sheva.
+VVV-Venlo heeft in de eerste divisie niet weten te winnen van Jong AZ. In een spektakelstuk in De Koel incasseerde de nummer drie in de blessuretijd de 4-4.
 
-Jhon van Beukering is voor 30 maanden geschorst door de KNVB-tuchtcommissie. De oud-profvoetballer misdroeg zich als assistent van GVVV vorige maand bij het tweededivisieduel met IJsselmeervogels.
+VVV verloor zijn eerste thuisduel, met Heracles Almelo, maar morste daarna in Venlo geen punt meer. Na 22 minuten was het echter 0-2. Bergraaf schoot bekwaam raak en gaf met een mooi hakballetje de assist bij Robbemonds 0-2. Schmidt tikte (in buitenspelpositie) de 1-2 binnen.
 
-Vogels-speler Quiermo Dumay kreeg bij dat duel in de spelerstunnel een klap en verloor een aantal tanden. Als dader werd Van Beukering aangewezen. Hij werd kort daarop door GVVV al ontslagen.
+De Duitse spits maakte na de rust ook gelijk. Hartog schoot AZ opnieuw aan de leiding, maar na goals van Verstraeten (rebound) en Clancy (kopbal) dacht VVV de zege te kunnen vieren. Van dichtbij besliste de ingevallen Hartog anders.
