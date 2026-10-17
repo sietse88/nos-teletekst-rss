@@ -82,7 +82,7 @@ In verschillende Franse steden zijn protesten tegen de stijgende kosten van het 
 
 In de Zuid-Franse stad Marseille zijn rookbommen bij het politiebureau naar binnen gegooid. Ook hebben relschoppers het stadhuis vernield. Het stadhuis van Limoges werd in brand gestoken.
 
-Volgens binnenlandminister Nunez waren er 550.000 mensen op de been en zijn er 400 mensen opgepakt. Een demonstrant zou zijn hand zijn verloren.
+Volgens binnenlandminister Nunez waren er 550.000 mensen op de been en zijn er 400 mensen opgepakt. Een demonstrant zou een hand zijn verloren.
 
 ## Dreiging op E25 bij Luik geweken
 
