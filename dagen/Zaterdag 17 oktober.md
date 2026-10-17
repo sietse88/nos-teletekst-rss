@@ -82,7 +82,7 @@ In verschillende Franse steden zijn protesten tegen de stijgende kosten van het 
 
 Rond 15.00 uur waren in heel Frankrijk 272 mensen opgepakt. In de Zuid-Franse stad Marseille zijn rookbommen bij het politiebureau naar binnen gegooid. Ook hebben relschoppers vernielingen in het stadhuis aangebracht.
 
-In het hele land zijn vandaag honderden acties aangekondigd. De Franse regering telde rond het middaguur 33.000 mensen.
+Rond het middaguur werden in het land 140 protesten geteld waar bijna 33.000 mensen aan meededen.
 
 ## Dreiging op E25 bij Luik geweken
 
