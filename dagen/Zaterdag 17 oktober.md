@@ -78,11 +78,11 @@ De meeste aanhoudingen van vanochtend hadden te maken met wapenbezit of het bij 
 
 ## Franse actiedag loopt uit op rellen
 
-In verschillende Franse steden zijn protesten tegen de stijgende kosten van het levensonderhoud op ongeregeldheden uitgelopen. In Parijs heeft de politie traangas en een waterkanon ingezet. Na weken van scholierenprotesten voeren diverse groepen verspreid over het land actie, waaronder de gelehesjesbeweging.
+In verschillende Franse steden zijn protesten tegen de stijgende kosten van het levensonderhoud op ongeregeldheden uitgelopen. In Parijs heeft de politie traangas en een waterkanon ingezet. Na weken van scholierenprotesten voerden diverse groepen verspreid over het land actie, waaronder de gelehesjesbeweging.
 
-Rond 15.00 uur waren in heel Frankrijk 272 mensen opgepakt. In de Zuid-Franse stad Marseille zijn rookbommen bij het politiebureau naar binnen gegooid. Ook hebben relschoppers vernielingen in het stadhuis aangebracht.
+In de Zuid-Franse stad Marseille zijn rookbommen bij het politiebureau naar binnen gegooid. Ook hebben relschoppers het stadhuis vernield. Het stadhuis van Limoges werd in brand gestoken.
 
-Rond het middaguur werden in het land 140 protesten geteld waar bijna 33.000 mensen aan meededen.
+Volgens binnenlandminister Nunez waren er 550.000 mensen op de been en zijn er 400 mensen opgepakt. Een demonstrant zou zijn hand zijn verloren.
 
 ## Dreiging op E25 bij Luik geweken
 
