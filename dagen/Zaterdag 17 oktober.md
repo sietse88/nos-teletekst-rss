@@ -90,7 +90,7 @@ Bij de Belgische gemeente Sprimont, zo'n 25 kilometer ten zuiden van Luik, is ee
 
 Aan de situatie ging een aanrijding met drie voertuigen vooraf. De man was een van de betrokken chauffeurs. De politie was daarna urenlang met hem in gesprek.
 
-Aan de inzittenden van zo'n 50 auto's werd gevraagd om uit te stappen. Hun voertuigen werden weggehaald. Het overige verkeer werd omgeleid. Belgische media zeggen dat de weg weer opengaat.
+Aan de inzittenden van zo'n 50 auto's werd gevraagd om uit te stappen. Hun voertuigen werden weggehaald en het overige verkeer werd omgeleid. Inmiddels is de weg weer volledig open.
 
 ## Zelensky: Starlink-problemen blijven
 
