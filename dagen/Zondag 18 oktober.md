@@ -66,11 +66,11 @@ De wereldtitel werd een prooi voor Tim Torn Teutenberg. De 24-jarige Duitser kom
 
 ## Polen onderzoekt schenden luchtruim
 
-In Polen loopt een onderzoek naar een mogelijke schending van het luchtruim door een onbekend object. Ten zuiden van de stad Lublin zoekt het leger naar de mogelijke inslagplaats van het object.
+Het Oekraïense leger heeft afgelopen nacht een van zijn grootste drone-aanvallen op Rusland uitgevoerd sinds het begin van de oorlog. Er werden ruim duizend drones gelanceerd.
 
-De Poolse autoriteiten ontvingen rond 02.00 uur meldingen van inwoners over een vliegend object dat geluid maakte, schrijft televisiezender TVN24. Tot nu toe is de schending van het luchtruim niet bevestigd, meldt het Poolse leger.
+In Sint-Petersburg zijn onder meer een olieterminal en een datacenter getroffen. De gouverneur van de stad spreekt van een dode en vijf gewonden. Door de brand bij de olieterminal kwam een grote rookpluim boven de stad te hangen.
 
-Na de nachtelijke meldingen in Polen ging in buurland Litouwen zondagochtend het luchtalarm af, eveneens vanwege een ongeïdentificeerd vliegend object. Na ongeveer een uur werd het luchtalarm weer opgeheven.
+Het lijkt erop dat bij de grote Oekraïense aanval ook drones in het Poolse en Litouwse luchtruim terecht zijn gekomen. Volgens Kyiv zijn deze drones uit koers gebracht door Rusland.
 
 ## Storing poortjes Schiphol opgelost
 
