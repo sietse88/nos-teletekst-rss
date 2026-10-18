@@ -98,4 +98,4 @@ Het Oekraïense leger heeft nog steeds problemen met Starlink, het Amerikaanse s
 
 Begin deze week was dat ook al zo, maar woensdag leken de problemen opgelost. Volgens Zelensky zeggen functionarissen in de VS dat er "technische problemen" zijn.
 
-Gisteren meldde persbureau Reuters dat het Amerikaanse Pentagon opdracht van het Witte Huis had gekregen de snelheid te beperken. Zelensky noemde het toen al "een geplande operatie".
+Vrijdag meldde persbureau Reuters dat het Amerikaanse Pentagon opdracht van het Witte Huis had gekregen de snelheid te beperken. Zelensky noemde het toen al "een geplande operatie".
