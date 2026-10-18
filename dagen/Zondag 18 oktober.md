@@ -42,11 +42,11 @@ In de fabriek van Grolsch in Enschede zijn gisteren elf mensen onwel geworden ti
 
 ## Doden na explosie op basis Canada
 
-Bij een explosie en de daaropvolgende brand zijn op een Canadese legerbasis in de provincie Alberta zeker zeven doden en tientallen gewonden gevallen. Dat meldt het Canadese Global News op basis van militaire bronnen.
+Bij een explosie en de daaropvolgende brand zijn op een Canadese legerbasis in de provincie Alberta vier doden en tientallen gewonden gevallen. Dat zegt premier Carney. Eerder sprak Global News nog van zeven doden.
 
 Volgens het nieuwsmedium werd er op het terrein in Wainwright bij een training met scherp geschoten, waarbij een gasput of gasleiding werd geraakt. Bij die explosie ontstond brand.
 
-Gewonden worden naar ziekenhuizen in Edmonton overgebracht, 200 kilometer verderop. Een eerstehulparts in de stad spreekt van "een ramp die eens in de 15 tot 20 jaar voorkomt". De legerbasis is een van de grootste in Canada.
+Gewonden zoijn naar ziekenhuizen in Edmonton overgebracht, 200 kilometer verderop. Een eerstehulparts in de stad sprak van "een ramp die eens in de 15 tot 20 jaar voorkomt". De legerbasis is een van de grootste in Canada.
 
 ## Lavreysen pakt 8ste WK-titel sprint
 
