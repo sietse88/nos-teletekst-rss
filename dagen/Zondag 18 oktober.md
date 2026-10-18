@@ -64,7 +64,7 @@ Zaterdag stelde hij ook al teleur op de puntenkoers, door zonder punten 13de te 
 
 De wereldtitel werd een prooi voor Tim Torn Teutenberg. De 24-jarige Duitser komt uit een befaamde wielerfamilie. Z'n vader, oom en tante waren beroepsrenner en ook zijn zus rijdt in het peloton mee. Teutenberg moest in de slotfase met Tobias Hansen afrekenen en hij bleef de Deen eenvoudig voor.
 
-## Polen onderzoekt schenden luchtruim
+## Grote nachtelijke aanval Oekraïne
 
 Het Oekraïense leger heeft afgelopen nacht een van zijn grootste drone-aanvallen op Rusland uitgevoerd sinds het begin van de oorlog. Er werden ruim duizend drones gelanceerd.
 
