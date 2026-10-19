@@ -92,6 +92,6 @@ Volgens minister Nunez waren 550.000 mensen actief bij 110 demonstraties. De act
 
 Albert Heijn ondervindt nog problemen na de cyberaanval van vorige week. De app en site werken inmiddels weer, maar boodschappen bestellen kan nog niet. AH zegt nu dat de bezorging vrijdag wordt opgestart.
 
-Alle bestellingen die voor die dag zijn gedaan, worden geannuleerd. Het plaatsen van nieuwe bestellingen kan tot die dag ook nog niet. Donderdag zei AH nog dat bezorging maandag weer mogelijk zou zijn. Later werd dat bijgesteld naar "de tweede helft van de week".
+Alle bestellingen die voor die dag zijn gedaan, worden geannuleerd. Het plaatsen van nieuwe bestellingen kan tot die dag ook nog niet. Donderdag zei AH nog dat bezorging vandaag weer mogelijk zou zijn. Later werd dat bijgesteld naar "de tweede helft van de week".
 
-Afgelopen zondag haalde AH de systemen offline na een "cybersecurity-incident" wat volgens bronnen van de NOS een hack was. Het leidde snel tot lege schappen.
+Vorig weekeinde haalde AH de systemen offline na een "cybersecurity-incident" wat volgens bronnen van de NOS een hack was. Het leidde snel tot lege schappen.
