@@ -66,11 +66,11 @@ De wereldtitel werd een prooi voor Tim Torn Teutenberg. De 24-jarige Duitser kom
 
 ## Grote nachtelijke aanval Oekraïne
 
-Het Oekraïense leger heeft afgelopen nacht een van zijn grootste drone-aanvallen op Rusland uitgevoerd sinds het begin van de oorlog. Er werden ruim duizend drones gelanceerd.
+Het Oekraïense leger heeft in de nacht van zaterdag op zondag een van de grootste drone-aanvallen uitgevoerd op Rusland sinds het begin van de oorlog. Oekraïne lanceerde meer dan duizend drones.
 
-In Sint-Petersburg zijn onder meer een olieterminal en een datacenter getroffen. De gouverneur van de stad spreekt van een dode en vijf gewonden. Door de brand bij de olieterminal kwam een grote rookpluim boven de stad te hangen.
+In Sint-Petersburg zijn onder meer een olieterminal en een datacenter geraakt. De gouverneur van de stad spreekt van een dode en vijf gewonden. Door de brand bij de olieterminal kwam boven de stad een grote rookpluim te hangen.
 
-Het lijkt erop dat bij de grote Oekraïense aanval ook drones in het Poolse en Litouwse luchtruim terecht zijn gekomen. Volgens Kyiv zijn deze drones uit koers gebracht door Rusland.
+Het lijkt erop dat er ook drones zijn terechtgekomen in het luchtruim van Polen en Litouwen bij de grote aanval door Oekraïne. Volgens Kyiv zijn deze drones uit koers gebracht door Rusland.
 
 ## Storing poortjes Schiphol opgelost
 
