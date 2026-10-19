@@ -40,7 +40,7 @@ Bij een festival in de Indiase stad Kolkata is paniek uitgebroken. Zeker 19 bezo
 
 In de fabriek van Grolsch in Enschede zijn gisteren elf mensen onwel geworden tijdens een rondleiding. Het gaat om negen bezoekers en twee medewerkers. Ze hadden bronwater geproefd dat gebruikt wordt bij het brouwen van bier. Mogelijk zat daarin de bijtende stof natronloog. Meerdere ambulances kwamen ter plaatse. De politie en de Arbeidsinspectie doen onderzoek.
 
-## Doden na explosie op basis Canada
+## 19 zwaargewonden op Canadese basis
 
 Van negentien mensen die zaterdag gewond raakten bij een brand op een militaire basis in Canada is de toestand kritiek. Dat zegt de premier van de provincie Alberta. In totaal zijn er 39 gewonden gevallen op de basis.
 
