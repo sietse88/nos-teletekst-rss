@@ -46,7 +46,7 @@ Bij een explosie en de daaropvolgende brand zijn op een Canadese legerbasis in d
 
 Volgens het nieuwsmedium werd er op het terrein in Wainwright bij een training met scherp geschoten, waarbij een gasput of gasleiding werd geraakt. Bij die explosie ontstond brand.
 
-Gewonden zoijn naar ziekenhuizen in Edmonton overgebracht, 200 kilometer verderop. Een eerstehulparts in de stad sprak van "een ramp die eens in de 15 tot 20 jaar voorkomt". De legerbasis is een van de grootste in Canada.
+Gewonden zijn naar ziekenhuizen in Edmonton overgebracht, 200 kilometer verderop. Een eerstehulparts in de stad sprak van "een ramp die eens in de 15 tot 20 jaar voorkomt". De legerbasis is een van de grootste in Canada.
 
 ## Lavreysen pakt 8ste WK-titel sprint
 
