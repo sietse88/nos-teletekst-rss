@@ -124,7 +124,7 @@ In een persbericht zeggen FNV en CNV dat de acties 2 weken zijn opgeschort nadat
 
 Vorige week woensdag was er een eerste landelijke staking in het streekvervoer nadat de cao-onderhandelingen waren vastgelopen. De vakbonden willen betere voorwaarden voor oudere medewerkers en willen de toeslagen voor ongunstige uren behouden.
 
-## Veel sites offline om softwarelek
+## Websites komen langzaam weer online
 
 Steeds meer Nederlandse websites gaan uit voorzorg offline vanwege twee grote lekken in de programmeertaal PHP. Zo zijn onder meer MijnOverheid.nl en DigiD offline. De nieuwssite en app van RTL zijn op zwart en ook bij DPG en in het onderwijs zijn problemen.
 
