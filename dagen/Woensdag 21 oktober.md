@@ -126,9 +126,9 @@ Vorige week woensdag was er een eerste landelijke staking in het streekvervoer n
 
 ## Websites komen langzaam weer online
 
-Websites die uit voorzorg offline waren gehaald vanwege twee lekken in programmeertaal PHP, komen langzaam weer terug online. Iets voor 16.00 uur voerde de organisatie achter PHP een update door die gebruikers konden installeren. Daardoor kunnen sites weer opstarten.
+Websites die uit voorzorg offline waren gehaald vanwege twee lekken in programmeertaal PHP, komen langzaam weer terug online. Iets voor 16.00 uur voerde de organisatie achter PHP een update door die gebruikers konden installeren. Daardoor kunnen diverse websites weer veilig opstarten.
 
-De afgelopen uren gingen diverse sites offline. Nu zijn mijn.overheid.nl, de site en app van RTL, techsite Tweakers en het computernetwerk van het hoger onderwijs weer online. Maar de site van DigiD en die van de Tweede Kamer zijn nog altijd niet beschikbaar.
+Nu zijn onder meer mijn.overheid.nl, de site van DigiD, de site en app van RTL, techsite Tweakers en het netwerk van het hoger onderwijs weer online. Maar de site van de Tweede Kamer en overheid.nl zijn bijvoorbeeld nog niet beschikbaar.
 
 Ook hebben websites van ziekenhuizen en veiligheidsregio's nog problemen, net als enkele provincies en goede doelen.
 
