@@ -10,7 +10,14 @@
     <title>NOS Teletekst 101</title>
     <link>https://nos.nl/teletekst#101</link>
   </image>
-  <lastBuildDate>Wed, 21 Oct 2026 10:13:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 10:59:07 +0000</lastBuildDate>
+  <item>
+    <title>DigiD offline vanwege lek bij PHP</title>
+    <link>https://nos.nl/teletekst#129</link>
+    <guid isPermaLink="false">nos-tt-de7347b44823ca06</guid>
+    <pubDate>Wed, 21 Oct 2026 10:59:07 +0000</pubDate>
+    <description>&lt;p&gt;Verschillende organisaties halen hun website uit de lucht in verband met twee grote lekken in programmeertaal PHP. Zo zijn onder meer MijnOverheid.nl, DigiD, de website van de Tweede Kamer en de populaire techwebsite Tweakers uit voorzorg offline gehaald.&lt;/p&gt;&lt;p&gt;Door de lekken in de programmeertaal PHP is het voor hackers makkelijker om websites via een achterdeurtje binnen te komen.&lt;/p&gt;&lt;p&gt;Het Amerikaanse Cloudflare, dat voor veel bedrijven als firewall fungeert, heeft de eerste aanvallen al voorbij zien komen. De organisatie achter PHP zegt dat het probleem rond 16.00 uur is opgelost.&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Zorgpremie DSW stijgt in 2027 flink</title>
     <link>https://nos.nl/teletekst#105</link>
