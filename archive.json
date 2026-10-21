@@ -570,7 +570,7 @@
    "Vorige week woensdag was er een eerste landelijke staking in het streekvervoer nadat de cao-onderhandelingen waren vastgelopen. De vakbonden willen betere voorwaarden voor oudere medewerkers en willen de toeslagen voor ongunstige uren behouden."
   ],
   "first": "Wed, 21 Oct 2026 12:14:56 +0000",
-  "last": "Wed, 21 Oct 2026 12:14:56 +0000",
+  "last": "Wed, 21 Oct 2026 12:45:15 +0000",
   "page": "106",
   "title": "Toch geen staking streekvervoer"
  },
@@ -773,7 +773,7 @@
    "In Pakistan is een man opgepakt die de Amerikaanse postdienst voor ruim 126 miljoen dollar zou hebben opgelicht. Hij runde een website waarop mensen valse labels konden kopen om ver onder de kostprijs pakketjes te versturen via de US Postal Service. De man zou daarvoor zestien bankrekeningen hebben gebruikt."
   ],
   "first": "Wed, 21 Oct 2026 02:23:20 +0000",
-  "last": "Wed, 21 Oct 2026 12:14:56 +0000",
+  "last": "Wed, 21 Oct 2026 12:45:15 +0000",
   "page": "136",
   "title": "Colombia onderschept 7600 kilo coke"
  },
@@ -828,7 +828,7 @@
    "Vorig jaar kon de premie van DSW nog gelijk blijven door een financiële meevaller, maar de tarieven gaan nu omhoog door gestegen zorgkosten, lonen, zorgvraag en doordat ziekenhuizen meer geld kwijt zijn aan de energierekening."
   ],
   "first": "Wed, 21 Oct 2026 10:13:39 +0000",
-  "last": "Wed, 21 Oct 2026 12:14:56 +0000",
+  "last": "Wed, 21 Oct 2026 12:45:15 +0000",
   "page": "105",
   "title": "Zorgpremie DSW stijgt in 2027 flink"
  },
@@ -1989,7 +1989,7 @@
    "Het hoogst haalbare, stelt de VN, is nu om de overschrijding van de 1,5 graad zo beperkt en kort mogelijk te maken."
   ],
   "first": "Wed, 21 Oct 2026 05:55:40 +0000",
-  "last": "Wed, 21 Oct 2026 12:14:56 +0000",
+  "last": "Wed, 21 Oct 2026 12:45:15 +0000",
   "page": "128",
   "title": "Opwarming 1,5 graad onvermijdelijk"
  },
@@ -2693,7 +2693,7 @@
    "Er werd onmiddellijk een zoekactie gestart. De oorzaak van de crash is niet duidelijk en wordt onderzocht."
   ],
   "first": "Wed, 21 Oct 2026 10:13:39 +0000",
-  "last": "Wed, 21 Oct 2026 12:14:56 +0000",
+  "last": "Wed, 21 Oct 2026 12:45:15 +0000",
   "page": "129",
   "title": "Franse straaljager neergestort"
  },
@@ -2845,7 +2845,7 @@
    "Eerder bleek al dat voor een kwart van de schriftelijke vragen AI gebruikt wordt en dat premier Jetten het doet bij het opstellen van social-berichten."
   ],
   "first": "Wed, 21 Oct 2026 04:09:39 +0000",
-  "last": "Wed, 21 Oct 2026 12:14:56 +0000",
+  "last": "Wed, 21 Oct 2026 12:30:06 +0000",
   "page": "107",
   "title": "\"Ook spreekteksten in Kamer met AI\""
  },
@@ -3832,7 +3832,7 @@
    "De Commissie wil weten of het bedrijf de risico's van nepadvertenties en phishing voldoende in kaart heeft gebracht en of het genoeg doet om de risico's voor gebruikers te beperken."
   ],
   "first": "Wed, 21 Oct 2026 11:59:45 +0000",
-  "last": "Wed, 21 Oct 2026 12:14:56 +0000",
+  "last": "Wed, 21 Oct 2026 12:45:15 +0000",
   "page": "130",
   "title": "EU doet onderzoek naar Booking.com"
  },
@@ -4047,7 +4047,7 @@
    "Er wordt in Sint-Petersburg ook over een olie-deal met Rusland gesproken. De eerste olietanker met diesel zou morgen al richting de VS vertrekken. Ook heeft Rusland de Amerikaan Stephen Hubbard (74) vrijgelaten. Hij werd beschuldigd van het als huurling vechten in het Oekraïense leger."
   ],
   "first": "Wed, 21 Oct 2026 09:43:18 +0000",
-  "last": "Wed, 21 Oct 2026 12:14:56 +0000",
+  "last": "Wed, 21 Oct 2026 12:45:15 +0000",
   "page": "127",
   "title": "VS-gezant Witkoff spreekt Poetin"
  },
@@ -4323,6 +4323,17 @@
   "page": "134",
   "title": "Droneaanval op schepen Zwarte Zee"
  },
+ "nos-tt-daded4c4d9805f68": {
+  "body": [
+   "Steeds meer Nederlandse websites gaan uit voorzorg offline vanwege twee grote lekken in de programmeertaal PHP. Zo zijn onder meer MijnOverheid.nl en DigiD offline. De nieuwssite en app van RTL zijn op zwart en ook bij DPG en in het onderwijs zijn problemen.",
+   "Ook zijn er geen vluchtgegevens meer te zien in de Schiphol-app, maar nog wel op de website van de luchthaven. Ook enkele ziekenhuizen hebben hun website uit de lucht gehaald.",
+   "Meerdere provincies hebben technische problemen omdat NotuBizz, dat diensten levert aan overheden, is uitgeschakeld. Ook de website van de Tweede Kamer is uit voorzorg offline gehaald."
+  ],
+  "first": "Wed, 21 Oct 2026 12:45:15 +0000",
+  "last": "Wed, 21 Oct 2026 12:45:15 +0000",
+  "page": "109",
+  "title": "Veel sites offline om softwarelek"
+ },
  "nos-tt-dbe06f05bcbfe401": {
   "body": [
    "De Nederlandse chipmachinemaker ASML heeft een succesvol derde kwartaal achter de rug. Ook heeft het bedrijf al veel bestellingen binnengekregen voor 2028.",
@@ -4378,17 +4389,18 @@
  },
  "nos-tt-de7347b44823ca06": {
   "aliassen": [
-   "nos-tt-68c3f26f8b22ca30"
+   "nos-tt-68c3f26f8b22ca30",
+   "nos-tt-fd9d3a52917342c6"
   ],
   "body": [
-   "Verschillende organisaties halen hun website uit de lucht in verband met twee grote lekken in programmeertaal PHP. Zo zijn onder meer MijnOverheid.nl en DigiD offline. De nieuwssite en app van RTL zijn op zwart en ook bij DPG en in het onderwijs zijn problemen.",
-   "Door de lekken in de programmeertaal PHP is het voor hackers makkelijker om websites via een achterdeurtje binnen te komen.",
+   "Vanwege twee grote lekken in de programmeertaal PHP lopen bedrijven en organisaties gevaar om gehackt te worden. Door de lekken in PHP is het voor hackers makkelijker om via een achterdeurtje bij websites binnen te komen.",
+   "PHP is sinds 1995 een van de meest gebruikte programmeertalen en werd ontwikkeld door de Deens-Canadese programmeur Rasmus Lerdorf.",
    "Het Amerikaanse Cloudflare heeft de eerste aanvallen al voorbij zien komen. Het Nederlandse Cyber Security Center heeft nog geen actief misbruik gezien. De organisatie achter PHP zegt dat het probleem rond 16.00 uur is opgelost."
   ],
   "first": "Wed, 21 Oct 2026 10:59:07 +0000",
-  "last": "Wed, 21 Oct 2026 12:14:56 +0000",
+  "last": "Wed, 21 Oct 2026 12:45:15 +0000",
   "page": "108",
-  "title": "Veel sites offline om lek bij PHP"
+  "title": "Risico op hacks door lek bij PHP"
  },
  "nos-tt-df7b4475a5ff8f75": {
   "body": [

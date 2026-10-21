@@ -10,7 +10,14 @@
     <title>NOS Teletekst 101</title>
     <link>https://nos.nl/teletekst#101</link>
   </image>
-  <lastBuildDate>Wed, 21 Oct 2026 12:14:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 12:45:15 +0000</lastBuildDate>
+  <item>
+    <title>Veel sites offline om softwarelek</title>
+    <link>https://nos.nl/teletekst#109</link>
+    <guid isPermaLink="false">nos-tt-daded4c4d9805f68</guid>
+    <pubDate>Wed, 21 Oct 2026 12:45:15 +0000</pubDate>
+    <description>&lt;p&gt;Steeds meer Nederlandse websites gaan uit voorzorg offline vanwege twee grote lekken in de programmeertaal PHP. Zo zijn onder meer MijnOverheid.nl en DigiD offline. De nieuwssite en app van RTL zijn op zwart en ook bij DPG en in het onderwijs zijn problemen.&lt;/p&gt;&lt;p&gt;Ook zijn er geen vluchtgegevens meer te zien in de Schiphol-app, maar nog wel op de website van de luchthaven. Ook enkele ziekenhuizen hebben hun website uit de lucht gehaald.&lt;/p&gt;&lt;p&gt;Meerdere provincies hebben technische problemen omdat NotuBizz, dat diensten levert aan overheden, is uitgeschakeld. Ook de website van de Tweede Kamer is uit voorzorg offline gehaald.&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Toch geen staking streekvervoer</title>
     <link>https://nos.nl/teletekst#106</link>
@@ -26,11 +33,11 @@
     <description>&lt;p&gt;De Europese Commissie onderzoekt of Booking.com de Digital Services Act (DSA) heeft overtreden door niet genoeg tegen nepadvertenties en phishing te doen. DSA verplicht online platforms illegale inhoud te bestrijden.&lt;/p&gt;&lt;p&gt;Volgens de EC wordt 66 procent van alle online hotelreserveringen in Europa gedaan via Booking.com. Tegelijkertijd meldt Booking een vijfhonderdvoudige toename van oplichtingspraktijken tussen 2022 en 2024.&lt;/p&gt;&lt;p&gt;De Commissie wil weten of het bedrijf de risico's van nepadvertenties en phishing voldoende in kaart heeft gebracht en of het genoeg doet om de risico's voor gebruikers te beperken.&lt;/p&gt;</description>
   </item>
   <item>
-    <title>Veel sites offline om lek bij PHP</title>
+    <title>Risico op hacks door lek bij PHP</title>
     <link>https://nos.nl/teletekst#108</link>
     <guid isPermaLink="false">nos-tt-de7347b44823ca06</guid>
     <pubDate>Wed, 21 Oct 2026 10:59:07 +0000</pubDate>
-    <description>&lt;p&gt;Verschillende organisaties halen hun website uit de lucht in verband met twee grote lekken in programmeertaal PHP. Zo zijn onder meer MijnOverheid.nl en DigiD offline. De nieuwssite en app van RTL zijn op zwart en ook bij DPG en in het onderwijs zijn problemen.&lt;/p&gt;&lt;p&gt;Door de lekken in de programmeertaal PHP is het voor hackers makkelijker om websites via een achterdeurtje binnen te komen.&lt;/p&gt;&lt;p&gt;Het Amerikaanse Cloudflare heeft de eerste aanvallen al voorbij zien komen. Het Nederlandse Cyber Security Center heeft nog geen actief misbruik gezien. De organisatie achter PHP zegt dat het probleem rond 16.00 uur is opgelost.&lt;/p&gt;</description>
+    <description>&lt;p&gt;Vanwege twee grote lekken in de programmeertaal PHP lopen bedrijven en organisaties gevaar om gehackt te worden. Door de lekken in PHP is het voor hackers makkelijker om via een achterdeurtje bij websites binnen te komen.&lt;/p&gt;&lt;p&gt;PHP is sinds 1995 een van de meest gebruikte programmeertalen en werd ontwikkeld door de Deens-Canadese programmeur Rasmus Lerdorf.&lt;/p&gt;&lt;p&gt;Het Amerikaanse Cloudflare heeft de eerste aanvallen al voorbij zien komen. Het Nederlandse Cyber Security Center heeft nog geen actief misbruik gezien. De organisatie achter PHP zegt dat het probleem rond 16.00 uur is opgelost.&lt;/p&gt;</description>
   </item>
   <item>
     <title>Zorgpremie DSW stijgt in 2027 flink</title>
