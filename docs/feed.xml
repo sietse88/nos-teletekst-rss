@@ -10,7 +10,14 @@
     <title>NOS Teletekst 101</title>
     <link>https://nos.nl/teletekst#101</link>
   </image>
-  <lastBuildDate>Wed, 21 Oct 2026 08:11:59 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 09:28:06 +0000</lastBuildDate>
+  <item>
+    <title>Websites kwetsbaar door lek in PHP</title>
+    <link>https://nos.nl/teletekst#129</link>
+    <guid isPermaLink="false">nos-tt-7f33698b3f61de9c</guid>
+    <pubDate>Wed, 21 Oct 2026 09:28:06 +0000</pubDate>
+    <description>&lt;p&gt;Veel populaire websites zijn opeens veel kwetsbaarder voor hackaanvallen doordat er twee ernstige lekken blijken te zitten in de veelgebruikte programmeertaal PHP. Daardoor is het voor hackers makkelijker om websites via een achterdeurtje binnen te komen.&lt;/p&gt;&lt;p&gt;Omdat er nog geen waterdichte oplossing voorhanden is, worden sommige systemen offline gehaald, zoals Notubizz. Ook het Nederlandse persbureau ANP heeft uit voorzorg systemen offline gehaald.&lt;/p&gt;&lt;p&gt;Het Amerikaanse Cloudflare, dat voor veel bedrijven als firewall fungeert, ziet de eerste aanvallen al komen. De organisatie achter PHP zegt dat het probleem rond 16.00 uur is opgelost.&lt;/p&gt;</description>
+  </item>
   <item>
     <title>Opwarming 1,5 graad onvermijdelijk</title>
     <link>https://nos.nl/teletekst#128</link>
