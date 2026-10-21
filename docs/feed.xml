@@ -10,13 +10,13 @@
     <title>NOS Teletekst 101</title>
     <link>https://nos.nl/teletekst#101</link>
   </image>
-  <lastBuildDate>Wed, 21 Oct 2026 13:46:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 14:01:23 +0000</lastBuildDate>
   <item>
     <title>NCSC: installeer PHP-update direct</title>
     <link>https://nos.nl/teletekst#110</link>
     <guid isPermaLink="false">nos-tt-c67c6dfa18aa7ac3</guid>
     <pubDate>Wed, 21 Oct 2026 13:46:12 +0000</pubDate>
-    <description>&lt;p&gt;Het Nationaal Cyber Security Centrum (NCSC) roept bedrijven en organisaties op direct een update te installeren om het lek in PHP te dichten. Die update komt om 16.00 uur beschikbaar, liet het bedrijf achter PHP eerder weten.&lt;/p&gt;&lt;p&gt;De lekken in de programmeertaal PHP duiden volgens het NCSC niet meteen op een aanval, "maar een weeffout die in de software zit en dat kan gebeuren". Daar kunnen hackers misbruik van maken.&lt;/p&gt;&lt;p&gt;Vanwege de kwetsbaarheden zijn diverse sites offline gehaald, ook in België. Zo zijn alle Vlaamse overheidswebsites tijdelijk uit de lucht, net als het digitale schoolplatform Smartschool en mediawebsites als Knack en Libelle.&lt;/p&gt;</description>
+    <description>&lt;p&gt;Het Nationaal Cyber Security Centrum (NCSC) roept bedrijven en organisaties op direct een update te installeren om het lek in PHP te dichten. Die update is net voor 16.00 uur online gekomen.&lt;/p&gt;&lt;p&gt;De lekken in de programmeertaal PHP duiden volgens het NCSC niet meteen op een aanval, "maar een weeffout die in de software zit en dat kan gebeuren". Daar kunnen hackers misbruik van maken.&lt;/p&gt;&lt;p&gt;Vanwege de kwetsbaarheden zijn diverse sites offline gehaald, ook in België, Frankrijk en Finland. Zo zijn alle Vlaamse overheidswebsites uit de lucht, net als het digitale schoolplatform Smartschool en mediawebsites als Knack en Libelle.&lt;/p&gt;</description>
   </item>
   <item>
     <title>Veel sites offline om softwarelek</title>
@@ -44,7 +44,7 @@
     <link>https://nos.nl/teletekst#108</link>
     <guid isPermaLink="false">nos-tt-de7347b44823ca06</guid>
     <pubDate>Wed, 21 Oct 2026 10:59:07 +0000</pubDate>
-    <description>&lt;p&gt;Vanwege twee grote lekken in de programmeertaal PHP lopen bedrijven en organisaties gevaar om gehackt te worden. Door de lekken in PHP is het voor hackers makkelijker om via een achterdeurtje bij websites binnen te komen.&lt;/p&gt;&lt;p&gt;PHP is sinds 1995 een van de meest gebruikte programmeertalen en werd ontwikkeld door de Deens-Canadese programmeur Rasmus Lerdorf.&lt;/p&gt;&lt;p&gt;Het Amerikaanse Cloudflare heeft de eerste aanvallen al voorbij zien komen. Het Nederlandse Cyber Security Center heeft nog geen actief misbruik gezien. De organisatie achter PHP zegt dat het probleem rond 16.00 uur is opgelost.&lt;/p&gt;</description>
+    <description>&lt;p&gt;Vanwege twee grote lekken in de programmeertaal PHP lopen bedrijven en organisaties gevaar om gehackt te worden. Door de lekken in PHP is het voor hackers makkelijker om via een achterdeurtje bij sites in te breken.&lt;/p&gt;&lt;p&gt;PHP is sinds 1995 een van de meest gebruikte programmeertalen en werd ontwikkeld door de Deens-Canadese programmeur Rasmus Lerdorf.&lt;/p&gt;&lt;p&gt;Het Amerikaanse Cloudflare heeft de eerste aanvallen al voorbij zien komen. Het Nederlandse Cyber Security Center heeft nog geen actief misbruik gezien. Vlak voor 16.00 uur kwam er een update online waarmee de lekken gedicht zouden moeten worden.&lt;/p&gt;</description>
   </item>
   <item>
     <title>Zorgpremie DSW stijgt in 2027 flink</title>

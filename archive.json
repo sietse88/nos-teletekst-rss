@@ -570,7 +570,7 @@
    "Vorige week woensdag was er een eerste landelijke staking in het streekvervoer nadat de cao-onderhandelingen waren vastgelopen. De vakbonden willen betere voorwaarden voor oudere medewerkers en willen de toeslagen voor ongunstige uren behouden."
   ],
   "first": "Wed, 21 Oct 2026 12:14:56 +0000",
-  "last": "Wed, 21 Oct 2026 13:46:12 +0000",
+  "last": "Wed, 21 Oct 2026 14:01:23 +0000",
   "page": "106",
   "title": "Toch geen staking streekvervoer"
  },
@@ -773,7 +773,7 @@
    "In Pakistan is een man opgepakt die de Amerikaanse postdienst voor ruim 126 miljoen dollar zou hebben opgelicht. Hij runde een website waarop mensen valse labels konden kopen om ver onder de kostprijs pakketjes te versturen via de US Postal Service. De man zou daarvoor zestien bankrekeningen hebben gebruikt."
   ],
   "first": "Wed, 21 Oct 2026 02:23:20 +0000",
-  "last": "Wed, 21 Oct 2026 13:46:12 +0000",
+  "last": "Wed, 21 Oct 2026 14:01:23 +0000",
   "page": "136",
   "title": "Colombia onderschept 7600 kilo coke"
  },
@@ -828,7 +828,7 @@
    "Vorig jaar kon de premie van DSW nog gelijk blijven door een financiële meevaller, maar de tarieven gaan nu omhoog door gestegen zorgkosten, lonen, zorgvraag en doordat ziekenhuizen meer geld kwijt zijn aan de energierekening."
   ],
   "first": "Wed, 21 Oct 2026 10:13:39 +0000",
-  "last": "Wed, 21 Oct 2026 13:46:12 +0000",
+  "last": "Wed, 21 Oct 2026 14:01:23 +0000",
   "page": "105",
   "title": "Zorgpremie DSW stijgt in 2027 flink"
  },
@@ -2693,7 +2693,7 @@
    "Er werd onmiddellijk een zoekactie gestart. De oorzaak van de crash is niet duidelijk en wordt onderzocht."
   ],
   "first": "Wed, 21 Oct 2026 10:13:39 +0000",
-  "last": "Wed, 21 Oct 2026 13:46:12 +0000",
+  "last": "Wed, 21 Oct 2026 14:01:23 +0000",
   "page": "129",
   "title": "Franse straaljager neergestort"
  },
@@ -3816,12 +3816,12 @@
  },
  "nos-tt-c67c6dfa18aa7ac3": {
   "body": [
-   "Het Nationaal Cyber Security Centrum (NCSC) roept bedrijven en organisaties op direct een update te installeren om het lek in PHP te dichten. Die update komt om 16.00 uur beschikbaar, liet het bedrijf achter PHP eerder weten.",
+   "Het Nationaal Cyber Security Centrum (NCSC) roept bedrijven en organisaties op direct een update te installeren om het lek in PHP te dichten. Die update is net voor 16.00 uur online gekomen.",
    "De lekken in de programmeertaal PHP duiden volgens het NCSC niet meteen op een aanval, \"maar een weeffout die in de software zit en dat kan gebeuren\". Daar kunnen hackers misbruik van maken.",
-   "Vanwege de kwetsbaarheden zijn diverse sites offline gehaald, ook in België. Zo zijn alle Vlaamse overheidswebsites tijdelijk uit de lucht, net als het digitale schoolplatform Smartschool en mediawebsites als Knack en Libelle."
+   "Vanwege de kwetsbaarheden zijn diverse sites offline gehaald, ook in België, Frankrijk en Finland. Zo zijn alle Vlaamse overheidswebsites uit de lucht, net als het digitale schoolplatform Smartschool en mediawebsites als Knack en Libelle."
   ],
   "first": "Wed, 21 Oct 2026 13:46:12 +0000",
-  "last": "Wed, 21 Oct 2026 13:46:12 +0000",
+  "last": "Wed, 21 Oct 2026 14:01:23 +0000",
   "page": "110",
   "title": "NCSC: installeer PHP-update direct"
  },
@@ -3843,7 +3843,7 @@
    "De Commissie wil weten of het bedrijf de risico's van nepadvertenties en phishing voldoende in kaart heeft gebracht en of het genoeg doet om de risico's voor gebruikers te beperken."
   ],
   "first": "Wed, 21 Oct 2026 11:59:45 +0000",
-  "last": "Wed, 21 Oct 2026 13:46:12 +0000",
+  "last": "Wed, 21 Oct 2026 14:01:23 +0000",
   "page": "130",
   "title": "EU doet onderzoek naar Booking.com"
  },
@@ -4058,7 +4058,7 @@
    "Er wordt in Sint-Petersburg ook over een olie-deal met Rusland gesproken. De eerste olietanker met diesel zou morgen al richting de VS vertrekken. Ook heeft Rusland de Amerikaan Stephen Hubbard (74) vrijgelaten. Hij werd beschuldigd van het als huurling vechten in het Oekraïense leger."
   ],
   "first": "Wed, 21 Oct 2026 09:43:18 +0000",
-  "last": "Wed, 21 Oct 2026 13:46:12 +0000",
+  "last": "Wed, 21 Oct 2026 14:01:23 +0000",
   "page": "127",
   "title": "VS-gezant Witkoff spreekt Poetin"
  },
@@ -4341,7 +4341,7 @@
    "Meerdere provincies hebben technische problemen omdat NotuBizz, dat diensten levert aan overheden, is uitgeschakeld. Ook de website van de Tweede Kamer is uit voorzorg offline gehaald."
   ],
   "first": "Wed, 21 Oct 2026 12:45:15 +0000",
-  "last": "Wed, 21 Oct 2026 13:46:12 +0000",
+  "last": "Wed, 21 Oct 2026 14:01:23 +0000",
   "page": "109",
   "title": "Veel sites offline om softwarelek"
  },
@@ -4404,12 +4404,12 @@
    "nos-tt-fd9d3a52917342c6"
   ],
   "body": [
-   "Vanwege twee grote lekken in de programmeertaal PHP lopen bedrijven en organisaties gevaar om gehackt te worden. Door de lekken in PHP is het voor hackers makkelijker om via een achterdeurtje bij websites binnen te komen.",
+   "Vanwege twee grote lekken in de programmeertaal PHP lopen bedrijven en organisaties gevaar om gehackt te worden. Door de lekken in PHP is het voor hackers makkelijker om via een achterdeurtje bij sites in te breken.",
    "PHP is sinds 1995 een van de meest gebruikte programmeertalen en werd ontwikkeld door de Deens-Canadese programmeur Rasmus Lerdorf.",
-   "Het Amerikaanse Cloudflare heeft de eerste aanvallen al voorbij zien komen. Het Nederlandse Cyber Security Center heeft nog geen actief misbruik gezien. De organisatie achter PHP zegt dat het probleem rond 16.00 uur is opgelost."
+   "Het Amerikaanse Cloudflare heeft de eerste aanvallen al voorbij zien komen. Het Nederlandse Cyber Security Center heeft nog geen actief misbruik gezien. Vlak voor 16.00 uur kwam er een update online waarmee de lekken gedicht zouden moeten worden."
   ],
   "first": "Wed, 21 Oct 2026 10:59:07 +0000",
-  "last": "Wed, 21 Oct 2026 13:46:12 +0000",
+  "last": "Wed, 21 Oct 2026 14:01:23 +0000",
   "page": "108",
   "title": "Risico op hacks door lek bij PHP"
  },
