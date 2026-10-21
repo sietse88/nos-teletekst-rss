@@ -126,11 +126,11 @@ Vorige week woensdag was er een eerste landelijke staking in het streekvervoer n
 
 ## Websites komen langzaam weer online
 
-Websites die uit voorzorg offline waren gehaald vanwege twee lekken in programmeertaal PHP, komen langzaam weer terug online. Iets voor 16.00 uur voerde de organisatie achter PHP een update door die gebruikers konden installeren. Daardoor kunnen diverse websites weer veilig opstarten.
+Websites die uit voorzorg offline waren gehaald vanwege twee lekken in programmeertaal PHP, zijn de afgelopen uren weer terug online gekomen. Rond 16. 00 uur voerde de organisatie achter PHP een update door die gebruikers konden installeren. Daardoor kunnen diverse websites weer veilig opstarten.
 
-Nu zijn onder meer mijn.overheid.nl, de site van DigiD, de site en app van RTL, techsite Tweakers en het netwerk van het hoger onderwijs weer online. Maar de site van de Tweede Kamer en overheid.nl zijn bijvoorbeeld nog niet beschikbaar.
+Onder meer mijn.overheid.nl, de site van DigiD, de Tweede Kamer-site, de site en app van RTL, techplatform Tweakers en het netwerk van het hoger onderwijs waren offline, maar zijn inmiddels weer allemaal in de lucht.
 
-Ook hebben websites van ziekenhuizen en veiligheidsregio's nog problemen, net als enkele provincies en goede doelen.
+Ook hadden websites van ziekenhuizen en veiligheidsregio's problemen, net als enkele provincies en goede doelen.
 
 ## NCSC: installeer PHP-update direct
 
@@ -138,4 +138,4 @@ Het Nationaal Cyber Security Centrum (NCSC) roept bedrijven en organisaties op d
 
 De lekken in de programmeertaal PHP duiden volgens het NCSC niet meteen op een aanval, "maar een weeffout die in de software zit en dat kan gebeuren". Daar kunnen hackers misbruik van maken.
 
-Vanwege de kwetsbaarheden zijn diverse sites offline gehaald, ook in België, Frankrijk en Finland. Zo zijn alle Vlaamse overheidswebsites uit de lucht, net als het digitale schoolplatform Smartschool en mediawebsites als Knack en Libelle.
+Vanwege de kwetsbaarheden waren diverse sites offline gehaald, ook in België, Frankrijk en Finland. Zo waren alle Vlaamse overheidswebsites uit de lucht, net als het digitale schoolplatform Smartschool en mediawebsites als Knack en Libelle.
