@@ -126,11 +126,11 @@ Vorige week woensdag was er een eerste landelijke staking in het streekvervoer n
 
 ## Websites komen langzaam weer online
 
-Steeds meer Nederlandse websites gaan uit voorzorg offline vanwege twee grote lekken in de programmeertaal PHP. Zo zijn onder meer MijnOverheid.nl en DigiD offline. De nieuwssite en app van RTL zijn op zwart en ook bij DPG en in het onderwijs zijn problemen.
+Websites die uit voorzorg offline waren gehaald vanwege twee lekken in programmeertaal PHP, komen langzaam weer terug online. Iets voor 16.00 uur voerde de organisatie achter PHP een update door die gebruikers konden installeren. Daardoor kunnen sites weer opstarten.
 
-Ook zijn er geen vluchtgegevens meer te zien in de Schiphol-app, maar nog wel op de website van de luchthaven. Ook enkele ziekenhuizen en veiligheidsregio's hebben sites uit de lucht gehaald.
+De afgelopen uren gingen diverse sites offline. Inmiddels zijn de site en app van RTL, techplatform Tweakers en het computernetwerk van het hoger onderwijs weer online. Maar mijn.overheid.nl, de site van DigiD en die van de Tweede Kamer zijn nog altijd niet beschikbaar.
 
-Meerdere provincies hebben technische problemen omdat NotuBizz, dat diensten levert aan overheden, is uitgeschakeld. Ook de website van de Tweede Kamer is uit voorzorg offline gehaald.
+Ook hebben websites van ziekenhuizen en veiligheidsregio's nog problemen, net als enkele provincies en goede doelen.
 
 ## NCSC: installeer PHP-update direct
 
