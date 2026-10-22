@@ -10,7 +10,14 @@
     <title>NOS Teletekst 101</title>
     <link>https://nos.nl/teletekst#101</link>
   </image>
-  <lastBuildDate>Thu, 22 Oct 2026 16:49:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 17:34:46 +0000</lastBuildDate>
+  <item>
+    <title>Signalen van misbruik door PHP-lek</title>
+    <link>https://nos.nl/teletekst#112</link>
+    <guid isPermaLink="false">nos-tt-55d4415c308015ac</guid>
+    <pubDate>Thu, 22 Oct 2026 17:34:46 +0000</pubDate>
+    <description>&lt;p&gt;Het Nationaal Cyber Security Centrum (NCSC) heeft signalen dat er inmiddels misbruik is gemaakt van het grote lek in programmeertaal PHP. Het NCSC is daarvoor gewaarschuwd door organisaties in binnen- en buitenland. Om wat voor signalen het gaat is niet duidelijk.&lt;/p&gt;&lt;p&gt;Het NCSC adviseert bedrijven om hun systemen snel te updaten. Ondertussen doet de instantie onderzoek, maar dat kan nog maanden in beslag nemen.&lt;/p&gt;&lt;p&gt;Zeker 113.000 Nederlandse websites zijn inmiddels beschermd, omdat ze een nieuwe versie van PHP hebben. Circa 145.000 sites zijn mogelijk nog kwetsbaar. Vanwege het lek werden gisteren veel sites uit voorzorg offline gehaald.&lt;/p&gt;</description>
+  </item>
   <item>
     <title>"Hajar stuurde familie noodbericht"</title>
     <link>https://nos.nl/teletekst#111</link>
