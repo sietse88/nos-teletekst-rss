@@ -108,7 +108,7 @@ PHP is sinds 1995 een van de meest gebruikte programmeertalen en werd ontwikkeld
 
 Het Amerikaanse Cloudflare heeft de eerste aanvallen al voorbij zien komen. Het Nederlandse Cyber Security Center heeft nog geen actief misbruik gezien. Vlak voor 16.00 uur kwam er een update online waarmee de lekken gedicht zouden moeten worden.
 
-## EU-onderzoek naar Booking.com
+## EU doet onderzoek naar Booking.com
 
 De Europese Commissie onderzoekt of Booking.com de Digital Services Act (DSA) heeft overtreden door niet genoeg tegen nepadvertenties en phishing te doen. DSA verplicht online platforms illegale inhoud te bestrijden.
 
