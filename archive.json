@@ -1998,10 +1998,10 @@
   "body": [
    "Het Nationaal Cyber Security Centrum (NCSC) heeft signalen dat er inmiddels misbruik is gemaakt van het grote lek in programmeertaal PHP. Het NCSC is daarvoor gewaarschuwd door organisaties in binnen- en buitenland. Om wat voor signalen het gaat is niet duidelijk.",
    "Het NCSC adviseert bedrijven om hun systemen snel te updaten. Ondertussen doet de instantie onderzoek, maar dat kan nog maanden in beslag nemen.",
-   "Zeker 113.000 Nederlandse websites zijn inmiddels beschermd, omdat ze een nieuwe versie van PHP hebben. Circa 145.000 sites zijn mogelijk nog kwetsbaar. Vanwege het lek werden gisteren veel sites uit voorzorg offline gehaald."
+   "Zeker 113.000 Nederlandse websites zijn inmiddels beschermd, omdat ze een nieuwe versie van PHP hebben. Circa 145.000 sites zijn mogelijk nog kwetsbaar. Vanwege het lek werden deze week veel sites uit voorzorg offline gehaald."
   ],
   "first": "Thu, 22 Oct 2026 17:34:46 +0000",
-  "last": "Fri, 23 Oct 2026 00:38:55 +0000",
+  "last": "Fri, 23 Oct 2026 01:24:21 +0000",
   "page": "109",
   "title": "Signalen van misbruik door PHP-lek"
  },
@@ -2384,7 +2384,7 @@
    "Die persoon zegt in de krant woest te zijn dat de politie 24 uur wachtte tot de zaak als urgent werd behandeld. De politie zegt dat de feiten daar in het begin nog geen aanleiding voor gaven."
   ],
   "first": "Thu, 22 Oct 2026 16:49:18 +0000",
-  "last": "Fri, 23 Oct 2026 00:38:55 +0000",
+  "last": "Fri, 23 Oct 2026 01:24:21 +0000",
   "page": "108",
   "title": "\"Hajar stuurde familie noodbericht\""
  },
@@ -2672,7 +2672,7 @@
    "De miljoenenboete is op basis van de geschatte omzet. De Ksa ziet geregeld dat partijen die opereren vanuit het buitenland, de boete niet betalen."
   ],
   "first": "Thu, 22 Oct 2026 15:02:55 +0000",
-  "last": "Fri, 23 Oct 2026 00:38:55 +0000",
+  "last": "Fri, 23 Oct 2026 01:24:21 +0000",
   "page": "107",
   "title": "Recordboete voor illegale goksites"
  },
@@ -3166,7 +3166,7 @@
    "Afgelopen weekend mengden ultralinkse groepen zich in de protesten. Dat Macron nu met een verbod komt voor betogingen die niet gelieerd zijn aan een vakbond noemt de president \"gezond verstand\"."
   ],
   "first": "Thu, 22 Oct 2026 13:47:10 +0000",
-  "last": "Fri, 23 Oct 2026 00:38:55 +0000",
+  "last": "Fri, 23 Oct 2026 01:24:21 +0000",
   "page": "125",
   "title": "Macron verbiedt protest zonder bond"
  },
@@ -3336,18 +3336,18 @@
    "De winnaar van de Nobelprijs voor de Vrede, Navanethem Pillay, noemt het werk van het ICC in deze tijd \"belangrijker dan ooit\"."
   ],
   "first": "Thu, 22 Oct 2026 11:00:30 +0000",
-  "last": "Fri, 23 Oct 2026 00:38:55 +0000",
+  "last": "Fri, 23 Oct 2026 01:24:21 +0000",
   "page": "126",
   "title": "EU-mensenrechtenprijs naar Strafhof"
  },
  "nos-tt-a34acf579625e544": {
   "body": [
-   "Ook de laatste websites van de Nederlandse overheid, die vannacht nog onbereikbaar waren na het grote PHP-lek van gisteren, zijn weer online. Meld Misdaad Anoniem en Overheid.nl zijn ook weer in de lucht.",
+   "Ook de laatste websites van de Nederlandse overheid, die gisternacht onbereikbaar waren na het grote PHP-lek van eerder, zijn weer online. Meld Misdaad Anoniem en Overheid.nl zijn ook weer in de lucht.",
    "Bij NotuBiz, waar gemeenten, provincies en waterschappen berichten publiceren, zijn na grondig testen alle systemen veilig bevonden. Ook daar draait alles weer.",
-   "Wereldwijd gingen gisteren veel sites van bedrijven en overheden op zwart nadat het PHP-lek bekend was gemaakt. De Autoriteit Persoonsgegevens zegt dat er in Nederland nog geen gevallen bekend zijn van gestolen data door het lek."
+   "Wereldwijd gingen de sites van diverse bedrijven en overheden op zwart nadat het PHP-lek bekend was gemaakt. De Autoriteit Persoonsgegevens zegt dat er in Nederland nog geen gevallen bekend zijn van gestolen data door het lek."
   ],
   "first": "Thu, 22 Oct 2026 11:15:41 +0000",
-  "last": "Fri, 23 Oct 2026 00:38:55 +0000",
+  "last": "Fri, 23 Oct 2026 01:24:21 +0000",
   "page": "104",
   "title": "Overheidssites weer online na lek"
  },
@@ -3545,7 +3545,7 @@
    "Letschert zegt dat ze ervan baalt dat ze de belofte aan studenten niet kan nakomen. Studentenorganisaties willen de coalitie er toch aan houden en roepen studenten op om een petitie te tekenen."
   ],
   "first": "Thu, 22 Oct 2026 16:19:00 +0000",
-  "last": "Fri, 23 Oct 2026 00:38:55 +0000",
+  "last": "Fri, 23 Oct 2026 01:24:21 +0000",
   "page": "106",
   "title": "\"Plafond studierente te risicovol\""
  },
@@ -3893,10 +3893,10 @@
   "body": [
    "De politie krijgt in Ter Apel opnieuw hulp van de marechaussee om de overlast van met name 'veiligelanders' terug te dringen. Die groep veroorzaakt al langer problemen in het dorp. Het gaat onder meer om zeer veel winkeldiefstallen, zegt burgemeester Velema.",
    "Ook zijn er geregeld incidenten zoals steekpartijen op en rond het terrein van het aanmeldcentrum. Vandaar dat de gemeente Westerwolde, waar Ter Apel onder valt, om hulp van de marechaussee heeft gevraagd, net als in 2022 en 2024.",
-   "Ook minister Van den Brink van Asiel en Migratie beloofde extra hulp, maar daar is onvoldoende van terechtgekomen, zegt Velema. Vandaag spreekt hij de minister."
+   "Ook minister Van den Brink van Asiel en Migratie beloofde extra hulp, maar daar is onvoldoende van terechtgekomen, zei Velema voor zijn gesprek met Vd Brink."
   ],
   "first": "Thu, 22 Oct 2026 12:01:08 +0000",
-  "last": "Fri, 23 Oct 2026 00:38:55 +0000",
+  "last": "Fri, 23 Oct 2026 01:24:21 +0000",
   "page": "105",
   "title": "Marechaussee opnieuw naar Ter Apel"
  },
@@ -4711,7 +4711,7 @@
    "Het ministerie van Buitenlandse Zaken zegt dat de veiligheid van medewerkers de hoogste prioriteit heeft."
   ],
   "first": "Thu, 22 Oct 2026 19:05:37 +0000",
-  "last": "Fri, 23 Oct 2026 00:38:55 +0000",
+  "last": "Fri, 23 Oct 2026 01:24:21 +0000",
   "page": "110",
   "title": "NL ambassade Caïro dicht na protest"
  },

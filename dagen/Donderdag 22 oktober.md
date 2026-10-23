@@ -138,11 +138,11 @@ De winnaar van de Nobelprijs voor de Vrede, Navanethem Pillay, noemt het werk va
 
 ## Overheidssites weer online na lek
 
-Ook de laatste websites van de Nederlandse overheid, die vannacht nog onbereikbaar waren na het grote PHP-lek van gisteren, zijn weer online. Meld Misdaad Anoniem en Overheid.nl zijn ook weer in de lucht.
+Ook de laatste websites van de Nederlandse overheid, die gisternacht onbereikbaar waren na het grote PHP-lek van eerder, zijn weer online. Meld Misdaad Anoniem en Overheid.nl zijn ook weer in de lucht.
 
 Bij NotuBiz, waar gemeenten, provincies en waterschappen berichten publiceren, zijn na grondig testen alle systemen veilig bevonden. Ook daar draait alles weer.
 
-Wereldwijd gingen gisteren veel sites van bedrijven en overheden op zwart nadat het PHP-lek bekend was gemaakt. De Autoriteit Persoonsgegevens zegt dat er in Nederland nog geen gevallen bekend zijn van gestolen data door het lek.
+Wereldwijd gingen de sites van diverse bedrijven en overheden op zwart nadat het PHP-lek bekend was gemaakt. De Autoriteit Persoonsgegevens zegt dat er in Nederland nog geen gevallen bekend zijn van gestolen data door het lek.
 
 ## Marechaussee opnieuw naar Ter Apel
 
@@ -150,7 +150,7 @@ De politie krijgt in Ter Apel opnieuw hulp van de marechaussee om de overlast va
 
 Ook zijn er geregeld incidenten zoals steekpartijen op en rond het terrein van het aanmeldcentrum. Vandaar dat de gemeente Westerwolde, waar Ter Apel onder valt, om hulp van de marechaussee heeft gevraagd, net als in 2022 en 2024.
 
-Ook minister Van den Brink van Asiel en Migratie beloofde extra hulp, maar daar is onvoldoende van terechtgekomen, zegt Velema. Vandaag spreekt hij de minister.
+Ook minister Van den Brink van Asiel en Migratie beloofde extra hulp, maar daar is onvoldoende van terechtgekomen, zei Velema voor zijn gesprek met Vd Brink.
 
 ## Macron verbiedt protest zonder bond
 
