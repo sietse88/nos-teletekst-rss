@@ -84,9 +84,9 @@ De meeste slachtoffers van de hitte zijn ouderen, maar ook zo'n 6000 mensen onde
 
 De Israëlische premier Netanyahu heeft opdracht gegeven voor een volledige afsluiting van de Westelijke Jordaanoever, nadat twee vermoedelijk Palestijnse mannen een aanval zouden hebben uitgevoerd op Israëlische militairen nabij de stad Hebron.
 
-Bij de aanval zijn volgens persbureaus drie militairen gewond geraakt. Eerder vandaag spraken Israëlische media nog van vijf gewonde Israëliërs. De twee aanvallers zijn doodgeschoten.
+Bij de aanval zijn volgens het leger van Israël twee militairen gedood en drie andere gewond geraakt. De twee aanvallers zijn doodgeschoten.
 
-Netanyahu wil dat Hebron "onmiddellijk volledig afgesloten" wordt. Ook moeten veiligheidstroepen voorbereidingen treffen voor een volledige afsluiting van de Westelijke Jordaanoever.
+Netanyahu wil dat Hebron "onmiddellijk volledig afgesloten" wordt. Ook moeten veiligheidstroepen voorbereidingen treffen voor een volledige afsluiting van de Westelijke Jordaanoever. Hoelang die moet duren, is niet duidelijk.
 
 ## "Aanvallen op ziekenhuizen Sudan"
 
