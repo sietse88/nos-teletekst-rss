@@ -154,8 +154,8 @@ Ook minister Van den Brink van Asiel en Migratie beloofde extra hulp, maar daar 
 
 ## Macron verbiedt protest zonder bond
 
-De Franse president Macron verbiedt voor komende zaterdag alle protesten die niet georganiseerd zijn door vakbonden. Hij zei na een spoedberaad dat overal waar mensen demonstreren die daar geen recht op hebben, zal worden ingegrepen om de rust terug te brengen.
+Het Europees Parlement heeft het Internationaal Strafhof (ICC) in Den Haag gekozen als de winnaar van de Sacharovprijs van dit jaar. Dat is de belangrijkste mensenrechtenprijs van de EU.
 
-Macron erkent dat de autoriteiten niet goed voorbereid waren op de grote protesten van afgelopen zaterdag. Door het hele land werden winkels geplunderd en waren er brandstichtingen en rellen.
+Het ICC staat onder grote druk van de Amerikaanse regering. President Trump wil met sancties het hof platleggen. Die moeten in april volgend jaar ingaan. Eerder legde de Trump-regering ook al sancties op aan individuele aanklagers en rechters.
 
-Afgelopen weekend mengden ultralinkse groepen zich in de protesten. Dat Macron nu met een verbod komt voor betogingen die niet gelieerd zijn aan een vakbond noemt de president "gezond verstand".
+De winnaar van de Nobelprijs voor de Vrede, Navanethem Pillay, noemt het werk van het ICC in deze tijd "belangrijker dan ooit".
