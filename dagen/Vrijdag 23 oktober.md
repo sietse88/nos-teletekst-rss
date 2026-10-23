@@ -138,8 +138,8 @@ Voor haar dood is de 23-jarige Abdi A. opgepakt. Hij wordt ook verdacht van een 
 
 ## Doden bij aanslag op kerk Jordanië
 
-In Jordanië hebben gewapende mannen het vuur geopend op kerkgangers. Daarbij zijn 6 doden gevallen en 28 mensen gewond geraakt, meldt de regering. De twee schutters zijn nog voortvluchtig.
+In Jordanië hebben gewapende mannen het vuur geopend op kerkgangers. Daarbij zijn 7 doden gevallen en 34 mensen gewond geraakt, meldt de regering. De drie schutters zijn nog voortvluchtig.
 
-Op het moment van de aanslag in de provincie Karak zou een begrafenis aan de gang zijn geweest. Volgens lokale media stapten twee mogelijk gemaskerde mannen uit een auto en openden ze het vuur op mensen die uit de kerk kwamen.
+Op het moment van de aanslag op de Grieks-orthodoxe kerk in de provincie Karak zou een begrafenis aan de gang zijn geweest. Op beelden is te zien dat drie mannen het vuur openen op mensen die uit de kerk komen.
 
 Ten tijde van de aanslag zouden tussen de 150 en 200 mensen aanwezig zijn geweest. Volgens een ooggetuige werd er 5 minuten lang geschoten op de mensen in de kerk. De meeste slachtoffers zouden tussen de 50 en 70 jaar zijn.
