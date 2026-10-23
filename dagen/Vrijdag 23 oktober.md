@@ -110,7 +110,7 @@ In Frankrijk en Engeland heeft storm Austen tot problemen geleid. Er werden in B
 
 Ruim 160.000 huishoudens in de Franse kustregio's zitten zonder stroom. Tot vanavond 20.00 uur geldt code oranje voor 23 departementen. Ook in Cornwall en Devon in het zuidwesten van Engeland geldt code oranje. Daar zitten ruim 13. 500 mensen zonder stroom.
 
-De storm zal zich oostwaarts langs Het Kanaal verplaatsen en zal vanavond en vannacht ook harde wind in delen van Nederland veroorzaken.
+De storm zal zich oostwaarts langs het Kanaal verplaatsen en zal vanavond en vannacht ook harde wind in delen van Nederland veroorzaken.
 
 ## Drugscrimineel John H. vrij na fout
 
