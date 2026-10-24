@@ -98,7 +98,7 @@ Trump koos afgelopen week openlijk partij voor de Russische president Poetin; di
 
 ## Verzorgster gewond na panteraanval
 
-In safaripark Beekse Bergen in Hilvarenbeek is vanochtend een verzorgster ernstig gewond geraakt na een panteraanval. Een woordvoerder van het park meldt dat ze aanspreekbaar is, maar haar toestand zorgelijk.
+In safaripark Beekse Bergen in Hilvarenbeek is vanochtend een verzorgster ernstig gewond geraakt na een panteraanval. De vrouw is inmiddels geopereerd, maar haar toestand blijft zorgelijk.
 
 De politie kreeg rond 11 uur een melding over de aanval. De verzorgster sloeg zelf alarm met haar portofoon. Of ze door een of twee panters in het park is aangevallen, is nog niet duidelijk.
 
