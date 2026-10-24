@@ -96,13 +96,13 @@ Onder meer de snelheid van drones werd fors minder, waardoor die niet meer effec
 
 Trump koos afgelopen week openlijk partij voor de Russische president Poetin; die zou weinig verkeerds doen.
 
-## Verzorgster aangevallen door panter
+## Verzorgster gewond na panteraanval
 
-In safaripark Beekse Bergen in Hilvarenbeek is vanochtend een verzorgster ernstig gewond geraakt nadat ze was aangevallen door een panter. Een woordvoerder van het park meldt dat ze aanspreekbaar is.
+In safaripark Beekse Bergen in Hilvarenbeek is vanochtend een verzorgster ernstig gewond geraakt na een panteraanval. Een woordvoerder van het park meldt dat ze aanspreekbaar is, maar haar toestand zorgelijk.
 
-De politie kreeg rond 11 uur een melding dat iemand gewond was aangetroffen in een van de binnenverblijven van het dierenpark. Wat er precies is gebeurd, is nog niet bekendgemaakt.
+De politie kreeg rond 11 uur een melding over de aanval. De verzorgster sloeg zelf alarm met haar portofoon. Of ze door een of twee panters in het park is aangevallen, is nog niet duidelijk.
 
-Na de melding ging de ambulancedienst en een traumahelikopter naar het park. De vrouw is meteen medisch behandeld en naar het ziekenhuis gebracht. Haar familie is op de hoogte gesteld.
+Na de melding gingen een ambulance en een traumahelikopter naar het park. De vrouw, die al 25 jaar in het park werkt, is behandeld en naar het ziekenhuis gebracht. Haar familie is op de hoogte gesteld.
 
 ## Brand Adelaarsnest: verwarde vast
 
