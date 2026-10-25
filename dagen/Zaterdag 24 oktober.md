@@ -90,11 +90,11 @@ Schuiling noemt het onbegrijpelijk dat het hof hem niet gelooft. "Het gaat in de
 
 ## Starlink werkt weer, zegt Oekraïne
 
-Oekraïne meldt dat de verbinding met Starlink weer stabiel is. Anderhalve week geleden begonnen de problemen met de satellietinternetvoorziening. Het Oekraïense leger zag zich daardoor voor grote problemen gesteld.
+Elon Musk zegt dat het Oekraïense leger de regels voor het gebruik van Starlink heeft geschonden en dat hij de toegang daarom heeft beperkt. Musk meldt op X dat het satellietnetwerk niet mag worden gebruikt om droneaanvallen te doen waarbij mensen worden gedood.
 
-Onder meer de snelheid van drones werd fors minder, waardoor die niet meer effectief konden opereren. Ook raakte de communicatie binnen het Oekraïense leger verstoord. President Zelensky zei dat de Amerikaanse regering erachter zat. President Trump en eigenaar van Starlink Elon Musk wezen naar elkaar.
+Door de beperking konden Oekraïense drones sinds 14 oktober niet sneller dan 160 kilometer per uur. De Oekraïense president Zelensky zei gisteren dat de toegang tot Starlink was hersteld.
 
-Trump koos afgelopen week openlijk partij voor de Russische president Poetin; die zou weinig verkeerds doen.
+Dat geldt ook voor de militaire variant Starshield, dat wel offensief mag worden gebruikt. Volgens Musk wordt dat systeem niet door zijn bedrijf SpaceX, maar door het Amerikaanse leger beheerd.
 
 ## Verzorgster gewond na panteraanval
 
