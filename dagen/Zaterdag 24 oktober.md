@@ -98,16 +98,16 @@ Dat geldt ook voor de militaire variant Starshield, dat wel offensief mag worden
 
 ## Verzorgster gewond na panteraanval
 
-In safaripark Beekse Bergen in Hilvarenbeek is vanochtend een verzorgster ernstig gewond geraakt na een panteraanval. De vrouw is inmiddels geopereerd, maar haar toestand blijft zorgelijk.
+In safaripark de Beekse Bergen in Hilvarenbeek is gisteren een medewerker ernstig gewond geraakt toen ze door een panter werd aangevallen. De vrouw is inmiddels geopereerd, maar haar toestand blijft zorgelijk.
 
-De politie kreeg rond 11 uur een melding over de aanval. De verzorgster sloeg zelf alarm met haar portofoon. Of ze door een of twee panters in het park is aangevallen, is nog niet duidelijk.
+De politie kreeg rond 11.00 uur een melding over de aanval. De verzorgster sloeg zelf alarm met haar portofoon. Er ging onder meer een traumahelikopter naar het park. De vrouw, die al 25 jaar in het park werkt, werd in kritieke toestand naar het ziekenhuis gebracht.
 
-Na de melding gingen een ambulance en een traumahelikopter naar het park. De vrouw, die al 25 jaar in het park werkt, is behandeld en naar het ziekenhuis gebracht. Haar familie is op de hoogte gesteld.
+De Beekse Bergen zoekt uit wat er is misgegaan, want normaal horen verzorgers niet met roofdieren in dezelfde ruimte aanwezig te zijn.
 
 ## Brand Adelaarsnest: verwarde vast
 
-De Duitse politie denkt dat een verwarde man vannacht de verwoestende brand heeft gesticht in Hitlers theehuis Adelaarsnest. De 33-jarige werd opgepakt toen hij brandweer en politie tegemoetreed op de smalle toegangsweg.
+De Duitse politie denkt dat een verwarde man gisteren de verwoestende brand heeft gesticht in Hitlers theehuis Adelaarsnest. De 33-jarige werd opgepakt toen hij brandweer en politie tegemoetreed op de smalle toegangsweg.
 
-Het Adelaarsnest op de Obersalzberg werd na de oorlog een café-restaurant. Het brandde vannacht uit. Als motief worden de mentale problemen van de man genoemd, al zouden er ook politieke drijfveren zijn.
+Het Adelaarsnest op de Obersalzberg werd na de oorlog een café-restaurant. Het brandde gisternacht uit. Als motief worden de mentale problemen van de man genoemd, al zouden er ook politieke drijfveren zijn.
 
-Omdat het een toeristische trekpleister en gedenkplek is, wil Beieren het pand herbouwen. Ook de uitbater denkt dat als er alleen een ruïne blijft, "je juist het toerisme krijgt dat je niet wil."
+Omdat het een toeristische trekpleister en gedenkplek is, wil Beieren het pand herbouwen. Ook de uitbater denkt dat als er alleen een ruïne blijft, "je juist het toerisme krijgt dat je niet wilt".
