@@ -88,7 +88,7 @@ Het hof in Zwolle veroordeelde hem vorige week tot een boete van 250 euro voor s
 
 Schuiling noemt het onbegrijpelijk dat het hof hem niet gelooft. "Het gaat in deze zaak over een relatief kleine boete, maar de gevolgen voor mij zijn immens", staat in de verklaring.
 
-## Starlink werkt weer, zegt Oekraïne
+## Musk: Kyiv schond regels Starlink
 
 Elon Musk zegt dat het Oekraïense leger de regels voor het gebruik van Starlink heeft geschonden en dat hij de toegang daarom heeft beperkt. Musk meldt op X dat het satellietnetwerk niet mag worden gebruikt om droneaanvallen te doen waarbij mensen worden gedood.
 
