@@ -90,7 +90,7 @@ Schuiling noemt het onbegrijpelijk dat het hof hem niet gelooft. "Het gaat in de
 
 ## Musk: Kyiv schond regels Starlink
 
-Elon Musk zegt dat het Oekraïense leger de regels voor het gebruik van Starlink heeft geschonden en dat hij de toegang daarom heeft beperkt. Musk meldt op X dat het satellietnetwerk niet mag worden gebruikt om droneaanvallen te doen waarbij mensen worden gedood.
+Elon Musk zegt dat het Oekraïense leger de regels voor het gebruik van Starlink heeft geschonden en dat hij de toegang daarom heeft beperkt. Musk meldt op X dat het satellietnetwerk niet mag worden gebruikt om droneaanvallen uit te voeren waarbij mensen worden gedood.
 
 Door de beperking konden Oekraïense drones sinds 14 oktober niet sneller dan 160 kilometer per uur. De Oekraïense president Zelensky zei gisteren dat de toegang tot Starlink was hersteld.
 
