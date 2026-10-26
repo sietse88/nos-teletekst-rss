@@ -84,7 +84,9 @@ De Houthi's zeggen dat ze het vliegveld ook zaterdag, toen het nog dicht was, al
 
 Aan de Zuid-Hollandse kust wordt naar een vermiste watersporter gezocht. De surfer of kitesurfer raakte gisteren uit zicht bij Scheveningen. Daarop werd een zoekactie gestart. Die werd gestaakt toen het donker werd en is vanochtend hervat met onder meer boten van de KNRM. Zodra de weersomstandigheden het toelaten, wordt de zoekactie uitgebreid.
 
-## Weer hindert zoekactie kitesurfer
+## Politieman op non-actief om lekken
+
+Het Openbaar Ministerie is een onderzoek begonnen naar een medewerker van de politie Oost-Brabant. De man heeft mogelijk geheime informatie gelekt en wordt verdacht van het ambtsgeheim. Hij zit niet vast, maar staat wel op non-actief. Welke functie hij heeft en welke informatie hij zou hebben gelekt en met wie is onbekend.
 
 De zoektocht naar een kitesurfer die vermist raakte bij Scheveningen is weer stilgelegd. Het is niet veilig genoeg op zee om verder te zoeken. Toen de surfer gisteren uit zicht raakte, werd meteen een grote zoekactie gestart, onder meer met boten van de KNRM. De zoektocht gaat vandaag niet meer verder.
 
