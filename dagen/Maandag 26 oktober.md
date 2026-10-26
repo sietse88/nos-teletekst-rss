@@ -100,7 +100,7 @@ Turkije en Pakistan zijn terughoudend met militaire steun. Ze zeggen dat het gee
 
 Stemacteur Eric Bauza, bekend van Bugs Bunny, is gisteren plotseling overleden op 46-jarige leeftijd. Dat meldt zijn familie op sociale media. Hij overleed aan hart- en vaatziekten.
 
-Bauza werd geboren in Canada en was van Filipijnse afkomst. Hij won drie Emmy's, de belangrijkste Amerikaanse tv-prijs, voor zijn werk. Hij was de stem van meer Loony Tunes-figuren: Tweety, Daffy Duck, Porky Pig en Marvin the Martian. Het mediabedrijf Warner Bros is eigenaar van deze karakters.
+Bauza werd geboren in Canada en was van Filipijnse afkomst. Hij won drie Emmy's, de belangrijkste Amerikaanse tv-prijs, voor zijn werk. Hij was de stem van meer Looney Tunes-figuren: Tweety, Daffy Duck, Porky Pig en Marvin the Martian. Het mediabedrijf Warner Bros is eigenaar van deze karakters.
 
 Bauza maakte op school zijn klasgenoten aan het lachen door stemmen na te doen. Als kind was hij al gek op tekenfilms van Warner Bros. Hij werkte er 15 jaar.
 
