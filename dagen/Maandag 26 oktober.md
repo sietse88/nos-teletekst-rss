@@ -86,7 +86,7 @@ Aan de Zuid-Hollandse kust wordt naar een vermiste watersporter gezocht. De surf
 
 ## Politieman op non-actief om lekken
 
-Het Openbaar Ministerie is een onderzoek begonnen naar een medewerker van de politie Oost-Brabant. De man heeft mogelijk geheime informatie gelekt en wordt verdacht van het ambtsgeheim. Hij zit niet vast, maar staat wel op non-actief. Welke functie hij heeft en welke informatie hij zou hebben gelekt en met wie is onbekend.
+Het OM is een onderzoek begonnen naar een medewerker van de politie Oost-Brabant. De man heeft mogelijk geheime informatie gelekt en wordt verdacht van schending van het ambtsgeheim. Hij zit niet vast, maar staat wel op non-actief. Welke functie hij heeft en welke informatie hij zou hebben gelekt en naar wie is onbekend.
 
 De zoektocht naar een kitesurfer die vermist raakte bij Scheveningen is weer stilgelegd. Het is niet veilig genoeg op zee om verder te zoeken. Toen de surfer gisteren uit zicht raakte, werd meteen een grote zoekactie gestart, onder meer met boten van de KNRM. De zoektocht gaat vandaag niet meer verder.
 
