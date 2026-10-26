@@ -106,7 +106,7 @@ Bauza werd geboren in Canada en was van Filipijnse afkomst. Hij won drie Emmy's,
 
 Bauza maakte op school zijn klasgenoten aan het lachen door stemmen na te doen. Als kind was hij al gek op tekenfilms van Warner Bros. Hij werkte er 15 jaar.
 
-## Doden na botsing bus en truck Kenia
+## Deel Oxford Street Londen autovrij
 
 Vanaf vandaag mogen er geen auto's, bussen en fietsers meer rijden door een deel van Oxford Street in Londen. De drukke winkelstraat moet daarmee aantrekkelijker worden voor bezoekers. Verkeer wordt omgeleid door omliggende straten. Bewoners daarvan zijn bang voor verkeersoverlast. Oxford Street trekt dagelijks een half miljoen bezoekers.
 
