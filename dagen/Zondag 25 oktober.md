@@ -26,11 +26,11 @@ Ook in andere steden, zoals Nice, Lyon en Lille, heeft de politie met traangas o
 
 ## Zomertijd afgelopen: klok uur terug
 
-Vannacht is er weer een einde gekomen aan de zomertijd. Om 03.00 uur ging de klok een uur terug en werd het opnieuw 02.00 uur. Daardoor is het 's ochtends een uur eerder licht en aan het einde van de dag een uur eerder donker.
+Het vrachtschip UHL Freedom dat zondagmiddag ten noorden van het eiland Schiermonnikoog vrijwel stuurloos raakte, vaart weer zelfstandig. Volgens de Kustwacht gebeurt dat met beperkt motorvermogen.
 
-De zomertijd begint elk jaar in het laatste weekend van maart en duurt tot het laatste weekend van oktober. In de daaropvolgende vijf maanden geldt de standaardtijd, vaak wintertijd genoemd.
+Het schip kwam in de problemen toen het anker geen grip meer kreeg op de bodem en daarna motorproblemen ontstonden. Drie van de 25 bemanningsleden raakten daarbij gewond.
 
-Veel mensen vinden het verzetten van de klok omslachtig of ervaren fysieke aanpassingsproblemen. Toch lukt het niet om de zomertijd af te schaffen omdat de meningen over het gewenste alternatief uiteenlopen.
+Na een grootschalige reddingsoperatie, waarbij onder meer reddingsboten, een helikopter, een vliegtuig en slepers werden ingezet, kon het schip rond 18.35 uur de vaart hervatten. De Kustwacht blijft de situatie volgen.
 
 ## Kabinet: met 7 partijen aan tafel
 
@@ -58,11 +58,11 @@ Zorgverzekeraars vergoeden de zorg pas als er een bewezen behandelmethode is, ma
 
 ## Vluchten Schiphol geschrapt om wind
 
-Vele tientallen vluchten van en naar Schiphol zijn geschrapt. Dat heeft te maken met de harde wind. Daardoor kunnen niet alle start- en landingsbanen op de luchthaven gebruikt worden waardoor er minder vliegtuigen aankomen en gaan.
+Huisartsen, medisch specialisten en wetenschappers verwerpen de plannen van zorgminister Hermans om de financiering van longcovidexpertisecentra fors af te bouwen en de verantwoordelijkheid voor de zorg voor patiënten met long covid en aandoeningen als Q-koorts en ME weer grotendeels bij de huisarts te leggen.
 
-De wind heeft gisteravond en vannacht al voor overlast en schade gezorgd. Zo belandde in Amsterdam-Noord een boom op een rijdende auto, de bestuurder raakte gewond. In Rijnsburg, bij Leiden, raakte een woonhuis beschadigd. Bij Alphen aan den Rijn kwam een boom op de N207 neer.
+Huisartsen bieden in beginsel alleen zorg als er solide bewijs en medische richtlijnen voor behandeling zijn, maar het onderzoek verkeert nog in een pril stadium, waarschuwt het zorgveld.
 
-Ook vandaag moet er rekening gehouden worden met de harde wind die wordt veroorzaakt door lagedrukgebied Boelo. Er kunnen zware windstoten voorkomen.
+Zorgverzekeraars vergoeden de zorg pas als er een bewezen behandelmethode is, maar die komt er niet als er geen geld is voor onderzoek, is de waarschuwing.
 
 ## Libris-prijs naar Maite Karssenberg
 
