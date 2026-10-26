@@ -66,8 +66,8 @@ Zorgverzekeraars vergoeden de zorg pas als er een bewezen behandelmethode is, ma
 
 ## Libris-prijs naar Maite Karssenberg
 
-Schrijver Maite Karssenberg heeft de Libris Geschiedenis Prijs ontvangen voor haar biografie Dubbelleven, over de 19e eeuwse radicale denker Geertruida Kapteyn-Muysken. Het boek legt volgens de jury de "schrikbarend ondergeschikte rol van de vrouw in de 19e eeuw bloot".
+Het vrachtschip UHL Freedom dat zondagmiddag ten noorden van het eiland Schiermonnikoog vrijwel stuurloos raakte, vaart weer zelfstandig. Volgens de Kustwacht gebeurt dat met beperkt motorvermogen.
 
-Kapteyn-Muysken filosofeerde over een betere wereld maar was tegelijkertijd een getrouwde vrouw met kinderen die het huishouden moest doen. Ze wilde studeren en de wereld verbeteren en werd na haar dood geroemd als een van de meest vrije en onbevangen geesten.
+Het schip kwam in de problemen toen het anker geen grip meer kreeg op de bodem en daarna motorproblemen ontstonden. Drie van de 25 bemanningsleden raakten daarbij gewond.
 
-De lezer wordt door Karssenberg in haar zoektocht naar de radicale denker aan de hand genomen en leert beiden kennen.
+Na een grootschalige reddingsoperatie, waarbij onder meer reddingsboten, een helikopter, een vliegtuig en slepers werden ingezet, kon het schip rond 18.35 uur de vaart hervatten. De Kustwacht blijft de situatie volgen.
