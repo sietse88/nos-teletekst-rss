@@ -108,7 +108,7 @@ Bauza maakte op school zijn klasgenoten aan het lachen door stemmen na te doen. 
 
 ## Deel Oxford Street Londen autovrij
 
-Vanaf vandaag mogen er geen auto's, bussen en fietsers meer rijden door een deel van Oxford Street in Londen. De drukke winkelstraat moet daarmee aantrekkelijker worden voor bezoekers. Verkeer wordt omgeleid door omliggende straten. Bewoners daarvan zijn bang voor verkeersoverlast. Oxford Street trekt dagelijks een half miljoen bezoekers.
+Sinds gisteren mogen er geen auto's, bussen en fietsers meer rijden door een deel van Oxford Street in Londen. De drukke winkelstraat moet daarmee aantrekkelijker worden voor bezoekers. Verkeer wordt omgeleid door omliggende straten. Bewoners daarvan zijn bang voor verkeersoverlast. Oxford Street trekt dagelijks een half miljoen bezoekers.
 
 Bij een frontale botsing tussen een bus en een vrachtwagen in Kenia zijn zeker 24 mensen omgekomen. De bus haalde een aantal voertuigen in toen er een vrachtwagen aankwam. De bus week nog uit maar de chauffeur kon een botsing niet voorkomen. In de bus zaten kerkgangers die op de terugweg naar Nairobi waren na een uitvaart in Mombassa.
 
