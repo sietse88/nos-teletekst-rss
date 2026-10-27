@@ -86,11 +86,11 @@ De radicaal-rechtse Bolsonaro verloor de presidentsverkiezingen van de linkse zi
 
 ## Opkomst verkiezingen Israël hoog
 
-De opkomst bij de verkiezingen in Israël is hoog. Rond het middaguur waren er volgens de Kiescommissie 2,3 miljoen stemmen uitgebracht. Dat betekent een opkomst van 31,5 procent, het hoogste opkomstpercentage sinds 1977.
+De opkomst bij de verkiezingen in Israël is hoog. Om 20.00 uur had meer dan 74 procent van de kiesgerechtigden gestemd, meldt de Centrale Kiescommissie. Dat is de hoogste opkomst in decennia op dat tijdstip.
 
 Ook het Israëlische leger, dat de opkomst onder militairen bijhoudt, meldt een fors hoger percentage dan in het verleden vaak het geval was. 70.000 buitenlandse stemgerechtigden zijn naar Israël gereisd om te stemmen.
 
-Het zijn de eerste verkiezingen van het parlement sinds de terreuraanval van Hamas drie jaar geleden. De stembureaus zijn tot vanavond 21.00 uur Nederlandse tijd geopend.
+Het zijn de eerste verkiezingen van het parlement sinds de terreuraanval van Hamas drie jaar geleden. De stembureaus waren tot vanavond 21.00 uur Nederlandse tijd geopend.
 
 ## Aanval Jordanië in Syrië om aanslag
 
