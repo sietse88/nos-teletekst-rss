@@ -172,13 +172,13 @@ De radicaal-rechtse politicus Bolsonaro is Brazilië ontvlucht nadat hij zondag 
 
 Het Hooggerechtshof in Brazilië had de 45-jarige Bolsonaro opgedragen om zijn paspoorten in te leveren in verband met een onderzoek naar witwaspraktijken, corruptie en belastingontduiking. Daarop zei Bolsonaro dat hij er "nooit aan gedacht heeft het land te verlaten".
 
-## Oekraïne krijgt tweede steunpakket
+## Kabinet geeft Oekraïne half miljard
 
 Oekraïne krijgt ook nog 500 miljoen euro aan militaire steun van Nederland. Het "wintersteunpakket" zoals premier Jetten het noemt, is bedoeld voor drones en luchtverdediging. Jetten kondigde het steunpakket aan op een persconferentie, na een ontmoeting met de Oekraïense president Zelensky.
 
 "Uw strijd is onze strijd", zei Jetten op de persconferentie in het Catshuis waar hij naast Zelensky stond. Vanavond wordt Zelensky ontvangen op Paleis Huis ten Bosch door koning Willem-Alexander.
 
-Eerder vandaag kondigde het kabinet al een nieuw steunpakket van 1,2 miljard euro aan voor de komende drie jaar. Het geld is voor niet-militaire steun.
+Het kabinet had Oekraïne al 1,2 miljard toegezegd voor de komende drie jaar. 40 miljoen wordt dit jaar al overgemaakt, dat is eerder dan afgesproken.
 
 ## Taakstraffen geëist om grafschennis
 
@@ -188,7 +188,7 @@ De vrouwen hadden fiat gekregen van de toenmalige directeur van begraafplaats Ru
 
 De seance kwam aan het licht doordat de vader van een overleden kind een camera vond bij het graf. Op de camera stonden beelden van de spirituele sessie.
 
-## Trein reed na instructie door rood
+## Trein reed op instructie door rood
 
 De hogesnelheidstrein in Spanje die op een stilstaande trein reed, was met toestemming van de treinverkeersleiding doorgereden terwijl er een rood sein was. Dat zegt transportminister Puente.
 
