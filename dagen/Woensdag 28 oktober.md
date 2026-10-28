@@ -140,7 +140,7 @@ Minister Dacic van Binnenlandse Zaken spreekt van een terroristische aanslag. Hi
 
 Het dreigingsniveau in Servië is naar het hoogste niveau verhoogd. Er is extra politie ingezet. De jongen zou in beeld zijn geweest bij de veiligheidsdiensten vanwege banden met Islamitische Staat.
 
-## Treinongeluk Spanje, zeker 64 doden
+## Treinongeluk Spanje, zeker 68 doden
 
 Bij een botsing tussen twee treinen in Spanje zijn zeker 68 mensen om het leven gekomen. De regionale autoriteiten hebben dat bekendgemaakt. Het ongeluk gebeurde op de hogesnelheidslijn van Madrid naar Andalusië, bij Toledo. Het lijkt erop dat de ene trein achter op de andere is gereden, die stilstond.
 
