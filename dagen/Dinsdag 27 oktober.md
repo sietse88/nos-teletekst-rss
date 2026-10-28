@@ -158,7 +158,7 @@ Ook radiomaker Hans Schiffers was bij de lunch vanwege de Marconi Award die hij 
 
 ## Verzorgster Beekse Bergen overleden
 
-De verzorgster van safaripark Beekse Bergen die zaterdag ernstig gewond raakte door een panteraanval is vandaag overleden. Dat meldt het park uit Hilvarenbeek in een verklaring, in overleg met haar familie.
+De verzorgster van safaripark Beekse Bergen die zaterdag ernstig gewond raakte bij een panteraanval is gisteren overleden. Dat meldt het park uit Hilvarenbeek in een verklaring, in overleg met haar familie.
 
 Zondag zei een woordvoerder van Beekse Bergen al dat haar toestand was verslechterd en dat artsen vreesden dat ze de panteraanval niet zou overleven.
 
