@@ -632,7 +632,7 @@
    "De zaak-Maduro en andere zaken van Hellerstein worden opnieuw toegewezen."
   ],
   "first": "Thu, 29 Oct 2026 01:20:24 +0000",
-  "last": "Thu, 29 Oct 2026 03:36:43 +0000",
+  "last": "Thu, 29 Oct 2026 03:52:09 +0000",
   "page": "129",
   "title": "9/11-rechter Hellerstein overleden"
  },
@@ -1270,7 +1270,7 @@
    "Panahi is met zijn films veelvuldig in de prijzen gevallen. Vorig jaar won hij de Gouden Palm op het filmfestival van Cannes voor It was just an accident."
   ],
   "first": "Wed, 28 Oct 2026 19:16:21 +0000",
-  "last": "Thu, 29 Oct 2026 03:36:43 +0000",
+  "last": "Thu, 29 Oct 2026 03:52:09 +0000",
   "page": "131",
   "title": "Opnieuw cel voor Iraanse regisseur"
  },
@@ -2290,7 +2290,7 @@
    "De seance kwam aan het licht doordat de vader van een overleden kind een camera vond bij het graf. Op de camera stonden beelden van de spirituele sessie."
   ],
   "first": "Wed, 28 Oct 2026 15:32:27 +0000",
-  "last": "Thu, 29 Oct 2026 03:36:43 +0000",
+  "last": "Thu, 29 Oct 2026 03:37:02 +0000",
   "page": "107",
   "title": "Taakstraffen geëist om grafschennis"
  },
@@ -2400,7 +2400,7 @@
    "Het Braziliaanse Hooggerechtshof had de politicus opgedragen zijn paspoorten in te leveren vanwege strafonderzoeken. De VS had laten weten dat Bolsonaro en zijn gezin een visum konden krijgen."
   ],
   "first": "Thu, 29 Oct 2026 00:50:05 +0000",
-  "last": "Thu, 29 Oct 2026 03:36:43 +0000",
+  "last": "Thu, 29 Oct 2026 03:37:02 +0000",
   "page": "126",
   "title": "Trump wil Democraat van kieslijst"
  },
@@ -3184,7 +3184,7 @@
    "Treinen op dat traject kwamen hierdoor allemaal tot stilstand. Daarna kreeg de hogesnelheidstrein alsnog toestemming door te rijden, ondanks het rode sein."
   ],
   "first": "Wed, 28 Oct 2026 15:47:38 +0000",
-  "last": "Thu, 29 Oct 2026 03:36:43 +0000",
+  "last": "Thu, 29 Oct 2026 03:52:09 +0000",
   "page": "130",
   "title": "Trein reed op instructie door rood"
  },
@@ -3539,7 +3539,7 @@
    "D66 zegt geschrokken te zijn. Zolang het onderzoek loopt, doet de partij \"geen uitspraken over de zaak\"."
   ],
   "first": "Wed, 28 Oct 2026 21:32:47 +0000",
-  "last": "Thu, 29 Oct 2026 03:36:43 +0000",
+  "last": "Thu, 29 Oct 2026 03:52:09 +0000",
   "page": "105",
   "title": "\"D66'er verdacht van stembusfraude\""
  },
@@ -4095,7 +4095,7 @@
    "ABP en PME moeten in januari naar het nieuwe pensioenstelsel overstappen. Hoe meer geld ze dan hebben, hoe meer ze kunnen verdelen. Als de economie en rente stabiel blijven, kunnen de pensioenen volgens PME stijgen met ruim 12 procent."
   ],
   "first": "Thu, 29 Oct 2026 00:34:55 +0000",
-  "last": "Thu, 29 Oct 2026 03:36:43 +0000",
+  "last": "Thu, 29 Oct 2026 03:52:09 +0000",
   "page": "104",
   "title": "Pensioen ABP en PME mogelijk omhoog"
  },
@@ -5224,7 +5224,7 @@
    "In juni werd de landelijke ophokplicht opgeheven, omdat het aantal besmettingen met vogelgriep sterk was afgenomen. Ook het tentoonstellingsverbod voor alle vogels werd toen opgeheven."
   ],
   "first": "Wed, 28 Oct 2026 17:30:15 +0000",
-  "last": "Thu, 29 Oct 2026 03:36:43 +0000",
+  "last": "Thu, 29 Oct 2026 03:52:09 +0000",
   "page": "106",
   "title": "Per direct ophokplicht pluimvee"
  },
@@ -5469,6 +5469,17 @@
   "last": "Tue, 27 Oct 2026 09:12:44 +0000",
   "page": "106",
   "title": "Kabinet zoekt steun belastingplan"
+ },
+ "nos-tt-eecf88bc930b6eb0": {
+  "body": [
+   "In Spanje is de hele nacht gezocht naar slachtoffers van het treinongeluk. \"We zoeken door totdat niemand meer vastzit\", zegt de Spaanse politie.",
+   "Gisteren botste een hogesnelheidstrein op een stilstaande trein. Zeker 68 mensen kwamen om, tientallen raakten gewond en een onbekend aantal wordt nog vermist. Vanwege het ongeluk is drie dagen van nationale rouw afgekondigd.",
+   "Treinmachinisten in Spanje pleiten al langer voor structurele verbeteringen voor de veiligheid op het spoor, mede vanwege twee dodelijke ongelukken begin dit jaar. Voor vandaag stond daarom al een staking gepland. Die is om middernacht begonnen."
+  ],
+  "first": "Thu, 29 Oct 2026 03:52:09 +0000",
+  "last": "Thu, 29 Oct 2026 03:52:09 +0000",
+  "page": "125",
+  "title": "Zoektocht na treinongeluk in Spanje"
  },
  "nos-tt-ef4698e93411853a": {
   "body": [
@@ -5738,15 +5749,18 @@
   "title": "Aanvallen op christenen in Ethiopië"
  },
  "nos-tt-fcb47ab780eb5862": {
+  "aliassen": [
+   "nos-tt-156bfbbae86dfff9"
+  ],
   "body": [
    "De naar de VS gevluchte Braziliaanse politicus Flávio Bolsonaro zegt dat hij vanuit de Verenigde Staten de oppositie in Brazilië wil leiden. Zondag verloor Bolsonaro de presidentsverkiezingen van de linkse Lula da Silva.",
    "Het is de eerste keer dat Bolsonaro van zich laat horen nadat hij is aangekomen in de VS. Bolsonaro herhaalde dat hij de verkiezingsuitslag niet gelooft. Verder meldt de radicaal-rechtse politicus dat hij de leider van Brazilië is.",
    "Het Braziliaanse Hooggerechtshof had de politicus opgedragen zijn paspoorten in te leveren vanwege strafonderzoeken. De VS had laten weten dat Bolsonaro en zijn gezin een visum konden krijgen."
   ],
   "first": "Wed, 28 Oct 2026 21:17:36 +0000",
-  "last": "Thu, 29 Oct 2026 03:06:25 +0000",
-  "page": "127",
-  "title": "Bolsonaro: oppositieleider vanuit VS"
+  "last": "Thu, 29 Oct 2026 03:52:09 +0000",
+  "page": "126",
+  "title": "Trump wil Democraat van stembiljet"
  },
  "nos-tt-fd5388d4c2a46dfd": {
   "body": [
