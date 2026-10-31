@@ -118,7 +118,7 @@ Door de ruzie over de aanstelling van rechters dreigt de onafhankelijkheid van d
 
 ## Aanhoudingen bij Malieveld Den Haag
 
-Op en rond het Malieveld in Den Haag zijn zeker tien mensen aangehouden voor het dragen van gezichtsbedekking of het in bezit hebben van illegaal vuurwerk. Er was veel politie op de been vanwege aangekondigde jongerenprotesten.
+Op en rond het Malieveld in Den Haag zijn 34 mensen aangehouden voor het dragen van gezichtsbedekking of het in bezit hebben van illegaal vuurwerk. Er was veel politie op de been vanwege aangekondigde jongerenprotesten.
 
 Tientallen demonstranten stonden op het Plein, sommigen droegen een Prinsenvlag bij zich, een extreemrechts symbool. Ook leden van de harde kern van voetbalclub ADO waren op het Plein. Zij kondigden gisteren aan ondernemers in het centrum te zullen "beschermen" tegen plunderen.
 
