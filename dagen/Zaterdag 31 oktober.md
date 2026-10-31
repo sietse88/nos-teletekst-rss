@@ -94,11 +94,11 @@ Burnham zegt te gaan spreken met slachtoffers van de slavenhandel en dat daarbij
 
 ## 36 migranten op boot bij Breskens
 
-Hulpdiensten hebben vanochtend een rubberboot met 38 mensen van zee gehaald bij Breskens. Onder de opvarenden waren 36 migranten, meldt de Koninklijke Marechaussee. De andere twee opvarenden zijn aangehouden op verdenking van mensensmokkel.
+Hulpdiensten hebben bij Breskens een boot met migranten van zee gehaald. Aan boord waren 36 Afghanen en 2 Sudanezen, meldt de marechaussee. De Sudanezen zijn aangehouden, omdat ze worden verdacht van mensensmokkel.
 
-Rond 06.00 uur kwam een melding binnen van een verdachte situatie. Toen marechaussees aankwamen, zagen ze de rubberboot drijven. De boot is naar een jachthaven in Cadzand gesleept.
+Rond 06.00 uur kreeg de marechaussee een melding over een verdachte situatie voor de Zeeuws-Vlaamse kust. Ze vonden een rubberboot zonder motor, met mensen zonder zwemvest en met hun benen over de rand. De marechaussee spreekt van "gevaarlijke omstandigheden".
 
-De migranten zijn opgevangen. Het is nog onduidelijk waar ze vandaan komen. Over hun gezondheidstoestand kan een woordvoerder van de marechaussee nog niets zeggen.
+De boot is naar Cadzand gesleept, waar de migranten zijn opgevangen. Waar de boot vandaan kwam of hoe de mensen eraan toe zijn, is niet bekendgemaakt.
 
 ## Evacués Olesjky terug in Oekraïne
 
