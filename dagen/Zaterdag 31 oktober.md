@@ -106,15 +106,15 @@ De mensen die uit de Zuid-Oekraïense stad Olesjky zijn geëvacueerd, zijn via e
 
 De Zuid-Oekraïense stad Olesjky wordt al jaren belegerd door Rusland en de situatie verslechterde de laatste tijd. Er dreigde hongersnood. Dinsdag ging een staakt-het-vuren in om de inwoners te evacueren. De evacuatie begon gisteren.
 
-Mensen werden via de Krim met bussen naar de Russische stad Anapa gebracht. Met vliegtuigen bereikten ze Belarus, vanwaaruit ze weer naar Oekraïne zijn gebracht. Ze kwamen vanmiddag aan in de noordelijke regio Tsjernihiv. Het gaat naar schatting om honderden mensen.
+Mensen werden via de Krim met bussen naar de Russische stad Anapa gebracht. Met vliegtuigen bereikten ze Belarus, vanwaaruit ze weer naar Oekraïne zijn gebracht. Ze kwamen gisteren aan in de noordelijke regio Tsjernihiv. Het gaat naar schatting om honderden mensen.
 
 ## Rel rond Constitutioneel Hof Polen
 
-De president van Polen is vannacht fysiek in aanraking gekomen met rechters van het Constitutioneel Hof toen hij het gebouw probeerde binnen te komen. Hij werd daar tegengehouden, maar wist zichzelf naar binnen te duwen.
+De president van Polen is gisternacht fysiek in aanraking gekomen met rechters van het Constitutioneel Hof toen hij het gebouw probeerde binnen te komen. Hij werd daar tegengehouden, maar wist zichzelf naar binnen te duwen.
 
 Een conflict over de aanstelling van nieuwe rechters is hoog opgelopen. De voorzitter van het hof werd gisteren geschorst. Die was benoemd door de vorige PiS-regering en werkt de huidige regering van premier Tusk tegen.
 
-Door de ruzie over de aanstelling van rechters dreigt de onafhankelijkheid van de rechtstaat in Polen in het geding te komen. Nawrocki houdt vandaag spoedoverleg over de rel.
+Door de ruzie over de aanstelling van rechters dreigt de onafhankelijkheid van de rechtstaat in Polen in het geding te komen. Nawrocki hield gisteren spoedoverleg over de rel.
 
 ## Aanhoudingen bij Malieveld Den Haag
 
