@@ -78,11 +78,11 @@ Vannacht werd een olieraffinaderij in Nizjni Novgorod geraakt, waardoor brand ui
 
 The Wall Street Journal meldde vrijdag niettemin dat Oekraïne tijdelijk met de aanvallen gestopt was na wekenlange druk van de VS. De pauze kon volgens de krant mogelijk duren tot na de verkiezingen van dinsdag in de VS.
 
-## DH wil schade verhalen bij opruiers
+## DH wil schade verhalen op opruiers
 
 De gemeente Den Haag wil kijken of mensen die opriepen tot geweld in de stad kunnen opdraaien voor de schade die ondernemers hebben geleden. Het kwam uiteindelijk niet tot geweld, maar winkeliers maakten wel kosten.
 
-Op sociale media waren jongeren opgeroepen om zaterdag in Nederlandse steden te gaan rellen. Onder meer in Den Haag was er veel politie op de been. Het werd wel onrustig in de stad, maar de situatie bleef beheersbaar.
+Op sociale media waren jongeren opgeroepen om gisteren in Nederlandse steden te gaan rellen. Onder meer in Den Haag was er veel politie op de been. Het werd wel onrustig in de stad, maar de situatie bleef beheersbaar.
 
 Winkeliers hielden uit voorzorg hun zaak dicht en hadden hun puien dichtgetimmerd. Ze spreken van vele duizenden euro's aan kosten. Wethouder De Mos noemt dat "van de zotte".
 
