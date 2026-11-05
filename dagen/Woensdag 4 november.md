@@ -170,11 +170,11 @@ Hij doelt op de claim van 431.000 euro die hij heeft ingediend voor kosten die h
 
 ## Ook meer Democratische gouverneurs
 
-De Amerikaanse vicepresident Vance wijt de nederlaag van de Republikeinen aan de oorlog in het Midden-Oosten, net als president Trump dat eerder deed.
+De Democraten hebben niet alleen de macht overgenomen in het Congres, maar leveren ook meer gouverneurs. In vijf staten moet een Republikein plaatsmaken voor een Democraat: Texas, Nevada, Iowa, Ohio en Georgia.
 
-Vance schrijft dat hij de dag al somber begon, nadat opiniepeilers hem een zege voor de Democraten voorspelden. Volgens de informatie die hij kreeg, zijn veel Republikeinse kiezers woedend, vooral over de kosten van levensonderhoud. Ze kwamen wel opdagen bij de stembus maar kozen voor de Democraten, aldus Vance.
+Daarmee krijgen zeker 28 staten een Democratische gouverneur. In 20 staten blijft een Republikein aan de macht. In Kansas en Alaska is nog geen uitslag bekend. In beide gaat een Democraat aan de leiding.
 
-Vance haalt een opiniepeiler aan die, naast de oorlog en de prijsstijgingen, de omslag ook wijt aan de relatie met Israël en de niet nagekomen belofte om Amerika op de eerste plaats te zetten.
+In Georgia is de Democraat Keisha Lance Bottoms als gouverneur gekozen. Ze wordt de eerste zwarte vrouwelijke gouverneur ooit in de VS. Het ambt in Georgia was sinds 1998 in Republikeinse handen.
 
 ## Massaclaim tegen Chemours om pfas
 
