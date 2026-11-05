@@ -114,11 +114,11 @@ In Ohio, de thuisstaat van vicepresident JD Vance, gaat de Senaatszetel ook van 
 
 ## Democraten winnen Huis en Senaat
 
-De Democraten zijn de grote winnaar van de tussentijdse verkiezingen voor het Amerikaanse Congres. Ze krijgen niet alleen, zoals verwacht, de meerderheid in het Huis van Afgevaardigden, maar ook in de 100 zetels tellende Senaat.
+De Democraten hebben niet alleen de macht overgenomen in het Congres, maar leveren ook meer gouverneurs. In vijf staten moet een Republikein plaatsmaken voor een Democraat: Texas, Nevada, Iowa, Ohio en Georgia.
 
-In de Senaat staan de Democraten op 54 zetels, tegen 44 voor de Republikeinen. In het Huis is de stand 237 tegen 147. 51 zetels zijn nog niet beslist.
+Daarmee krijgen zeker 28 staten een Democratische gouverneur. In 20 staten blijft een Republikein aan de macht. In Kansas en Alaska is nog geen uitslag bekend. In beide gaat een Democraat aan de leiding.
 
-Vooral het veroveren van Senaatszetels door de Democraten in staten als Kansas en Texas is historisch. De Republikeinen verliezen ook Maine, Iowa, Ohio en North en South Carolina. In twee staten staat de uitslag van de Senaatsverkiezingen nog niet vast: Alaska en Mississippi.
+In Georgia is de Democraat Keisha Lance Bottoms als gouverneur gekozen. Ze wordt de eerste zwarte vrouwelijke gouverneur ooit in de VS. Het ambt in Georgia was sinds 1998 in Republikeinse handen.
 
 ## Trump stelt zich verzoenend op
 
@@ -170,11 +170,11 @@ Hij doelt op de claim van 431.000 euro die hij heeft ingediend voor kosten die h
 
 ## Ook meer Democratische gouverneurs
 
-De Democraten hebben niet alleen de macht overgenomen in het Congres, maar leveren ook meer gouverneurs. In vijf staten moet een Republikein plaatsmaken voor een Democraat: Texas, Nevada, Iowa, Ohio en Georgia.
+De Amerikaanse vicepresident Vance wijt de nederlaag van de Republikeinen aan de oorlog in het Midden-Oosten, net als president Trump dat eerder deed.
 
-Daarmee krijgen zeker 28 staten een Democratische gouverneur. In 20 staten blijft een Republikein aan de macht. In Kansas en Alaska is nog geen uitslag bekend. In beide gaat een Democraat aan de leiding.
+Vance schrijft dat hij de dag al somber begon, nadat opiniepeilers hem een zege voor de Democraten voorspelden. Volgens de informatie die hij kreeg, zijn veel Republikeinse kiezers woedend, vooral over de kosten van levensonderhoud. Ze kwamen wel opdagen bij de stembus maar kozen voor de Democraten, aldus Vance.
 
-In Georgia is de Democraat Keisha Lance Bottoms als gouverneur gekozen. Ze wordt de eerste zwarte vrouwelijke gouverneur ooit in de VS. Het ambt in Georgia was sinds 1998 in Republikeinse handen.
+Vance haalt een opiniepeiler aan die, naast de oorlog en de prijsstijgingen, de omslag ook wijt aan de relatie met Israël en de niet nagekomen belofte om Amerika op de eerste plaats te zetten.
 
 ## Massaclaim tegen Chemours om pfas
 
