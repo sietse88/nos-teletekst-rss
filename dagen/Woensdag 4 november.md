@@ -116,7 +116,7 @@ In Ohio, de thuisstaat van vicepresident JD Vance, gaat de Senaatszetel ook van 
 
 De Democraten zijn de grote winnaar van de tussentijdse verkiezingen voor het Amerikaanse Congres. Ze krijgen niet alleen, zoals verwacht, de meerderheid in het Huis van Afgevaardigden, maar ook in de 100 zetels tellende Senaat.
 
-In de Senaat staan de Democraten op 54 zetels, tegen 44 voor de Republikeinen. In het Huis is de stand 228 tegen 139. 68 zetels zijn nog niet beslist.
+In de Senaat staan de Democraten op 54 zetels, tegen 44 voor de Republikeinen. In het Huis is de stand 237 tegen 147. 51 zetels zijn nog niet beslist.
 
 Vooral het veroveren van Senaatszetels door de Democraten in staten als Kansas en Texas is historisch. De Republikeinen verliezen ook Maine, Iowa, Ohio en North en South Carolina. In twee staten staat de uitslag van de Senaatsverkiezingen nog niet vast: Alaska en Mississippi.
 
