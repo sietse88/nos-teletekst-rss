@@ -180,10 +180,10 @@ Die noemt dat een ernstig risico voor de nationale veiligheid. Volgens NCTV Mark
 
 Kuipers zegt ook dat hij en anderen jarenlang hebben gewaarschuwd, maar dat daar te laks op is gereageerd. Volgens hem is de basisverdediging op veel plaatsen niet op orde en worden ook lekken vaak te laat gedicht.
 
-## "FBI pakt vader Meghan Markle op"
+## FBI pakt vader Meghan Markle op
 
-De 82-jarige vader van Meghan Markle is door de FBI aangehouden in een verzorgingshuis in Florida. Dat melden bronnen aan de Britse krant Daily Mail en persbureau AP. Thomas Markle herstelt in Florida van een beroerte.
+De 82-jarige vader van Meghan Markle is door de FBI aangehouden in een verzorgingshuis in Florida. Dat meldt de openbaar aanklager. Hij is geboeid in een rolstoel afgevoerd. Thomas Markle herstelt in Florida van een beroerte.
 
-In een huis van Markle op de Filipijnen vond een broer van Meghan Markle vorige maand kinderporno. Op een telefoon stond een video van 15 minuten met beelden van naakte, jonge meisjes. Later vond hij meer materiaal.
+Markle is aangeklaagd voor het bezit van beeldmateriaal van misbruik van jonge meisjes. Daarop is hij ook zelf te zien. Het materiaal lag in twee opslagruimtes bij Los Angeles die hij bijna twintig jaar lang huurde.
 
-De broer deed aangifte en de politie bevestigde later de vondst. In Mexico loopt ook een onderzoek naar Markle. Daar zou in een opslagruimte op zijn naam ook kinderporno zijn gevonden.
+In een huis van Markle op de Filipijnen vond een broer van Meghan Markle vorige maand ook kinderporno. Er loopt ook nog een onderzoek in Mexico naar misbruik van kinderen door Thomas Markle.
