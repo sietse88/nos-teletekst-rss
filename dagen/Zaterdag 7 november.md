@@ -40,9 +40,9 @@ De kennisquiz De Slimste Mens is gewonnen door WNL-verslaggever Mats Akkerman. H
 
 De VS heeft gisteravond een aanval uitgevoerd op Iran, de eerste sinds de tussentijdse verkiezingen van dinsdag. Volgens president Trump was het "een kleine aanval" van amper een kwartier.
 
-Iraanse staatsmedia melden dat twee projectielen zijn ingeslagen op het eiland Qeshm. Op dat eiland in de Straat van Hormuz bevinden zich belangrijke Iraanse legerbases. Iran zegt niets over schade. Wel zou het een onbemande Amerikaanse drone hebben neergehaald.
+Iraanse staatsmedia melden dat twee projectielen zijn ingeslagen op het eiland Qeshm. Op dat eiland in de Straat van Hormuz bevinden zich belangrijke Iraanse legerbases. Iran zegt niets over schade. Wel zou het land een onbemande Amerikaanse drone hebben neergehaald.
 
-Al enige tijd wordt ervan uitgegaan dat Trump een omvangrijke aanval op Iran voorbereidt, maar dat hij die bewust over de verkiezingen heen heeft getild. Trump heeft dat plan nooit bevestigd.
+Al enige tijd wordt ervan uitgegaan dat Trump een omvangrijke aanval op Iran voorbereidt, maar dat hij die bewust over de verkiezingen heen heeft getild. Trump heeft dat plan niet bevestigd.
 
 ## Pastoor nieuwe trainer PEC Zwolle
 
@@ -54,21 +54,21 @@ De 60-jarige Pastoor was eerder coach van onder andere Excelsior, NEC, Slavia Pr
 
 De parlementsverkiezingen in Nieuw-Zeeland zijn uitgelopen op een nek-aan-nekrace. Het centrumrechtse National van premier Luxon gaat gelijk op met de grootste oppositiepartij, Labour. Enkele duizenden stemmen scheiden de twee.
 
-Beide partijen hebben de overwinning daarom nog niet opgeëist. Samenwerken zit er niet in: dat hebben ze nog nooit gedaan. Een van beide partijen moet met kleinere partijen een coalitie vormen.
+Beide partijen hebben de overwinning daarom nog niet opgeëist. Samenwerken zit er niet in, dat hebben ze nog nooit gedaan. Een van beide partijen moet met kleinere partijen een coalitie vormen.
 
-Het centrale thema was de hoge kosten van levensonderhoud. Ook de stagnerende economie en hoge werkloosheid speelden een grote rol. Jonge Nieuw-Zeelanders zoeken steeds vaker hun heil in Australië, waar ze meer verdienen.
+Centraal thema waren de hoge kosten van levensonderhoud. Ook de stagnerende economie en hoge werkloosheid speelden een grote rol. Jonge Nieuw-Zeelanders zoeken vaker hun heil in Australië, waar ze meer kunnen verdienen.
 
 ## EU kijkt naar treinsubsidies Spanje
 
-Het Europees Openbaar Ministerie (EOM) is een tweede onderzoek gestart naar mogelijke fraude met subsidies van de EU. Deze waren bedoeld voor renovatie van de systemen op het traject tussen Madrid en Sevilla in Spanje.
+Het Europees Openbaar Ministerie (EOM) is een tweede onderzoek gestart naar mogelijke fraude met subsidies van de EU. Deze waren bedoeld voor renovatie van de spoorsystemen op het traject tussen Madrid en Sevilla in Spanje.
 
 Een hogesnelheidstrein botste daar vorige week op een stilstaande trein. Daarbij vielen 69 doden en tientallen gewonden. Het onderzoek wordt gedaan op initiatief van het EOM en wordt door de Spaanse Guardia Civil ondersteund.
 
-Er liep al een onderzoek naar mogelijke fraude met EU-middelen die waren bedoeld voor onderhoud van hetzelfde traject. Dat onderzoek begon na een ongeluk in januari met 46 doden.
+Er liep al een onderzoek naar mogelijke fraude met EU-middelen bedoeld voor het onderhoud van hetzelfde traject. Dat is een onderzoek dat al is begonnen na een treinongeluk in januari, met 46 doden.
 
-## Vijf doden bij schietpartij Krakau
+## Man opent vuur in Krakau: zes doden
 
-Bij een schietpartij in het centrum van de Poolse stad Krakau zijn volgens de Poolse autoriteiten vijf mensen om het leven gekomen. Ook zijn er vijftien gewonden, onder wie drie agenten. In het historische centrum werd rond 15.00 uur geschoten vanuit een rijdende auto.
+Bij een schietpartij in het centrum van de Poolse stad Krakau zijn volgens de Poolse autoriteiten zes mensen om het leven gekomen. Ook zijn er vijftien gewonden, onder wie drie agenten. In het historische centrum werd rond 15.00 uur geschoten vanuit een rijdende auto.
 
 De schutter is ter plekke neergeschoten door agenten. Hij is naar een ziekenhuis gebracht en aangehouden. De achtergrond van de schietpartij wordt onderzocht, zegt de Poolse premier Tusk. Er zou niet naar andere verdachten worden gezocht.
 
