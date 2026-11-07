@@ -68,8 +68,8 @@ Er liep al een onderzoek naar mogelijke fraude met EU-middelen bedoeld voor het 
 
 ## Man opent vuur in Krakau: zes doden
 
-Bij een schietpartij in het centrum van de Poolse stad Krakau zijn volgens de Poolse autoriteiten zes mensen om het leven gekomen. Ook zijn er vijftien gewonden, onder wie drie agenten. In het historische centrum werd rond 15.00 uur geschoten vanuit een rijdende auto.
+Bij een schietpartij in het centrum van de Poolse stad Krakau zijn mensen gedood: twee mannen en vier vrouwen. Ze werden beschoten door een man vanuit een auto. Er zijn ook vijftien gewonden, onder wie drie politiemensen.
 
-De schutter is ter plekke neergeschoten door agenten. Hij is naar een ziekenhuis gebracht en aangehouden. De achtergrond van de schietpartij wordt onderzocht, zegt de Poolse premier Tusk. Er zou niet naar andere verdachten worden gezocht.
+De schutter reed vanmiddag door het historische centrum en schoot passanten neer. De politie ging achter hem aan en wist hem uit te schakelen. Hij is naar een ziekenhuis gebracht en aangehouden. Het is een Pool van 24 uit de buurt van Krakau. Zijn motief is onbekend. Er lagen veel wapens en munitie in de auto.
 
-Op het moment van de schietpartij was het druk in Krakau. Mensen, onder wie toeristen, verschansten zich in winkels. Het centrale plein is afgezet.
+Op het moment van de schietpartij was het druk in de stad. Mensen, onder wie toeristen, renden in paniek winkels in.
