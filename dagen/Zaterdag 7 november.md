@@ -46,7 +46,7 @@ Al enige tijd wordt ervan uitgegaan dat Trump een omvangrijke aanval op Iran voo
 
 ## Pastoor nieuwe trainer PEC Zwolle
 
-Alex Pastoor is de nieuwe trainer van PEC Zwolle. De Noord-Hollander volgt bij de nummer 13 in de eredivisie de recent ontslagen Henry van der Vegt op en tekent tot het einde van het seizoen.
+Alex Pastoor is de nieuwe trainer van PEC Zwolle. De Noord-Hollander volgt bij de nummer dertien van de eredivisie de recent ontslagen Henry van der Vegt op en heeft een contract getekend tot het einde van het seizoen.
 
 De 60-jarige Pastoor was eerder coach van onder andere Excelsior, NEC, Slavia Praag, Sparta en Almere City. Een jaar geleden werd Pastoor bij Indonesië als assistent van trainer Patrick Kluivert ontslagen na het mislopen van het WK. Sindsdien zat hij zonder club.
 
