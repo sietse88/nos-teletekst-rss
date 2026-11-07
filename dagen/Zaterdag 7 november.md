@@ -72,4 +72,4 @@ Bij een schietpartij in het centrum van de Poolse stad Krakau zijn volgens de Po
 
 De schutter is ter plekke neergeschoten door agenten. Hij is naar een ziekenhuis gebracht en aangehouden. De achtergrond van de schietpartij wordt onderzocht, zegt de Poolse premier Tusk. Er zou niet naar andere verdachten worden gezocht.
 
-Op het moment van de schietpartij was het druk in Krakau. Mensen verschansten zich in winkeltjes. Het centrum wordt ook veel bezocht door toeristen.
+Op het moment van de schietpartij was het druk in Krakau. Mensen, onder wie toeristen, verschansten zich in winkels. Het centrale plein is nu afgezet.
