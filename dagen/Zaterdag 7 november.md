@@ -68,8 +68,8 @@ Er liep al een onderzoek naar mogelijke fraude met EU-middelen die waren bedoeld
 
 ## Vijf doden bij schietpartij Krakau
 
-Bij een schietpartij in het centrum van de Poolse stad Krakau zijn volgens de Poolse autoriteiten vijf mensen om het leven gekomen. Ook zijn er meer dan tien gewonden, ook twee agenten. In het historische centrum werd rond 15.00 uur geschoten vanuit een rijdende auto.
+Bij een schietpartij in het centrum van de Poolse stad Krakau zijn volgens de Poolse autoriteiten vijf mensen om het leven gekomen. Ook zijn er vijftien gewonden, onder wie drie agenten. In het historische centrum werd rond 15.00 uur geschoten vanuit een rijdende auto.
 
 De schutter is ter plekke neergeschoten door agenten. Hij is naar een ziekenhuis gebracht en aangehouden. De achtergrond van de schietpartij wordt onderzocht, zegt de Poolse premier Tusk. Er zou niet naar andere verdachten worden gezocht.
 
-Op het moment van de schietpartij was het druk in Krakau. Mensen, onder wie toeristen, verschansten zich in winkels. Het centrale plein is nu afgezet.
+Op het moment van de schietpartij was het druk in Krakau. Mensen, onder wie toeristen, verschansten zich in winkels. Het centrale plein is afgezet.
