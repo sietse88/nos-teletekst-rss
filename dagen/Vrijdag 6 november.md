@@ -46,9 +46,9 @@ Daardoor werden torenhoge waarderingen van techbedrijven naar beneden bijgesteld
 
 ## Alliana nieuwe president Paraguay
 
-Pedro Alliana is beëdigd als nieuwe president van Paraguay. Hij volgt Santiago Penã op, die door het parlement was afgezet vanwege de bankcrisis.
+Pedro Alliana is beëdigd als president van Paraguay. Hij volgt Santiago Penã op, die door het parlement was afgezet vanwege de bankcrisis.
 
-Bijna 3 van de 6,5 miljoen Paraguayanen kunnen door het omvallen één van de grootste banken van het land niet bij hun tegoeden. Pena bleek aandeelhouder te zijn van de bank en moest opstappen. Deze week diende hij zijn ontslag in, maar de Senaat stemde daar niet mee in. Pena werd afgezet en verloor daarbij de juridische bescherming die hij als president wel zou hebben gehad.
+Bijna 3 van de 6,5 miljoen Paraguayanen kunnen door het omvallen van een van de grootste banken van het land niet bij hun tegoeden. Pena bleek aandeelhouder te zijn van de bank en moest opstappen. Deze week diende hij zijn ontslag in, maar de Senaat stemde daar niet mee in. Pena werd afgezet en verloor daardoor juridische bescherming. Hij is inmiddels onder huisarrest geplaatst.
 
 Alliana was jarenlang vicepresident onder Pena. Beiden zijn ze lid van de conservatieve Colorado-partij.
 
