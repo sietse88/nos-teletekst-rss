@@ -46,11 +46,11 @@ Daardoor werden torenhoge waarderingen van techbedrijven naar beneden bijgesteld
 
 ## Alliana nieuwe president Paraguay
 
-De president Pena van Paraguay is opgestapt. Hij stond onder grote druk vanwege een bankencrisis in zijn land. Miljoenen Paraguayanen kunnen niet meer bij hun geld, omdat de bank Ueno onder toezicht is geplaatst vanwege ernstige financiële problemen.
+Pedro Alliana is beëdigd als nieuwe president van Paraguay. Hij volgt Santiago Penã op, die door het parlement was afgezet vanwege de bankcrisis.
 
-Alle tegoeden en banktransacties zijn geblokkeerd om te voorkomen dat de bank omvalt. Enkele topbankiers zijn gearresteerd.
+Bijna 3 van de 6,5 miljoen Paraguayanen kunnen door het omvallen één van de grootste banken van het land niet bij hun tegoeden. Pena bleek aandeelhouder te zijn van de bank en moest opstappen. Deze week diende hij zijn ontslag in, maar de Senaat stemde daar niet mee in. Pena werd afgezet en verloor daarbij de juridische bescherming die hij als president wel zou hebben gehad.
 
-Duizenden Paraguayanen gingen de straat op om Pena's aftreden te eisen. Ook de oppositie was woedend en eiste zijn vertrek. Pena geeft daar nu gehoor aan, naar eigen zeggen om de stabiliteit en democratie van Paraguay te beschermen.
+Alliana was jarenlang vicepresident onder Pena. Beiden zijn ze lid van de conservatieve Colorado-partij.
 
 ## Een-op-eentjes over belastingplan
 
