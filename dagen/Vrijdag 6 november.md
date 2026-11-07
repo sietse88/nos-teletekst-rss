@@ -44,7 +44,7 @@ Nu de Democraten in de VS aan terrein hebben gewonnen, zijn beleggers bang dat d
 
 Daardoor werden torenhoge waarderingen van techbedrijven naar beneden bijgesteld en kan het de slechtste dag voor de Amerikaanse beursindex worden sinds april 2025.
 
-## President Paraguay weg na protesten
+## Alliana nieuwe president Paraguay
 
 De president Pena van Paraguay is opgestapt. Hij stond onder grote druk vanwege een bankencrisis in zijn land. Miljoenen Paraguayanen kunnen niet meer bij hun geld, omdat de bank Ueno onder toezicht is geplaatst vanwege ernstige financiële problemen.
 
