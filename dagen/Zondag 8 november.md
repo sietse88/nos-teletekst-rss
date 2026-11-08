@@ -134,10 +134,10 @@ Een man van in de dertig drong het landgoed Skaugum binnen. Hij bonkte op de deu
 
 Noorse media schrijven dat de indringer psychische problemen heeft. Hoiby kreeg deze zomer vier jaar cel vanwege twee verkrachtingen en huiselijk geweld. Hij verblijft met een enkelband op Skaugum.
 
-## Vier doden bij treinongeluk Egypte
+## Zeven doden bij treinongeluk Egypte
 
-Bij een treinongeluk in Egypte zijn zeker vier mensen om het leven gekomen en tientallen anderen gewond geraakt. Dat meldt het Egyptische ministerie van Volksgezondheid. Het ongeluk was in het gouvernement Gizeh, zo'n 50 kilometer ten zuiden van Caïro.
+Bij een treinongeluk in Egypte zijn zeker zeven mensen om het leven gekomen en ruim honderd anderen gewond geraakt. Dat meldt het Egyptische ministerie van Volksgezondheid. Het ongeluk was in het gouvernement Gizeh, zo'n 50 kilometer ten zuiden van Caïro.
 
-Een trein botste achterop een andere trein die vanuit Caïro op weg was naar Aswan, in het zuiden van Egypte. Daarbij ontspoorden meerdere wagons. De bijna 90 gewonden zijn naar ziekenhuizen in de buurt gebracht, meldt het ministerie.
+Een trein botste achterop een andere trein die vanuit Caïro op weg was naar Aswan, in het zuiden van Egypte. Daarbij ontspoorden meerdere wagons. De gewonden zijn naar nabijgelegen ziekenhuizen gebracht, meldt het ministerie.
 
 De Egyptische president Sisi heeft een onderzoek laten instellen. "Iedereen die bewezen nalatig is geweest, wordt ter verantwoording geroepen", schrijft hij.
