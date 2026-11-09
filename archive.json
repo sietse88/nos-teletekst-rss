@@ -379,7 +379,7 @@
    "Het staatsbezoek, van 9 tot en met 11 december, is bedoeld om de banden met Qatar te versterken. Het paar wordt vergezeld door de ministers Berendsen van Buitenlandse Zaken, Yesilgöz van Defensie en Sjoerdsma van Buitenlandse Handel en Ontwikkelingssamenwerking en staatssecretaris Erkens van Landbouw."
   ],
   "first": "Mon, 09 Nov 2026 18:54:39 +0000",
-  "last": "Mon, 09 Nov 2026 19:55:16 +0000",
+  "last": "Mon, 09 Nov 2026 20:25:34 +0000",
   "page": "104",
   "title": "Koning en koningin gaan naar Qatar"
  },
@@ -708,7 +708,7 @@
    "De geweren hebben technologie om drones uit de lucht te kunnen schieten. Over de samenwerking met Israël zegt directeur Zondervan dat het gaat om een zakelijke transactie en dat hij zich niet met politiek wil bezighouden."
   ],
   "first": "Mon, 09 Nov 2026 18:54:39 +0000",
-  "last": "Mon, 09 Nov 2026 19:55:16 +0000",
+  "last": "Mon, 09 Nov 2026 20:40:42 +0000",
   "page": "107",
   "title": "NL maakt wapens naar ontwerp Israël"
  },
@@ -879,17 +879,6 @@
   "page": "105",
   "title": "Inburgeringstijd langer bij werk"
  },
- "nos-tt-27b40dda8bea5fe9": {
-  "body": [
-   "In de Saudische hoofdstad Riyad zijn meerdere gewonden gevallen bij een aanval op de internationale luchthaven. Volgens twee regionale functionarissen werd het vliegveld ontruimd nadat een raket een passagiersterminal had geraakt.",
-   "Hoeveel mensen gewond zijn geraakt, is nog onduidelijk. Het vliegverkeer van en naar King Khalid International Airport ligt stil.",
-   "Donderdag vielen Houthi-rebellen, die worden gesteund door Iran, ook het vliegveld in Riyad aan. Saudi-Arabië steunt het Jemenitische regeringsleger, dat deze week een groot offensief tegen de Houthi's begon."
-  ],
-  "first": "Sat, 10 Oct 2026 20:28:03 +0000",
-  "last": "Sat, 10 Oct 2026 20:28:03 +0000",
-  "page": "128",
-  "title": "Aanval legt vliegverkeer Riyad stil"
- },
  "nos-tt-27eb4abd53500377": {
   "aliassen": [
    "nos-tt-fc95bf978a40d7a1"
@@ -911,7 +900,7 @@
    "Het overleg was bedoeld om de onrust weg te nemen. De afgelopen weken waren er meerdere grootschalige protesten, onder meer tegen de hoge kosten van levensonderhoud en de slechte staat van het onderwijs. Op 17 november zijn er weer stakingen en protesten gepland."
   ],
   "first": "Mon, 09 Nov 2026 18:54:39 +0000",
-  "last": "Mon, 09 Nov 2026 19:55:16 +0000",
+  "last": "Mon, 09 Nov 2026 20:40:42 +0000",
   "page": "130",
   "title": "Frans minimumloon met 1,6% verhoogd"
  },
@@ -933,7 +922,7 @@
    "PMF (Pythagoras Music Fund) werd in 2021 opgericht en heeft inmiddels de rechten opgekocht van bands als Golden Earring en Shocking Blue."
   ],
   "first": "Mon, 09 Nov 2026 18:54:39 +0000",
-  "last": "Mon, 09 Nov 2026 19:55:16 +0000",
+  "last": "Mon, 09 Nov 2026 20:40:42 +0000",
   "page": "105",
   "title": "Rachel Hazes verkoopt rechten André"
  },
@@ -1084,6 +1073,17 @@
   "last": "Mon, 12 Oct 2026 10:18:11 +0000",
   "page": "126",
   "title": "Dode en gewonden na aanval in Riyad"
+ },
+ "nos-tt-2fd893df020af4b0": {
+  "body": [
+   "Bij een explosie in een staalfabriek in het westen van Turkije zijn zeker 16 mensen om het leven gekomen. 13 mensen raakten gewond van wie er twee slecht aan toe zijn. De fabriek staat in de kustplaats Aliaga, ongeveer 60 kilometer ten noorden van Izmir.",
+   "De explosie ontstond toen een zogeheten bovenloopkraan afbrak. Dat is een grote kraan die aan een railsysteem hangt en in een fabriekshal grote objecten kan verplaatsen. De installatie viel in een grote industriële oven die gebruikt wordt voor het gieten van vloeibaar staal. Ook brak er brand uit.",
+   "Inmiddels zijn zes mensen aangehouden. Waarvoor is nog niet duidelijk."
+  ],
+  "first": "Mon, 09 Nov 2026 20:40:42 +0000",
+  "last": "Mon, 09 Nov 2026 20:40:42 +0000",
+  "page": "129",
+  "title": "Ongeluk staalfabriek: zeker 16 doden"
  },
  "nos-tt-30633dbfc76813f2": {
   "body": [
@@ -1919,7 +1919,7 @@
    "Nvidia is een onafhankelijk onderzoek begonnen naar de affaire. De raad van bestuur zegt dat er geen reden is om aan te nemen dat er bedrijfsgeheimen zijn gestolen of dat de veiligheid van de VS in gevaar is gebracht."
   ],
   "first": "Mon, 09 Nov 2026 18:54:39 +0000",
-  "last": "Mon, 09 Nov 2026 19:55:16 +0000",
+  "last": "Mon, 09 Nov 2026 20:40:42 +0000",
   "page": "126",
   "title": "Koers Nvidia hard omlaag na affaire"
  },
@@ -2812,22 +2812,6 @@
   "page": "128",
   "title": "Onrust bij protesten steden Europa"
  },
- "nos-tt-78fa29dbad380096": {
-  "body": [
-   "Feyenoord heeft de koppositie van AZ overgenomen door de Alkmaarders in een rechtstreeks duel met 2-0 te verslaan.",
-   "Feyenoord had in de laatste duels voor de interlandbreak als een wervelwind de opponent weggeblazen. Het nog ongeslagen AZ bleef even overeind, maar na een fout van Goes sloeg Ferri toe. AZ kwam er wat beter in, maar Meerdink stuitte op Ernst en zag tot zijn verbazing een penalty op VAR-advies ingetrokken worden.",
-   "AZ begon na rust sterk, maar nadat Ferri al over had gekopt, tikte López raak uit een corner. Achterin gaf Feyenoord haast niets weg. Alleen Koopmeiners (naast) en Kovács (over) waren kansrijk. Valente en Van den Elshout misten een counterkans.",
-   "Rotterdam, zaterdag: FEYENOORD 2 AZ 0 Ferri (13) López (59)",
-   "A: Makkelie T: 47.500",
-   "G: Targhalline Schouten, Daal, Goes",
-   "FEYENOORD: Ernst, Read, St. Juste, Mármol, López, Vanhoutte, Zechiël (v.d.Elshout/ 77), Targhalline, Hadj Moussa, Ferri (Diarra/89), Valente",
-   "AZ: De Busser, Dijkstra (Kasius/68), Goes, Schouten, Chávez, Clasie (Kovács/ 80), Stengs, Koopmeiners, Oufkir, Meerdink, Daal (Patati/68)"
-  ],
-  "first": "Sat, 10 Oct 2026 20:28:03 +0000",
-  "last": "Sun, 11 Oct 2026 13:46:59 +0000",
-  "page": "822",
-  "title": "Feyenoord koploper na winst op AZ"
- },
  "nos-tt-7a0055e9940bda0f": {
   "body": [
    "Jordanië heeft aanvallen uitgevoerd op doelen in Syrië, in reactie op de aanslag van vrijdag op een kerk. Negen mensen kwamen om en tientallen anderen raakten gewond toen schutters het vuur openden op een uitvaart. Gisteren zijn daar drie Jordaniërs voor opgepakt.",
@@ -2973,7 +2957,7 @@
    "Premier Jetten zei in zijn toespraak dat antisemitisme \"terug is van nooit weggeweest\" en dat de samenleving daar weerbaarder tegen gemaakt moet worden."
   ],
   "first": "Mon, 09 Nov 2026 18:54:39 +0000",
-  "last": "Mon, 09 Nov 2026 19:55:16 +0000",
+  "last": "Mon, 09 Nov 2026 20:40:42 +0000",
   "page": "108",
   "title": "Kristallnacht herdacht in Amsterdam"
  },
@@ -3184,17 +3168,6 @@
   "last": "Fri, 23 Oct 2026 11:31:05 +0000",
   "page": "127",
   "title": "New York wil verbod paardenkoetsen"
- },
- "nos-tt-871fbf883f9c79a2": {
-  "body": [
-   "De Amerikaanse president Trump heeft opnieuw uitgehaald naar de Oekraïense president Zelensky. In een gesprek met de Amerikaanse pers zei Trump dat het tijd is dat Oekraïne een nieuwe leider krijgt. Die zou volgens hem dan wel een deal kunnen sluiten om de oorlog met Rusland te beëindigen.",
-   "De sneer komt een dag nadat Trump had bekendgemaakt dat de VS diesel uit Rusland gaat importeren. Trump heeft al meermaals gezegd dat hij vindt dat Oekraïne moet stoppen met de aanvallen op Russische olieraffinaderijen.",
-   "Na de bekendmaking van de dieseldeal viel Oekraïne de haven van Rostov aan de Don aan, cruciaal voor olie-export."
-  ],
-  "first": "Sat, 10 Oct 2026 20:28:03 +0000",
-  "last": "Sun, 11 Oct 2026 06:49:22 +0000",
-  "page": "129",
-  "title": "Trump wil dat Zelensky vertrekt"
  },
  "nos-tt-882b76f00f6dc688": {
   "body": [
@@ -4920,7 +4893,7 @@
    "De hackers lieten de temperatuur in de koel- en vriessystemen van supermarkten oplopen tot boven de 50 graden. Daardoor ontstond veel schade. Vorige week werden koelsystemen gehackt van supermarkten in onder andere Nederland en België."
   ],
   "first": "Mon, 09 Nov 2026 18:54:39 +0000",
-  "last": "Mon, 09 Nov 2026 19:55:16 +0000",
+  "last": "Mon, 09 Nov 2026 20:40:42 +0000",
   "page": "131",
   "title": "Frankrijk: Iran saboteerde koelingen"
  },
@@ -4998,7 +4971,7 @@
    "Vitesse-De Graafschap wordt op maandag 23 november ingehaald. Dat heeft de KNVB maandagavond bekendgemaakt."
   ],
   "first": "Mon, 09 Nov 2026 18:54:39 +0000",
-  "last": "Mon, 09 Nov 2026 19:55:16 +0000",
+  "last": "Mon, 09 Nov 2026 20:40:42 +0000",
   "page": "802",
   "title": "De Graafschap: maanden geen fans mee"
  },
@@ -5206,7 +5179,7 @@
    "Ook de andere slachtoffers spreken van een trauma dat ze hebben opgelopen. De bekendheid van Brand maakte het voor de vrouwen extra moeilijk om alles te verwerken. De rechter noemde Brand een \"seksueel roofdier\"."
   ],
   "first": "Mon, 09 Nov 2026 18:54:39 +0000",
-  "last": "Mon, 09 Nov 2026 19:55:16 +0000",
+  "last": "Mon, 09 Nov 2026 20:40:42 +0000",
   "page": "125",
   "title": "Ruim 10 jaar cel voor Russell Brand"
  },
