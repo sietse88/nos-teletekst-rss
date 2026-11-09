@@ -104,9 +104,9 @@ Tientallen gearresteerde betogers zijn inmiddels veroordeeld en geëxecuteerd. E
 
 ## "Migrantenboot naar Franse wateren"
 
-Voor de kust van Nieuwpoort in België heeft urenlang een bootje met ongeveer dertig migranten gedobberd. De boot is inmiddels doorgevaren naar Frankrijk, melden Belgische media.
+Voor de kust van Nieuwpoort in België heeft urenlang een bootje met ongeveer dertig migranten gedobberd. De boot is daarna doorgevaren naar Frankrijk, melden Belgische media.
 
-De migranten hadden zelf een noodoproep gedaan, maar wilden niet van boord gehaald worden. Ze belden rond 05.30 uur de alarmcentrale met de melding dat ze in nood verkeerden. De hulpdiensten rukten uit met een helikopter en boten en traceerden het bootje rond 08.00 uur op drie kilometer van de kust.
+De migranten hadden zelf een noodoproep gedaan, maar wilden niet van boord gehaald worden. Ze belden rond 05.30 uur gisterochtend de alarmcentrale met de melding dat ze in nood verkeerden. De hulpdiensten rukten met een helikopter en boten uit en zagen het bootje rond 08.00 uur drie kilometer uit de kust.
 
 Vorige week werd een rubberboot met 38 mensen van zee gehaald in Zeeland. Dat waren 36 Afghaanse migranten en twee vermoedelijke mensensmokkelaars.
 
@@ -130,7 +130,7 @@ Het is de vierde keer dat de Rode Lijn-demonstratie wordt georganiseerd. Dit kee
 
 Marius Borg Hoiby, de zoon van de Noorse koningin Mette-Marit, is in zijn woning aangevallen door een onbekende man. Het incident speelde in de nacht van donderdag op vrijdag.
 
-Een man van in de dertig drong het landgoed Skaugum binnen. Hij bonkte op de deur van de woning van 29-jarige Hoiby, die openmaakte. De man probeerde daarop met geweld binnen te komen, maar Hoiby kon hem naar buiten werken. De politie overmeesterde hem daarna.
+Een man van in de dertig drong het landgoed Skaugum binnen. Hij bonkte op de deur van de woning van 29-jarige Hoiby, die opendeed. De man probeerde met geweld binnen te komen, maar Hoiby kon hem naar buiten werken. Daarna werd hij door de politie overmeesterd.
 
 Noorse media schrijven dat de indringer psychische problemen heeft. Hoiby kreeg deze zomer vier jaar cel vanwege twee verkrachtingen en huiselijk geweld. Hij verblijft met een enkelband op Skaugum.
 
