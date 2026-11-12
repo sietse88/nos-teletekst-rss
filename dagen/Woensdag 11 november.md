@@ -158,7 +158,7 @@ De staking is een initiatief van de vakbonden. Hoewel het begon als protest tege
 
 In bijna alle grote steden zijn voor vanavond grote demonstraties gepland. In Catalonië worden 9000 agenten ingezet, 3000 meer dan op een gewone dag. Vooral Barcelona vreest voor rellen.
 
-## Morgen debat over belastingsituatie
+## Vanaf 10.15 uur debat in Kamer
 
 Een meerderheid van de Tweede Kamer wil de deal tussen D66, CDA, Pro en Volt en de hierdoor ontstane situatie morgen bespreken met het kabinet. Dit debat staat gepland om 10.15 uur.
 
