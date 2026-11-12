@@ -249,17 +249,6 @@
   "page": "128",
   "title": "Moskou en Kyiv bereid om te praten"
  },
- "nos-tt-0a399285bc6908bf": {
-  "body": [
-   "Staatssecretaris Erkens van Landbouw moet alsnog beoordelen of drie boeren de staarten van hun varkens wel mochten couperen. Dat heeft de rechter bepaald in een zaak die was aangespannen door de stichting Varkens in Nood.",
-   "De stichting had Erkens om handhaving gevraagd, omdat couperen alleen mag in uitzonderingssituaties. Het verzoek werd afgewezen omdat de regels op dat punt niet duidelijk zouden zijn. Maar volgens de rechter bieden de regels voldoende handvatten om toezicht te houden.",
-   "Varkensboeren knippen krulstaarten vaak korter om staartbijten te voorkomen. Volgens Varkens in Nood is het echte probleem dat de hokken te krap zijn."
-  ],
-  "first": "Tue, 13 Oct 2026 10:39:00 +0000",
-  "last": "Tue, 13 Oct 2026 20:28:36 +0000",
-  "page": "111",
-  "title": "Varkens in Nood wint staarten-zaak"
- },
  "nos-tt-0a725f1cead71f92": {
   "body": [
    "De Servische centrale bank heeft de vergunning ingetrokken van Alta Banka, een bank die sterk aan de overheid is gelieerd. Daarmee treft de afname van de macht van de kliek rond oud-president Vucic ook de financiële sector. De liquiditeit van Alta was onvoldoende.",
@@ -725,6 +714,17 @@
   "last": "Wed, 04 Nov 2026 14:50:39 +0000",
   "page": "104",
   "title": "Vuurwerkaanhoudingen bij De Kuip"
+ },
+ "nos-tt-2241b5baebfe2729": {
+  "body": [
+   "President Zelensky van Oekraïne meldt dat er de laatste dagen vooral langs de frontlinie en gebieden die door Rusland zijn bezet opnieuw vertraging is in de verbinding van het satellietnetwerk Starlink. Hij spreekt van \"systematische snelheidsbeperkingen\".",
+   "Daardoor kunnen Russische drones niet op tijd worden onderschept en kunnen verdedigingsdrones niet harder vliegen dan 161 km/u. Rusland heeft daardoor al verschillende aanvallen op Oekraïne kunnen uitvoeren.",
+   "Oekraïne maakt gebruik van Starshield, de militaire versie van Starlink, dat van Elon Musk is. Het is essentieel voor de verdediging van het luchtruim."
+  ],
+  "first": "Thu, 12 Nov 2026 10:51:56 +0000",
+  "last": "Thu, 12 Nov 2026 10:51:56 +0000",
+  "page": "127",
+  "title": "Weer problemen Starlink in Oekraïne"
  },
  "nos-tt-2246138e279d1cea": {
   "aliassen": [
@@ -1901,7 +1901,7 @@
    "De Tweede Kamer debatteert vanaf 10.15 uur over het belastingplan. Daarna wordt er gestemd. De vraag is wat de VVD doet als D66 en CDA voor het aangepaste plan stemmen. Als Yesilgöz de stekker eruit trekt, kan het kabinet vallen."
   ],
   "first": "Thu, 12 Nov 2026 07:18:40 +0000",
-  "last": "Thu, 12 Nov 2026 10:21:40 +0000",
+  "last": "Thu, 12 Nov 2026 10:51:56 +0000",
   "page": "106",
   "title": "Cruciale dag met debat en stemming"
  },
@@ -3199,7 +3199,7 @@
    "Het afgelopen jaar liepen 4,7 miljoen Nederlanders een sportblessure op. De knie werd daarbij het meest belast, gevolgd door de enkel. Op de derde plaats staat de schouder."
   ],
   "first": "Thu, 12 Nov 2026 05:17:19 +0000",
-  "last": "Thu, 12 Nov 2026 10:21:40 +0000",
+  "last": "Thu, 12 Nov 2026 10:51:56 +0000",
   "page": "111",
   "title": "Aantal schouderblessures neemt toe"
  },
@@ -3427,7 +3427,7 @@
    "De VVD zei gisteravond een \"reset\" van het kabinet te willen als D66 en CDA instemmen met de aanpassing over een hogere belasting voor vermogenden. De VVD vindt dat een slecht plan."
   ],
   "first": "Thu, 12 Nov 2026 09:21:02 +0000",
-  "last": "Thu, 12 Nov 2026 10:21:40 +0000",
+  "last": "Thu, 12 Nov 2026 10:51:56 +0000",
   "page": "105",
   "title": "Bontenbal verwacht stevig debat"
  },
@@ -3438,7 +3438,7 @@
    "Bij de tussentijdse verkiezingen hebben de Democraten ook een meerderheid behaald in het Huis van Afgevaardigden."
   ],
   "first": "Thu, 12 Nov 2026 01:14:30 +0000",
-  "last": "Thu, 12 Nov 2026 10:21:40 +0000",
+  "last": "Thu, 12 Nov 2026 10:36:49 +0000",
   "page": "125",
   "title": "Ook winst Democraten in Mississippi"
  },
@@ -3526,10 +3526,10 @@
   "body": [
    "Verschillende fracties hebben in het debat over het belastingplan kritiek geuit op de wijzigingen die Pro en Volt voorstellen. 50Plus-leider Struijs heeft de plannen laten doorrekenen en zegt dat 900.000 mensen die alleen AOW krijgen er niet op vooruit gaan.",
    "BBB-leider Vermeer zegt dat Pro-leider Klaver overdrijft als hij zijn plan een \"miljonairsbelasting\" noemt. Mensen die als belegging panden hebben in plaats van geld op de bank, worden door het plan wel extra belast, is zijn kritiek.",
-   "Pro-leider Klaver zei dat deze groep zeer beperkt is. Hij begon het debat en zei dat hij trots is op de deal die hij met D66 en CDA heeft gesloten."
+   "PVV-leider Wilders zegt dat D66 en CDA door de pijngrens van de VVD zijn gegaan en dat ze Pro-leider Klaver de baas van Nederland hebben gemaakt."
   ],
   "first": "Thu, 12 Nov 2026 10:21:40 +0000",
-  "last": "Thu, 12 Nov 2026 10:21:40 +0000",
+  "last": "Thu, 12 Nov 2026 10:51:56 +0000",
   "page": "108",
   "title": "Kritiek van fracties op Pro en Volt"
  },
@@ -4413,7 +4413,7 @@
    "Sinds oktober vorig jaar is een staakt-het-vuren van kracht tussen Israël en Hamas, maar Israël voert bijna dagelijks aanvallen uit. Meer dan 1600 Palestijnen zouden daarbij zijn omgekomen."
   ],
   "first": "Thu, 12 Nov 2026 10:06:31 +0000",
-  "last": "Thu, 12 Nov 2026 10:21:40 +0000",
+  "last": "Thu, 12 Nov 2026 10:51:56 +0000",
   "page": "129",
   "title": "Doden bij aanval op ziekenhuis Gaza"
  },
@@ -4993,7 +4993,7 @@
    "Het is niet duidelijk hoeveel mensen worden vermist. Reddingswerkers zoeken onder het puin naar slachtoffers. De zoektocht duurt mogelijk nog dagen."
   ],
   "first": "Thu, 12 Nov 2026 09:21:02 +0000",
-  "last": "Thu, 12 Nov 2026 10:21:40 +0000",
+  "last": "Thu, 12 Nov 2026 10:51:56 +0000",
   "page": "128",
   "title": "Pand NY ingestort, doden en gewonden"
  },
@@ -5499,7 +5499,7 @@
    "Een gouden munt uit Friesland is voor 369.000 euro geveild. Daarmee is de halve Filipsdaalder uit 1580 de duurste Nederlandse provinciale munt ooit. Op de munt staat Filips II, de koning van Spanje en heerser van de Spaanse Nederlanden tijdens de Tachtigjarige Oorlog. Wie de munt heeft gekocht, is niet bekendgemaakt"
   ],
   "first": "Thu, 12 Nov 2026 04:46:58 +0000",
-  "last": "Thu, 12 Nov 2026 10:21:40 +0000",
+  "last": "Thu, 12 Nov 2026 10:51:56 +0000",
   "page": "121",
   "title": "Busje vol met vuurwerk onderschept"
  },
