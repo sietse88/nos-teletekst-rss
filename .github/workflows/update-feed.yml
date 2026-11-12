@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write    # om zelf een opvolger te starten (laatste stap)
 
 concurrency:
   group: update-feed
@@ -40,3 +41,32 @@ jobs:
           # niet onder bash vandaan verandert.
           cp bijwerken.sh "$RUNNER_TEMP/bijwerken.sh"
           bash "$RUNNER_TEMP/bijwerken.sh"
+
+      # Het dagbestand ontstaat pas bij de eerste ophaalronde na 17:00. Sinds eind
+      # oktober 2026 start GitHub nog maar 3 à 4 geplande runs per dag, en viel
+      # 17:00 steeds vaker in een gat (bestand uren te laat). Stopt een run
+      # tussen 11:30 en 17:10 Nederlandse tijd, dan start hij zelf een opvolger
+      # die 5,5 uur doorloopt, zodat er om 17:00 altijd een run loopt. Hooguit
+      # één extra run per dag, niet de hele dag aan elkaar.
+      # Een workflow_dispatch met de eigen sleutel start volgens GitHub altijd
+      # een run (andere gebeurtenissen van die sleutel niet). De opvolger wacht
+      # door `concurrency` tot deze run klaar is.
+      - name: Opvolger starten als 17:00 anders in een gat valt
+        if: success() || failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          nu=$(TZ=Europe/Amsterdam date +%H%M)
+          if [ "$nu" -ge 1130 ] && [ "$nu" -lt 1710 ]; then
+            if curl -sS --fail-with-body -X POST \
+                -H "Authorization: Bearer $GH_TOKEN" \
+                -H "Accept: application/vnd.github+json" \
+                "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/actions/workflows/update-feed.yml/dispatches" \
+                -d '{"ref":"main"}'; then
+              echo "Opvolger gestart (het is $nu in Nederland)."
+            else
+              echo "::warning::Opvolger starten mislukt; de volgende geplande run neemt het over."
+            fi
+          else
+            echo "Geen opvolger nodig (het is $nu in Nederland)."
+          fi
