@@ -160,7 +160,7 @@ In bijna alle grote steden zijn voor vanavond grote demonstraties gepland. In Ca
 
 ## Vanaf 10.15 uur debat in Kamer
 
-Een meerderheid van de Tweede Kamer wil de deal tussen D66, CDA, Pro en Volt en de hierdoor ontstane situatie morgen bespreken met het kabinet. Dit debat staat gepland om 10.15 uur.
+Een meerderheid van de Tweede Kamer wil de deal tussen D66, CDA, Pro en Volt en de hierdoor ontstane situatie bespreken met het kabinet. Dit debat staat gepland om 10.15 uur.
 
 Formeel gezien is het de heropening van het debat over het belastingplan. Daarna wordt er gestemd over het plan en de voorgestelde wijzigingen. De stemmingen zijn een paar uur uitgesteld en dus niet doorgeschoven naar volgende week.
 
