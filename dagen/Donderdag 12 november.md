@@ -138,7 +138,7 @@ Volgens het OM zette P. de beelden op het darkweb, een afgesloten deel van inter
 
 Iran zegt dat het twee olietankers in de Straat van Hormuz heeft aangevallen. De schepen zouden zich niet gehouden hebben aan de route die Iran ingesteld heeft door de nauwe zeestraat.
 
-Volgens Iraanse staatsmedia werden de schepen meermaals gewaarschuwd. Er is nog geen onafhankelijke bevestiging van de aanval van vannacht. Na de explosie zou brand zijn uitgebroken. De schepen vervoerden volgens Iran samen ongeveer vier miljoen vaten ruwe olie.
+Volgens Iraanse staatsmedia werden de schepen meermaals gewaarschuwd. Er is nog geen onafhankelijke bevestiging van de aanval. Na de explosie zou er ook brand zijn uitgebroken. De schepen vervoerden volgens Iran samen ongeveer vier miljoen vaten ruwe olie.
 
 Onder welke vlag de schepen voeren is niet bekend. Ook is niet duidelijk hoe het met de opvarenden gaat. Iran en de VS stelden begin dit jaar beide eigen vaarregels in in de Straat van Hormuz.
 
