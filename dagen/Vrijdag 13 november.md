@@ -186,7 +186,7 @@ KLM begon een intern onderzoek. Dat is gebruikelijk "bij grove overtredingen van
 
 ## Claus deserteerde niet uit leger
 
-Prins Claus von Amsberg, die in 1965 trouwde met prinses Beatrix, had een wat ander oorlogsverleden dan bekend was. Zo deserteerde hij niet uit het Duitse leger en was zijn vader NSDAP-lid.
+Prins Claus von Amsberg, die in 1966 trouwde met prinses Beatrix, had een wat ander oorlogsverleden dan bekend was. Zo deserteerde hij niet uit het Duitse leger en was zijn vader NSDAP-lid.
 
 Dat blijkt uit een biografie van Claus, van journalisten Jutta Chorus en Bas Blokker. De prins vertelde zijn omgeving altijd dat hij bij zijn stationering in Italië in 1945 uit het leger vertrok en zich overgaf aan de Amerikanen.
 
