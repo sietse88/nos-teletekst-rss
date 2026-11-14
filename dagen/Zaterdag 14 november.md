@@ -138,13 +138,13 @@ Na anderhalve dag is de storing volgens Microsoft helemaal verholpen. Daarmee zo
 
 De oorzaak is nog niet bekendgemaakt. Wel is duidelijk dat het geen hack was, maar dat er serverproblemen waren. De storing leidde in meer dan 70 landen tot vooral communicatieproblemen.
 
-## Crisisoverleg tussen D66, VVD en CDA
+## Crisisoverleg kabinet zondag verder
 
-Het crisisoverleg over de toekomst van het minderheidskabinet van D66, VVD en CDA gaat zo beginnen. Premier Jetten, VVD-vicepremier Yesilgöz en vicepremier Van den Brink (CDA) zijn aangekomen op landgoed De Zwaluwenberg in Hilversum.
+Het crisisoverleg over de toekomst van het minderheidskabinet gaat waarschijnlijk zondagochtend verder.
 
-Fractievoorzitters Paternotte (D66), Brekelmans (VVD) en Bontenbal (CDA) sluiten later ook aan. Yesilgöz sprak gisteravond van een mislukt experiment. De verwachting is dat ze een vierde coalitiepartij erbij wil, mogelijk JA21.
+D66-premier Jetten, VVD-leider en vicepremier Yesilgöz, vicepremier Van den Brink (CDA), CDA-partijleider Bontenbal en de fractievoorzitters Paternotte van D66 en Brekelmans van VVD spraken vandaag met elkaar op landgoed De Zwaluwenberg in Hilversum.
 
-Het is niet de verwachting dat D66 en CDA dat meteen zien zitten. Jetten zegt dat er "fundamentele gesprekken" worden gevoerd om tot verbeteringen te komen. Het is afwachten of dat gaat lukken.
+Yesilgöz sprak gisteravond van een mislukt experiment. De verwachting is dat ze een vierde coalitiepartij erbij wil, mogelijk JA21. Jetten zegt dat er "fundamentele gesprekken" worden gevoerd om tot verbeteringen te komen. Het is afwachten of dat gaat lukken.
 
 ## Gijs Naber blijkt opvolger De Walle
 
