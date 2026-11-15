@@ -138,7 +138,7 @@ Na anderhalve dag is de storing volgens Microsoft helemaal verholpen. Daarmee zo
 
 De oorzaak is nog niet bekendgemaakt. Wel is duidelijk dat het geen hack was, maar dat er serverproblemen waren. De storing leidde in meer dan 70 landen tot vooral communicatieproblemen.
 
-## Vandaag weer crisisoverleg kabinet
+## Crisisoverleg kabinet wordt hervat
 
 Het crisisoverleg over de toekomst van het minderheidskabinet gaat vandaag verder op landgoed de Zwaluwenberg in Hilversum.
 
