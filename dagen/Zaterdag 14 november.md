@@ -140,7 +140,7 @@ De oorzaak is nog niet bekendgemaakt. Wel is duidelijk dat het geen hack was, ma
 
 ## Crisisoverleg kabinet wordt hervat
 
-Het crisisoverleg over de toekomst van het minderheidskabinet gaat vandaag verder op landgoed de Zwaluwenberg in Hilversum.
+Het crisisoverleg over de toekomst van het minderheidskabinet is vanmorgen hervat op landgoed De Zwaluwenberg in Hilversum.
 
 Gisteren sprak premier Jetten bij het crisisoverleg aanvankelijk alleen met zijn vicepremiers Yesilgöz (VVD) en Van den Brink (CDA). Later schoven daar de fractievoorzitters Paternotte, Bontenbal en Brekelmans bij aan.
 
