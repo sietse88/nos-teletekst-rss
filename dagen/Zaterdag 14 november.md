@@ -140,11 +140,11 @@ De oorzaak is nog niet bekendgemaakt. Wel is duidelijk dat het geen hack was, ma
 
 ## Vandaag weer crisisoverleg kabinet
 
-Het crisisoverleg over de toekomst van het minderheidskabinet gaat waarschijnlijk zondagochtend verder.
+Het crisisoverleg over de toekomst van het minderheidskabinet gaat waarschijnlijk vanochtend verder.
 
-D66-premier Jetten, VVD-leider en vicepremier Yesilgöz, vicepremier Van den Brink (CDA), CDA-partijleider Bontenbal en de fractievoorzitters Paternotte van D66 en Brekelmans van VVD spraken vandaag met elkaar op landgoed De Zwaluwenberg in Hilversum.
+D66-premier Jetten, VVD-leider en vicepremier Yesilgöz, vicepremier Van den Brink (CDA), CDA-partijleider Bontenbal en de fractievoorzitters Paternotte van D66 en Brekelmans van VVD spraken gisteren met elkaar op landgoed De Zwaluwenberg in Hilversum.
 
-Yesilgöz sprak gisteravond van een mislukt experiment. De verwachting is dat ze een vierde coalitiepartij erbij wil, mogelijk JA21. Jetten zegt dat er "fundamentele gesprekken" worden gevoerd om tot verbeteringen te komen. Het is afwachten of dat gaat lukken.
+Yesilgöz sprak vrijdagavond van een mislukt experiment. De verwachting is dat ze een vierde coalitiepartij erbij wil, mogelijk JA21. Jetten zegt dat er "fundamentele gesprekken" worden gevoerd om tot verbeteringen te komen. Het is afwachten of dat gaat lukken.
 
 ## Gijs Naber blijkt opvolger De Walle
 
