@@ -100,14 +100,14 @@ De eilanden kunnen de toeloop niet aan. De noodtoestand is uitgeroepen en door M
 
 Op een kerstmarkt in België zijn bij een explosie en brand die daarop volgde drie mensen zwaargewond geraakt. Van hen verkeren er twee in kritieke toestand. Twee anderen raakten lichtgewond.
 
-De kerstmarkt in Maredsous in de Waalse provincie Namen werd vanochtend door een zware explosie opgeschrikt; volgens de brandweer mogelijk een gasexplosie. De brand legde twee chalets in de as. Twee andere kramen liepen schade op.
+De kerstmarkt in Maredsous in de Waalse provincie Namen werd gisterochtend door een zware explosie opgeschrikt; volgens de brandweer mogelijk een gasexplosie. De brand legde twee chalets in de as. Twee andere kramen liepen schade op.
 
-Hulpdiensten waren massaal aanwezig. De kerstmarkt is ontruimd en blijft zondag gesloten. De burgemeester van Anhée, waar Maredsous onder valt, heeft na het incident een crisisteam opgericht. De kerstmarkt was sinds vrijdag open.
+Hulpdiensten waren massaal aanwezig. De kerstmarkt werd ontruimd en bleef de rest van de dag dicht. De burgemeester van Anhée, waar Maredsous onder valt, heeft een crisisteam opgericht. De kerstmarkt was sinds vrijdag open.
 
 ## Van Veldhoven later naar klimaattop
 
-Klimaatminister Van Veldhoven gaat pas later naar de klimaattop in Turkije vanwege de kabinetscrisis. Eigenlijk zou ze morgen aankomen in Antalya, maar dat wordt zeker een dag later.
+Klimaatminister Van Veldhoven gaat pas later naar de klimaattop in Turkije vanwege de kabinetscrisis. Eigenlijk zou ze vandaag aankomen in Antalya, maar dat wordt zeker een dag later.
 
-Daardoor mist ze de bijeenkomst waarbij Nederland de circulaire economie op de kaart wilde zetten. Ze zou daar samen met klimaatministers uit andere landen, Eurocommissaris Roswall en een vertegenwoordiger van de VN spreken.
+Daardoor mist ze de bijeenkomst waarop Nederland de circulaire economie op de kaart wilde zetten. Ze zou daar samen met klimaatministers uit andere landen, Eurocommissaris Roswall en een VN-vertegenwoordiger spreken.
 
 Premier Jetten is helemaal niet op de top aanwezig. Hij liet woensdag ook op de zogenoemde leiderstop verstek gaan. Hij is al dagen met de vice-premiers en fractievoorzitters aan het praten over de vertrouwenscrisis in het kabinet.
