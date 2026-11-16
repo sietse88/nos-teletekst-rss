@@ -136,7 +136,7 @@ In een verklaring noemt Pattinson het een eer. "Het is een understatement om te 
 
 Het script voor de nieuwe James Bond is geschreven door Steven Knight, bekend van Peaky Blinders. Denis Villeneuve (Dune) wordt de regisseur. Wanneer de nieuwe Bond is te zien is niet bekend.
 
-## UEFA wil Diallo als preses FIFA
+## UEFA wil Diallo als voorzitter FIFA
 
 De UEFA schuift de Fransman Philippe Diallo naar voren als kandidaat voor het voorzitterschap van de FIFA. Diallo neemt het half maart bij de verkiezing op tegen de huidige FIFA-voorzitter, de omstreden Gianni Infantino.
 
