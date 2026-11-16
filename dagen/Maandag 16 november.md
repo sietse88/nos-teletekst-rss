@@ -126,7 +126,7 @@ Nederland wil uitgeprocedeerde asielzoekers kunnen uitzetten naar Rwanda. Daar w
 
 Nederland werkt hiervoor samen met Duitsland, Oostenrijk, Griekenland en Denemarken. Andere landen, zoals Frankrijk en Spanje, zijn bezorgd, vooral vanwege mogelijke schending van de mensenrechten.
 
-Volgend jaar zouden de eerste migranten naar Rwanda moeten gaan. In eerste instantie wil Nederland alleen alleenstaanden mannen sturen.
+Volgend jaar zouden de eerste migranten naar Rwanda moeten gaan. In eerste instantie wil Nederland alleen alleenstaande mannen sturen.
 
 ## Robert Pattinson wordt James Bond
 
