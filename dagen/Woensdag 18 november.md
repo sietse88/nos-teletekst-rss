@@ -62,7 +62,7 @@ Er wordt maandag en dinsdag opnieuw gestaakt in het streekvervoer. De cao-onderh
 
 In het centrum van Rotterdam is een vrouw vanochtend neergestoken terwijl ze in een auto zat. Omstanders zagen de vrouw van 46 midden op de rijbaan uit de auto stappen en zwaargewond op de weg vallen. Een eveneens 46-jarige man is aangehouden. Onduidelijk is nog of de twee samen in de auto zaten en wat de aanleiding was voor het steekincident.
 
-## 27 jaar voor beramen moord op Trump
+## 27 jaar oor beramen moord op Trump
 
 Een 48-jarige man uit Pakistan is in de VS veroordeeld tot een celstraf van 27 jaar. Hij beraamde een moordaanslag op toenmalig presidentskandidaat Trump in 2024. Ook stonden president Biden en VN-ambassadeur Nikki Haley op de lijst.
 
