@@ -136,7 +136,7 @@ Michael Freeman kreeg het rapport van Epsteins broer. Foto's daarin wijzen volge
 
 Ook ontdekte hij mogelijk defensieve wonden, wat erop zou duiden dat Epstein zich probeerde te verdedigen. Verder denkt hij dat het bed niet hoog genoeg was voor een verhanging.
 
-## Nog veel drempels voor beperkten
+## Vraag naar thuisbatterijen stijgt
 
 Het aantal huishoudens met een thuisbatterij is dit jaar meer dan verdubbeld, naar bijna 430.000. Dat komt vooral door het afschaffen van de salderingsregeling vanaf 1 januari.
 
