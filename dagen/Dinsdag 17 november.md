@@ -138,7 +138,7 @@ Ook ontdekte hij mogelijk defensieve wonden, wat erop zou duiden dat Epstein zic
 
 ## Vraag naar thuisbatterijen stijgt
 
-Het aantal huishoudens met een thuisbatterij is dit jaar meer dan verdubbeld, naar bijna 430.000. Dat komt vooral door het afschaffen van de salderingsregeling vanaf 1 januari.
+Het aantal huishoudens met een thuisbatterij is dit jaar meer dan verdubbeld, naar bijna 430.000. Dat komt vooral door het afschaffen van de salderingsregeling op 1 januari.
 
 Voor de drie miljoen huishoudens met zonnepanelen levert de stroom die ze terugleveren aan het net dan nauwelijks nog iets op. Daarom willen ze hun stroom opslaan in een thuisbatterij, zodat ze die kunnen gebruiken voor momenten dat de zon niet schijnt.
 
