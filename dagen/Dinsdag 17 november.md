@@ -138,11 +138,11 @@ Ook ontdekte hij mogelijk defensieve wonden, wat erop zou duiden dat Epstein zic
 
 ## Nog veel drempels voor beperkten
 
-Nederland is nog niet voldoende aangepast op mensen met een beperking. Dat staat in een rapport van het RIVM. Er is wel meer aandacht voor gekomen, maar er zijn nog steeds veel obstakels, luidt de conclusie.
+Het aantal huishoudens met een thuisbatterij is dit jaar meer dan verdubbeld, naar bijna 430.000. Dat komt vooral door het afschaffen van de salderingsregeling vanaf 1 januari.
 
-Mensen met een beperking hebben nog altijd veel minder vaak betaald werk en verdienen ook minder. Ook zijn de meeste websites en apps niet toegankelijk genoeg en is het lastig om te sporten of naar theaters bioscopen te gaan.
+Voor de drie miljoen huishoudens met zonnepanelen levert de stroom die ze terugleveren aan het net dan nauwelijks nog iets op. Daarom willen ze hun stroom opslaan in een thuisbatterij, zodat ze die kunnen gebruiken voor momenten dat de zon niet schijnt.
 
-Het RIVM ziet ook wat verbeteringen; zo is het openbaar vervoer toegankelijker geworden en krijgen mensen met een beperking vaker aanpassingen aan hun woning en hulpmiddelen.
+De consumentenbond adviseert mensen om eerst goed onderzoek te doen, omdat niet elke verkoper z'n belofte nakomt. Het duurt nu gemiddeld zo'n 15 jaar om een thuisbatterij terug te verdienen.
 
 ## "Kabinet kiest nog steeds niet"
 
