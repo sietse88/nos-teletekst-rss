@@ -144,7 +144,7 @@ Het is voor het eerst dat het hof een staat schuldig bevindt aan genocide. Er is
 
 De presidenten Trump, Poetin en Xi hebben na hun gezamenlijke overleg het Internationaal Strafhof (ICC) met harde woorden bekritiseerd. In tegenstelling tot 125 andere landen erkennen de VS, Rusland en China het hof niet.
 
-De drie stellen in hun slotverklaring dat "respect voor de immuniteit van overheidsfunctionarissen" belangrijk is en dat het ICC "zijn juridictie niet mag misbruiken". Ook spraken ze zich uit voor niet nader omschreven hervormingen bij de Verenigde Naties.
+De drie stellen in hun slotverklaring dat "respect voor de immuniteit van overheidsfunctionarissen" belangrijk is en dat het ICC "zijn jurisdictie niet mag misbruiken". Ook spraken ze zich uit voor niet nader omschreven hervormingen bij de Verenigde Naties.
 
 Concrete afspraken zijn er voor zover bekend niet gemaakt. Wel werden er grote woorden gebruikt om het "historische" belang van de ontmoeting te markeren.
 
