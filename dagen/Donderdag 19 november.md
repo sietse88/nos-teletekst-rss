@@ -166,7 +166,7 @@ De 20-jarige man zou volgens de Duitse politie ook de "logistiek coördinator" z
 
 ## Raket treft hoogste gebouw in Riyad
 
-De hoogste wolkenkrabber van Riyad, de hoofdstad van Saudi-Arabië, is door een raket getroffen. Die was afgevuurd door de Houthi's in Jemen, meldt bronnen aan persbureau Reuters. In de 385 meter hoge PIF Tower zit een investeringsfonds.
+De hoogste wolkenkrabber van Riyad, de hoofdstad van Saudi-Arabië, is door een raket getroffen. Die was afgevuurd door de Houthi's in Jemen, melden bronnen aan persbureau Reuters. In de 385 meter hoge PIF Tower zit een investeringsfonds.
 
 Volgens ooggetuigen werden de ruiten van zeven tot acht etages weggeblazen en raakten delen van de metalen gevel beschadigd. Hoe groot de schade is en of er slachtoffers zijn, is onduidelijk.
 
